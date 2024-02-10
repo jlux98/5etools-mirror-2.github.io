@@ -9001,6 +9001,8 @@ Jandar's
 jander
 Jander
 Jander's
+Jandorf
+Jandorfs
 Janek
 Janele
 Janik
@@ -13154,8 +13156,8 @@ nyxborn
 Nyxborn
 Nyzroth
 Oakenheel
-Oakhurst
-Oakhurst's
+Brachwies
+Brachwies's
 Oakshadow
 Oalian
 oalyz
@@ -15994,7 +15996,7 @@ Shatterkeel's
 Shattershield
 Shattershields
 Shatterskull
-Shatterspike
+Schmetterzacken
 shatterstick
 Shatterstick
 shattersticks

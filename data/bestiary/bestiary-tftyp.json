@@ -316,6 +316,127 @@
 			"hasToken": true
 		},
 		{
+			"name": "Belak der Verbannte",
+			"isNpc": true,
+			"isNamedCreature": true,
+			"source": "TftYP",
+			"page": 9,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"A"
+			],
+			"ac": [
+				11,
+				{
+					"ac": 16,
+					"condition": "with {@spell barkskin}",
+					"braces": true
+				}
+			],
+			"hp": {
+				"average": 27,
+				"formula": "5d8 + 5"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 10,
+			"dex": 12,
+			"con": 13,
+			"int": 12,
+			"wis": 15,
+			"cha": 11,
+			"skill": {
+				"medicine": "+4",
+				"nature": "+3",
+				"perception": "+4"
+			},
+			"passive": 14,
+			"languages": [
+				"Druidic plus any two languages"
+			],
+			"cr": "2",
+			"spellcasting": [
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 12}, {@hit 4} to hit with spell attacks). It has the following druid spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell druidcraft}",
+								"{@spell poison spray}",
+								"{@spell shillelagh}"
+							]
+						},
+						"1": {
+							"slots": 4,
+							"spells": [
+								"{@spell cure wounds}",
+								"{@spell entangle}",
+								"{@spell faerie fire}",
+								"{@spell thunderwave}"
+							]
+						},
+						"2": {
+							"slots": 3,
+							"spells": [
+								"{@spell barkskin}",
+								"{@spell flaming sphere}"
+							]
+						}
+					},
+					"ability": "wis"
+				}
+			],
+			"action": [
+				{
+					"name": "Quarterstaff",
+					"entries": [
+						"{@atk mw} {@hit 2} to hit ({@hit 4} to hit with shillelagh), reach 5 ft., one target. {@h}3 ({@damage 1d6}) bludgeoning damage, or 6 ({@damage 1d8 + 2}) bludgeoning damage with shillelagh or if wielded with two hands."
+					]
+				}
+			],
+			"attachedItems": [
+				"quarterstaff|phb"
+			],
+			"languageTags": [
+				"DU",
+				"X"
+			],
+			"damageTags": [
+				"B"
+			],
+			"damageTagsSpell": [
+				"F",
+				"I",
+				"T"
+			],
+			"spellcastingTags": [
+				"CD"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"savingThrowForcedSpell": [
+				"constitution",
+				"dexterity",
+				"strength"
+			],
+			"hasToken": true
+		},
+		{
 			"name": "Bugbear Gardener",
 			"source": "TftYP",
 			"page": 29,
@@ -5189,6 +5310,141 @@
 			"hasToken": true
 		},
 		{
+			"name": "Sharwyn Jandorf",
+			"isNpc": true,
+			"isNamedCreature": true,
+			"source": "TftYP",
+			"page": 242,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 16,
+					"from": [
+						"Barkskin trait"
+					]
+				}
+			],
+			"hp": {
+				"average": 13,
+				"formula": "2d8 + 4"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 11,
+			"dex": 13,
+			"con": 14,
+			"int": 16,
+			"wis": 14,
+			"cha": 9,
+			"skill": {
+				"arcana": "+5",
+				"insight": "+4",
+				"persuasion": "+1"
+			},
+			"passive": 12,
+			"languages": [
+				"Common",
+				"Draconic",
+				"Goblin"
+			],
+			"cr": "1/2",
+			"spellcasting": [
+				{
+					"name": "Spellcasting",
+					"type": "spellcasting",
+					"headerEntries": [
+						"Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). She has the following wizard spells prepared:"
+					],
+					"spells": {
+						"0": {
+							"spells": [
+								"{@spell light}",
+								"{@spell prestidigitation}",
+								"{@spell ray of frost}"
+							]
+						},
+						"1": {
+							"slots": 2,
+							"spells": [
+								"{@spell color spray}",
+								"{@spell magic missile}",
+								"{@spell shield}",
+								"{@spell sleep}"
+							]
+						}
+					},
+					"ability": "int"
+				}
+			],
+			"trait": [
+				{
+					"name": "Barkskin",
+					"entries": [
+						"Sharwyn's AC can't be lower than 16."
+					]
+				},
+				{
+					"name": "Special Equipment",
+					"entries": [
+						"Sharwyn has a {@item spellbook|phb} that contains the spells listed in her Spellcasting trait, plus {@spell detect magic} and {@spell silent image}."
+					]
+				},
+				{
+					"name": "Tree Thrall",
+					"entries": [
+						"If the Gulthias-Baum dies, Sharwyn dies 24 hours later."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Dagger",
+					"entries": [
+						"{@atk mw} {@hit 4}, reach 5 ft., one target. {@h}4 ({@damage 1d4 + 2}) piercing damage."
+					]
+				}
+			],
+			"attachedItems": [
+				"dagger|phb"
+			],
+			"languageTags": [
+				"C",
+				"DR",
+				"GO"
+			],
+			"damageTags": [
+				"P"
+			],
+			"damageTagsSpell": [
+				"C",
+				"O"
+			],
+			"spellcastingTags": [
+				"CW"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"savingThrowForcedSpell": [
+				"dexterity"
+			],
+			"hasToken": true
+		},
+		{
 			"name": "Sir Braford",
 			"isNpc": true,
 			"isNamedCreature": true,
@@ -5271,6 +5527,108 @@
 					"name": "Protection",
 					"entries": [
 						"When a creature Sir Braford can see attacks a target other than him that is within 5 feet of him, he can use a reaction to use his shield to impose disadvantage on the attack roll."
+					]
+				}
+			],
+			"attachedItems": [
+				"longsword|phb"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"S"
+			],
+			"miscTags": [
+				"MLW",
+				"MW"
+			],
+			"hasToken": true,
+			"hasFluff": true
+		},
+		{
+			"name": "Herr von Bruchfurt",
+			"isNpc": true,
+			"isNamedCreature": true,
+			"source": "TftYP",
+			"page": 243,
+			"size": [
+				"M"
+			],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"N",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 18,
+					"from": [
+						"{@item chain mail|phb}",
+						"{@item shield|phb}"
+					]
+				}
+			],
+			"hp": {
+				"average": 19,
+				"formula": "3d8 + 6"
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 16,
+			"dex": 9,
+			"con": 14,
+			"int": 10,
+			"wis": 13,
+			"cha": 14,
+			"skill": {
+				"athletics": "+5",
+				"perception": "+3"
+			},
+			"passive": 13,
+			"languages": [
+				"Common"
+			],
+			"cr": "1/2",
+			"trait": [
+				{
+					"name": "Barkskin",
+					"entries": [
+						"Herr von Bruchfurt's AC can't be lower than 16."
+					]
+				},
+				{
+					"name": "Special Equipment",
+					"entries": [
+						"Herr von Bruchfurt wields {@item Schmetterzacken|tftyp}, a magic longsword that grants a +1 bonus to attack and damage rolls made with it (included in his attack). See the Schmetterzacken handout for the item's other properties."
+					]
+				},
+				{
+					"name": "Tree Thrall",
+					"entries": [
+						"If the Gulthias Tree dies, Herr von Bruchfurt dies 24 hours later."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Longsword",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) slashing damage, or 9 ({@damage 1d10 + 4}) slashing damage if used with two hands."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Protection",
+					"entries": [
+						"When a creature Herr von Bruchfurt can see attacks a target other than him that is within 5 feet of him, he can use a reaction to use his shield to impose disadvantage on the attack roll."
 					]
 				}
 			],

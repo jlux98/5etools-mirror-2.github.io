@@ -7419,6 +7419,295 @@
 			]
 		},
 		{
+			"name": "Tales from the Yawning Portal: Die Zitadelle in Ewiger Nacht",
+			"id": "TftYP-ZEN",
+			"source": "TftYP-ZEN",
+			"parentSource": "TftYP",
+			"group": "supplement",
+			"cover": {
+				"type": "internal",
+				"path": "covers/TftYP.webp"
+			},
+			"published": "2024-02-01",
+			"publishedOrder": 0,
+			"storyline": "Tales from the Yawning Portal",
+			"level": {
+				"start": 1,
+				"end": 3
+			},
+			"contents": [
+				{
+					"name": "Die Zitadelle in Ewiger Nacht",
+					"headers": [
+						"Adventure Synopsis",
+						{
+							"depth": 1,
+							"header": "1. Brachwies."
+						},
+						{
+							"depth": 1,
+							"header": "2. Kobold Den."
+						},
+						{
+							"depth": 1,
+							"header": "3. Goblin Lair."
+						},
+						{
+							"depth": 1,
+							"header": "4. Hidden Grove."
+						},
+						"Running the Adventure",
+						"Brachwies",
+						"The Citadel",
+						"Fortress Level Locations",
+						{
+							"depth": 1,
+							"header": "1. Ledge"
+						},
+						{
+							"depth": 1,
+							"header": "2. Switchback Stairs"
+						},
+						{
+							"depth": 1,
+							"header": "3. Crumbled Courtyard"
+						},
+						{
+							"depth": 1,
+							"header": "4. Tower Shell"
+						},
+						{
+							"depth": 1,
+							"header": "5. Secret Pocket"
+						},
+						{
+							"depth": 1,
+							"header": "6. Old Approach"
+						},
+						{
+							"depth": 1,
+							"header": "7. Gallery of Forlorn Notes"
+						},
+						{
+							"depth": 1,
+							"header": "8. Pressure Plate"
+						},
+						{
+							"depth": 1,
+							"header": "9. Dragon Riddle"
+						},
+						{
+							"depth": 1,
+							"header": "10. Honor Guard"
+						},
+						{
+							"depth": 1,
+							"header": "11. Secret Room"
+						},
+						{
+							"depth": 1,
+							"header": "12. Tomb of a Failed Dragonpriest"
+						},
+						{
+							"depth": 1,
+							"header": "13. Empty Room"
+						},
+						{
+							"depth": 1,
+							"header": "14. Enchanted Water Cache"
+						},
+						{
+							"depth": 1,
+							"header": "15. Dragon Cell"
+						},
+						{
+							"depth": 1,
+							"header": "16. Kobold Guardroom"
+						},
+						{
+							"depth": 1,
+							"header": "17. Dragon Chow"
+						},
+						{
+							"depth": 1,
+							"header": "18. Prison"
+						},
+						{
+							"depth": 1,
+							"header": "19. Hall of Dragons"
+						},
+						{
+							"depth": 1,
+							"header": "20. Kobold Colony"
+						},
+						{
+							"depth": 1,
+							"header": "21. Dragon Throne"
+						},
+						{
+							"depth": 1,
+							"header": "22. Larder"
+						},
+						{
+							"depth": 1,
+							"header": "23. Underdark Access"
+						},
+						{
+							"depth": 1,
+							"header": "24. Trapped Access"
+						},
+						{
+							"depth": 1,
+							"header": "25. Empty Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "26. Dry Fountain"
+						},
+						{
+							"depth": 1,
+							"header": "27. Sanctuary"
+						},
+						{
+							"depth": 1,
+							"header": "28. Infested Cells"
+						},
+						{
+							"depth": 1,
+							"header": "29. Disabled Traps"
+						},
+						{
+							"depth": 1,
+							"header": "30. Mama Rat"
+						},
+						{
+							"depth": 1,
+							"header": "31. Caltrop Hall"
+						},
+						{
+							"depth": 1,
+							"header": "32. Goblin Gate"
+						},
+						{
+							"depth": 1,
+							"header": "33. Practice Range"
+						},
+						{
+							"depth": 1,
+							"header": "34. Goblin Stockade"
+						},
+						{
+							"depth": 1,
+							"header": "35. Trapped Corridor"
+						},
+						{
+							"depth": 1,
+							"header": "36. Goblin Bandits"
+						},
+						{
+							"depth": 1,
+							"header": "37. Trophy Room"
+						},
+						{
+							"depth": 1,
+							"header": "38. Goblin Pantry"
+						},
+						{
+							"depth": 1,
+							"header": "39. Dragon Haze"
+						},
+						{
+							"depth": 1,
+							"header": "40. Goblinville"
+						},
+						{
+							"depth": 1,
+							"header": "41. Hall of the Goblin Chief"
+						},
+						"Grove Level Locations",
+						{
+							"depth": 1,
+							"header": "42. Central Garden"
+						},
+						{
+							"depth": 1,
+							"header": "43. The Great Hunter's Abode"
+						},
+						{
+							"depth": 1,
+							"header": "44. Rift"
+						},
+						{
+							"depth": 1,
+							"header": "45. Rift Node"
+						},
+						{
+							"depth": 1,
+							"header": "46. Old Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "47. Belak's Laboratory"
+						},
+						{
+							"depth": 1,
+							"header": "48. Garden Galleries"
+						},
+						{
+							"depth": 1,
+							"header": "49. Arboretums"
+						},
+						{
+							"depth": 1,
+							"header": "50. Ashardalon's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "51. Dragon Library"
+						},
+						{
+							"depth": 1,
+							"header": "52. Underpass"
+						},
+						{
+							"depth": 1,
+							"header": "53. Belak's Study"
+						},
+						{
+							"depth": 1,
+							"header": "54. Grove Gate"
+						},
+						{
+							"depth": 1,
+							"header": "55. Twilight Grove"
+						},
+						{
+							"depth": 1,
+							"header": "56. The Gulthias Tree"
+						},
+						"Aftermath"
+					]
+				},
+				{
+					"name": "Magic Items",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "A"
+					}
+				},
+				{
+					"name": "Creatures",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "B"
+					}
+				},
+				{
+					"name": "Credits"
+				}
+			]
+		},
+		{
 			"name": "Tales from the Yawning Portal: The Forge of Fury",
 			"id": "TftYP-TFoF",
 			"source": "TftYP-TFoF",
