@@ -7439,24 +7439,24 @@
 				{
 					"name": "Die Zitadelle in Ewiger Nacht",
 					"headers": [
-						"Adventure Synopsis",
+						"Zusammenfassung des Abenteuers",
 						{
 							"depth": 1,
 							"header": "1. Brachwies."
 						},
 						{
 							"depth": 1,
-							"header": "2. Kobold Den."
+							"header": "2. Kobold-Höhle."
 						},
 						{
 							"depth": 1,
-							"header": "3. Goblin Lair."
+							"header": "3. Goblin-Lager."
 						},
 						{
 							"depth": 1,
-							"header": "4. Hidden Grove."
+							"header": "4. Dämmerhain."
 						},
-						"Running the Adventure",
+						"Das Abenteuer leiten",
 						"Brachwies",
 						"The Citadel",
 						"Fortress Level Locations",
