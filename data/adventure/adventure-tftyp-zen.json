@@ -98,34 +98,34 @@
 						},
 						{
 							"type": "entries",
-							"name": "Adventure Hooks",
+							"name": "Abenteuer-Hooks",
 							"page": 10,
 							"entries": [
-								"Adventurers can find the Sunless Citadel within a remote and lonely ravine. The characters can be drawn to the dungeon for any of the following reasons. Relate the information below to the players as necessary to get them interested in journeying to the dungeon site.",
+								"Abenteurer können die Zitadelle in Ewiger Nacht in einer abgelegenen und einsamen Schlucht finden. Die Charaktere können sich durch eine der folgenden Gründe zum Dungeon hingezogen fühlen. Gebe die untenstehenden Informationen an die Spieler um sie dazu zu motivieren, den Dungeon zu bereisen und erkunden.",
 								{
 									"type": "entries",
-									"name": "Going for Glory",
+									"name": "Ruhm und Reichtum",
 									"page": 10,
 									"entries": [
-										"You are eager to make a name for yourself. The legend of the Sunless Citadel is well known locally, and stories indicate it is a place that holds promise for those intent on discovery, glory, and treasure!"
+										"Du willst dir einen Namen machen. Die Legende der Zitadelle in Ewiger Nacht ist unter den Einheimischen weit verbreitet und es werden sich Geschichten erzählt von unergründeten Gängen voll mit Monstern zu erlegen und Reichtum, der nur darauf wartet, erbeutet zu werden!"
 									],
 									"id": "026"
 								},
 								{
 									"type": "entries",
-									"name": "Rescue Mission",
+									"name": "Rettungsmission",
 									"page": 10,
 									"entries": [
-										"Another party of adventurers, locally based, delved into the Sunless Citadel a month past. They were never seen again. Two human members of that ill-fated party were brother and sister, Talgen Jandorf (a fighter) and {@creature Sharwyn Jandorf|TftYP} (a wizard). They were part of an important merchant family based in the nearby village of Brachwies. Kerowyn Jandorf, the matriarch of the family, offers salvage rights to you and your team if you can find and return with the two lost members of her family\u2014or at least return the gold signet rings worn by the missing brother and sister. She also offers a reward of 125 gp per signet ring, per character. If the characters bring back the Jandorfs in good shape (of good mind and body), she offers to double the reward."
+										"Eine andere Gruppe von Abenteurern bestehend aus Einheimischen, stieg vor einem Monat in die Versunkene Zitadelle hinab. Sie wurden nie wieder gesehen. Zwei menschliche Mitglieder der verschwundenen Gruppe waren Geschwister, Talgen Jandorf (ein Fighter) und {@creature Sharwyn Jandorf|TftYP} (eine Magierin). Sie waren Teil einer wichtigen Handelsfamilie, die im nahegelegenen Städtchen Brachwies lebt. Kerowyn Jandorf, die Matriarchin der Familie, verspricht den Spielercharakteren eine Belohnung, falls sie die verlorenen Familienmitglieder wieder nach Hause bringen\u2014oder zumindest falls sie die goldenen Siegelringe zurückführen, die von Bruder und Schwester getragen wurden. Sie bietet eine Belohnung von 125gs pro Siegelring pro Charakter. Falls die Spielercharaktere die Jandorfs in guter Verfassung (körperlich und geistig) zurückbringen bietet sie an, die Belohnung zu verdoppeln."
 									],
 									"id": "027"
 								},
 								{
 									"type": "entries",
-									"name": "Solving a Mystery",
+									"name": "Ein Mysterium aufdecken",
 									"page": 10,
 									"entries": [
-										"The goblin tribe infesting the nearby ruins, called the Sunless Citadel, though no one knows why) sells a single piece of magical fruit to the highest bidder in Brachwies once every midsummer. They've been doing this for the last twelve years. Usually, the fruit sells for around 50 gp, which is all the townsfolk can bring themselves to pay a goblin. The fruit, apparently an apple of perfect hue, heals those who suffer from any disease or other ailment. They sometimes plant the seeds at the center of each fruit, hoping to engender an enchanted apple tree. When the seeds germinate in their proper season, they produce a twiggy mass of twisted sapling stems. Not too long after the saplings reach 2 feet in height, they are stolen\u2014every time. The townsfolk assume the goblins send out thieves to ensure their monopoly of enchanted fruit. You are interested in piercing the mystery associated with how wretched goblins could ever possess such a wonder, and how they steal every sprouting sapling grown from the enchanted fruit's seed. Moreover, you wish to find this rumored tree of healing, hoping to heal an ailing friend or relative."
+										"Der Goblin-Stamm, der sich in den nahegelegenen Ruinen breit gemacht hat, verkauft eine einzelne magische Frucht an den Meistbietenden in Brachwies während jeder Sommersonnenwende. Dies passiert seit 12 Jahren. Normalerweise wird die Frucht für um die 50 Goldstücke verkauft, denn kaum jemand kann es über sich bringen, einem Goblin mehr Geld zu geben. Die Frucht, scheinbar ein Apfel von perfektem Schneeweiß, heilt alle Krankheiten und anderen Leiden. Die Stadtbewohner pflanzen manchmal die Kerne, die im Inneren der Frucht zu finden sind, in der Hoffnung, selbst Zugang zu einem magischen Apfelbaum zu erhalten. Wenn die Samen sprießen und zu einem jungen Baum wachsen, so zeigt sich dieser als eine verworrene Masse knorriger, dunkler Äste. Nicht lange nachdem die Setzlinge einen halben Meter hoch gewachsen sind, werden sie gestohlen\u2014jedes Mal. Die Bewohner des Städtchens vermuten, dass die Goblins Diebe aussenden, um ihr Monopol über die Früchte aufrecht zu erhalten. Die Spieler haben die Möglichkeit, herauszufinden, wie die niederträchtigen Goblins jemals in den Besitz einer solch wunderbaren Frucht kommen könnten und auch wie sie jeden Setzling stehlen können, der aus den magischen Samen wächst. Außerdem könnte es sein, dass ein Spielercharakter den Gerüchten um den Apfel nachgehen möchte, da er selbst einen Freund oder Verwandten heilen möchte."
 									],
 									"id": "028"
 								}
@@ -150,7 +150,9 @@
 									"name": "Gemeindesaal",
 									"page": 10,
 									"entries": [
-										"Hier werden wichtige Entscheidungen über das Leben in Brachwies getroffen, enthält das Büro von Bürgermeister Erik Finkel, einem  {@creature noble || Menschen-Nobelmann}."
+										"{@b Beschreibung:} Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen menschlichen Mann darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt",
+										"Jeder, der einen DC 10 Wisdom ({@skill Survival}) Check schafft, weiß, dass die Statue nach Osten. In dieser Richtung liegt auch die versunkene Zitadelle.",
+										"Hier im Gemeindesaal werden wichtige Entscheidungen über das Leben in Brachwies getroffen, enthält das Büro von Bürgermeister Erik Finkel, einem  {@creature noble || Menschen-Nobelmann}."
 									],
 									"id": "02b"
 								},
@@ -214,9 +216,10 @@
 										"Niemand weiß genau, welchen Zweck die Zitadelle in Ewiger Nacht ursprünglich hatte, aber Legenden deuten darauf hin, dass es einmal als der Unterschlupf eines uralten Drachen-Kultes gedient hat.",
 										"Die Alte Straße windet sich entlang der Aschfahlen Ebene, einer unbelebten Einöde. Ein Charakter, der einen DC 15 Intelligence ({@skill History}) Check schafft, weiß, dass die Verödung einem Wutanfall des Drachen Ashardalon in längst vergangenen Zeiten zugeschrieben wird. Einige Einheimische besitzen dieses Wissen auch.",
 										"Viehhirten führen ihre Herde zum Grasen nicht zu weit ins Feld dieser Tage. Sie sind verängstigt von Geschichten über neue Ungeheuer, die des Nachts umherziehen. Von Zeit zu Zeit wurden Mensch und Vieh, die des Nachts alleine unterwegs waren, am nächsten Tag tot aufgefunden mit Dutzenden von nadelähnlichen Wunden. Niemand hat bisher die Kreaturen gesehen, die dieses Chaos verursachen und sie hinterlassen auch keine wahrnehmbare Spur.",
-										"Die vermisste Abenteurer-Gruppe bestand aus einem Fighter (Talgen Jandorf), einem Wizard ({@creature Sharwyn Jandorf|TftYP}), einem Paladin von Pelor ({@creature Sir Braford|TftYP}), und einem Ranger (Karakas). {@creature Sir Braford|TftYP} war kein Einheimischer und er besaß ein magisches Schwert namens {@item Schmetterzacken|TftYP}.",
-										"Manchmal bringen die Goblins einen anderen Apfel zur Wintersonnenwende ins Städtchen. Dieser Apfel hat Fruchtfleisch so weiß wie Schnee, eine Schale so rot wie Blut und einen Stiel so schwarz wie Ebenholz. Er ist hochgiftig, sogar bei bloßer Berührung. Von keinem der beiden Äpfel sind Proben im Städtchen aufzufinden.",
-										"Garon, der Tavernenwirt des Alten Ebers, erinnert sich an das letzte Mal als jemand anderes als Talgen und Sharwyn nach der Zitadelle in Ewiger Nacht gefragt haben. Vor ungefähr 13 Jahren stellte ein reisender Mensch namens Belak Fragen über diesen Ort, und er hatte einen sehr großen Frosch als Haustier."
+										"Die vermisste Abenteurer-Gruppe bestand aus einem Fighter (Talgen Jandorf), einem Wizard ({@creature Sharwyn Jandorf|TftYP}), einem Paladin von Pelor ({@creature Herr von Bruchfurt|TftYP}), und einem Ranger (Karakas). {@creature Herr von Bruchfurt|TftYP} war kein Einheimischer und er besaß ein magisches Schwert namens {@item Schmetterzacken|TftYP}.",
+										"Manchmal bringen die Goblins einen anderen Apfel zur Sommersonnenwende ins Städtchen. Dieser Apfel hat Fruchtfleisch so weiß wie Schnee, eine Schale so rot wie Blut und einen Stiel so schwarz wie Ebenholz. Er ist hochgiftig. Von keinem der beiden Äpfel sind Proben im Städtchen aufzufinden.",
+										"Garon, der Tavernenwirt des Alten Ebers, erinnert sich an das letzte Mal als jemand anderes als Talgen und Sharwyn nach der Zitadelle in Ewiger Nacht gefragt haben. Vor ungefähr 13 Jahren stellte ein reisender Mensch namens Belak Fragen über diesen Ort, und er hatte einen sehr großen Frosch als Haustier.",
+										"Heinrich Finkel, ein Vorfahre von Bürgermeister Erik Finkel, war ein Vampirjäger. Die Statue vor dem Gemeindesaal wurde errichtet, nachdem er einen Vampir erlegte, der die Städtler über Jahre hinweg terrorisierte"
 									]
 								}
 							],
@@ -3759,7 +3762,7 @@
 												"{@i What about the goblins/Belak?} \"I've heard the goblins talk about the Twilight Grove down below. A wicked old human called Belak\u2014a spellcaster, I suspect\u2014tends an enchanted garden and harvests fruit from something the goblins call the Gulthias-Baum, but they speak of it only in the most terrified of whispers. The enchanted fruit grows on the Gulthias-Baum.\"",
 												"{@i What's the deal with the fruit?} \"The midsummer fruit restores spirit and vigor to those who eat it; the pale midwinter fruit steals the same. Belak allows the goblins to sell the fruit on the surface, but I don't know why.\"",
 												"{@i What about the Zweigplagen?} \"Zweigplagen live in the level below, with the Gulthias-Baum.\"",
-												"{@i What about the lost human adventurers?} \"The goblins caught three of them over a month ago, and they were captives with me in here for a while. They said their names were Talgen, Sharwyn, and {@creature Sir Braford|TftYP}. The goblins kept them in here only about a week before they removed them. Belak wanted them, and that's the last I've heard about that.\""
+												"{@i What about the lost human adventurers?} \"The goblins caught three of them over a month ago, and they were captives with me in here for a while. They said their names were Talgen, Sharwyn, and {@creature Herr von Bruchfurt|TftYP}. The goblins kept them in here only about a week before they removed them. Belak wanted them, and that's the last I've heard about that.\""
 											],
 											"id": "0d3"
 										}
@@ -4043,7 +4046,7 @@
 										"The goblins in area 40 don't join the battle if they hear sounds of violence coming from the north. If the fight turns against the chief, however, he might open the door to area 40 and call for aid, or withdraw to area 40 to continue the fight.",
 										"{@creature Durnn|TftYP} can't surrender for fear of losing face. He won't give up if the opposition includes kobolds. Otherwise, he might call for parley if doing so allows him to avoid death. But he must still look strong while negotiating, so he's unwilling to capitulate in an arrangement that makes him look weak.",
 										"Because {@creature Durnn|TftYP} and his hobgoblins usurped control of the Durbuluk tribe, {@creature Grenl|TftYP} hates them. She also wants to protect her tribe, so she is willing to negotiate a truce if {@creature Durnn|TftYP} falls. {@creature Grenl|TftYP} also hates and envies Belak, and she wants him gone from the citadel so she can control the Gulthias-Baum.",
-										"If captured and interrogated, the goblinoids here know what Erky in {@adventure area 34|TftYP-TSC|0|34. Goblin Stockade} knows, with the following addition: Belak wanted all the living human prisoners sent down to him, but in a fit of anger, {@creature Durnn|TftYP} slew Talgen. Thus, {@creature Durnn|TftYP} sent only Sharwyn and {@creature Sir Braford|TftYP} down to the Twilight Grove."
+										"If captured and interrogated, the goblinoids here know what Erky in {@adventure area 34|TftYP-TSC|0|34. Goblin Stockade} knows, with the following addition: Belak wanted all the living human prisoners sent down to him, but in a fit of anger, {@creature Durnn|TftYP} slew Talgen. Thus, {@creature Durnn|TftYP} sent only Sharwyn and {@creature Herr von Bruchfurt|TftYP} down to the Twilight Grove."
 									],
 									"id": "0f1"
 								},
@@ -8779,7 +8782,7 @@
 										"Cantrips (at will): {@spell druidcraft}, {@spell poison spray}, {@spell shillelagh}",
 										"1st level (4 slots): {@spell cure wounds}, {@spell entangle}, {@spell faerie fire}, {@spell thunderwave}",
 										"2nd level (3 slots): {@spell barkskin}, {@spell flaming sphere}",
-										"Standing with {@creature Belak der Verbannte|TftYP|Belak} are {@creature Sir Braford|TftYP} and {@creature Sharwyn Jandorf|TftYP} (both described in {@adventure appendix B|TftYP-TSC|3}). Belak's {@creature giant frog}, Kulket, lurks stealthily in the branches of the Gulthias-Baum. A character who has a passive Perception score of 15 or higher or succeeds on a DC 15 Wisdom ({@skill Perception}) check spots the frog. If combat breaks out, the frog jumps down and joins the fight in the second round. Three {@creature Zweigplage||Zweigplagen} are here, too."
+										"Standing with {@creature Belak der Verbannte|TftYP|Belak} are {@creature Herr von Bruchfurt|TftYP} and {@creature Sharwyn Jandorf|TftYP} (both described in {@adventure appendix B|TftYP-TSC|3}). Belak's {@creature giant frog}, Kulket, lurks stealthily in the branches of the Gulthias-Baum. A character who has a passive Perception score of 15 or higher or succeeds on a DC 15 Wisdom ({@skill Perception}) check spots the frog. If combat breaks out, the frog jumps down and joins the fight in the second round. Three {@creature Zweigplage||Zweigplagen} are here, too."
 									],
 									"id": "13c"
 								},
@@ -8801,7 +8804,7 @@
 											],
 											"id": "13e"
 										},
-										"While this interaction proceeds, {@creature Sir Braford|TftYP}, the three Zweigplagen, and Belak's frog position themselves between the characters and Belak (Sharwyn stands next to Belak)."
+										"While this interaction proceeds, {@creature Herr von Bruchfurt|TftYP}, the three Zweigplagen, and Belak's frog position themselves between the characters and Belak (Sharwyn stands next to Belak)."
 									],
 									"id": "13d"
 								},
@@ -8810,7 +8813,7 @@
 									"name": "Combat",
 									"page": 31,
 									"entries": [
-										"If a fight breaks out (which will happen unless the characters actually submit to Belak), the {@creature Zweigplage||Zweigplagen}, the {@creature Giant Frog||frog}, and {@creature Sir Braford|TftYP} attack the characters physically. {@creature Sir Braford|TftYP} uses {@item Schmetterzacken|TftYP} (see {@adventure appendix A|TftYP-TSC|2}) to destroy his foe's weapon, if possible.",
+										"If a fight breaks out (which will happen unless the characters actually submit to Belak), the {@creature Zweigplage||Zweigplagen}, the {@creature Giant Frog||frog}, and {@creature Herr von Bruchfurt|TftYP} attack the characters physically. {@creature Herr von Bruchfurt|TftYP} uses {@item Schmetterzacken|TftYP} (see {@adventure appendix A|TftYP-TSC|2}) to destroy his foe's weapon, if possible.",
 										"{@creature Belak der Verbannte|TftYP|Belak} casts {@spell barkskin} on himself, possibly before melee occurs. He also makes early use of his {@item wand of entangle|TftYP} (see {@adventure appendix A|TftYP-TSC|2}), attempting to hold the transgressors in place. If Braford looks like he needs healing, Belak casts healing spells on him, as well. {@creature Sharwyn Jandorf|TftYP|Sharwyn} uses her repertoire of spells to best advantage, resorting to her dagger only in desperation."
 									],
 									"id": "13f"
@@ -8829,7 +8832,7 @@
 									"name": "Targeting the Tree",
 									"page": 31,
 									"entries": [
-										"A successful DC 15 Wisdom ({@skill Insight}) check or Intelligence ({@skill Arcana} or {@skill Nature}) check allows a character to deduce that destroying the tree might have an effect on {@creature Sir Braford|TftYP}, Sharwyn, and the Zweigplagen. If anyone attacks the Gulthias-Baum, Belak and the Zweigplagen try to kill the aggressor. If the Gulthias-Baum dies, Belak loses his influence over the Zweigplagen, Sharwyn, and {@creature Sir Braford|TftYP}. These monsters turn on Belak before targeting the characters again."
+										"A successful DC 15 Wisdom ({@skill Insight}) check or Intelligence ({@skill Arcana} or {@skill Nature}) check allows a character to deduce that destroying the tree might have an effect on {@creature Herr von Bruchfurt|TftYP}, Sharwyn, and the Zweigplagen. If anyone attacks the Gulthias-Baum, Belak and the Zweigplagen try to kill the aggressor. If the Gulthias-Baum dies, Belak loses his influence over the Zweigplagen, Sharwyn, and {@creature Herr von Bruchfurt|TftYP}. These monsters turn on Belak before targeting the characters again."
 									],
 									"id": "141"
 								},
@@ -8872,7 +8875,7 @@
 							"id": "145"
 						},
 						"The mayor is right. Zweigplagen that are already loose in the world can still reproduce through root sprouts, as aspen trees do. Although it is likely a hopeless task, the characters can search out these Zweigplagen and destroy them. It's up to you and your players to determine what happens next. At any rate, if the characters warn Brachwies's residents about the seeds, they have taken their first steps toward gaining a measure of fame and establishing a rapport with local residents.",
-						"In addition, if the characters return the Jandorf signet rings to the family matriarch, they receive the promised monetary award. If they bring back the remains of Sharwyn and {@creature Sir Braford|TftYP}, the matriarch begins funeral arrangements and invites the characters to attend. If they accept, they can begin to establish a long-term relationship with the Jandorf family, which can prove useful in later adventures."
+						"In addition, if the characters return the Jandorf signet rings to the family matriarch, they receive the promised monetary award. If they bring back the remains of Sharwyn and {@creature Herr von Bruchfurt|TftYP}, the matriarch begins funeral arrangements and invites the characters to attend. If they accept, they can begin to establish a long-term relationship with the Jandorf family, which can prove useful in later adventures."
 					],
 					"id": "144"
 				}
@@ -8949,7 +8952,7 @@
 						"{@creature Ooze master|TftYP}",
 						"{@creature Sea Lion|TftYP}",
 						"{@creature Sharwyn Jandorf|TftYP}",
-						"{@creature Sir Braford|TftYP}",
+						"{@creature Herr von Bruchfurt|TftYP}",
 						"{@creature Siren|TftYP}",
 						"{@creature Tarul var|TftYP}",
 						"{@creature Tecuziztecatl|TftYP}",

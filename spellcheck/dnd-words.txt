@@ -808,6 +808,7 @@ Anya
 Anyim
 Anzar
 Aodh
+AOE
 Aoerian
 aojlt
 Aolani
@@ -1237,6 +1238,7 @@ Athreos
 Athreos's
 Atilus
 ation
+atk
 Atlan
 Atris
 Atrith
@@ -2488,6 +2490,7 @@ Brownbug
 Browngnaw
 Broxley
 Brozhdar
+Bruchfurts
 Bruda
 Bruda's
 Bruenor
@@ -4163,6 +4166,7 @@ Devostas
 Devro
 dewlight
 Dewlight
+dex
 Deyda
 Dezdrelda
 Dezina
@@ -4295,6 +4299,7 @@ Djerad
 Djoser
 Dlusker
 dmax
+DMG
 dmin
 Dmitrei
 dmref
@@ -5072,6 +5077,7 @@ Eglath
 Eglendar
 Egnatius
 Egri
+EGW
 Ehecatl
 Ehlissa
 Ehlissa's
@@ -8594,6 +8600,7 @@ Impiltur's
 Impler
 imprek
 improv
+IMR
 Imrit
 Imsa
 Imsa's
@@ -11948,6 +11955,7 @@ Mizzix
 Mizzrym
 Mjenir
 Mlar
+MLW
 Moana
 Moander
 Moarskull
@@ -13069,6 +13077,7 @@ Nothics
 notitle
 nowreturned
 Noxochicoztli
+Npc
 NPC's
 NPC'sflaw
 nplanned
@@ -13599,6 +13608,7 @@ Otaaryliakkarnos's
 Otal
 Otanyn
 Otarian
+OTH
 Othanzia
 Othanzian
 Othe
@@ -13961,6 +13971,7 @@ Pharra's
 Phaulkon
 Phaulkonmere
 Phaulkons
+phb
 PHB
 Phelaia
 Phelnidus
@@ -14760,6 +14771,7 @@ razorvine
 Razorvine
 razorvine's
 Razu
+RCH
 Readaloud
 Reaghan
 realise
@@ -15023,6 +15035,7 @@ rinaldo
 Rinaldo
 Rinaldo's
 Rindawan
+Rindenhaut
 Rinecot
 Ringlerun
 Ringlerun's
@@ -15644,6 +15657,7 @@ Scumbleduck
 Scymir
 Scython
 Scython's
+SDW
 Seabreaker
 Seadeeps
 Seadragon
@@ -15995,6 +16009,7 @@ Sharpwatch
 Sharpwatch's
 Sharwyn
 Sharwyn's
+Sharwyns
 Shash
 Shassa
 Shatha
@@ -16012,6 +16027,7 @@ Shatterkeel's
 Shattershield
 Shattershields
 Shatterskull
+Shatterspike
 shatterstick
 Shatterstick
 shattersticks
@@ -16522,6 +16538,7 @@ Slubb
 Slurmy
 Slurtongue
 sluth
+SLW
 Slyra
 smallscale
 Smallstone
@@ -16777,7 +16794,9 @@ spiderlike
 Spiderlily
 spidersilk
 Spiderwatch
+Spielercharakter
 Spielercharaktere
+Spielercharakteren
 Spikefist
 Spikewheel
 spinagons
@@ -16842,6 +16861,7 @@ stablehand's
 stablemaster
 Stablemasters
 Stacee
+Städtler
 stagefrights
 Staget
 Staggersoul
@@ -18241,6 +18261,7 @@ Thutai
 Thute
 Thuun
 Thuunlakalaga
+THW
 Thwad
 thwick
 Thwip
@@ -20277,6 +20298,7 @@ Winterstalker
 wireframe
 Wiri
 Wirsidda
+wis
 Wisewoman
 Wiston
 witchlight

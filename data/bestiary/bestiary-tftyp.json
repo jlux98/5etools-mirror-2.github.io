@@ -5332,7 +5332,7 @@
 				{
 					"ac": 16,
 					"from": [
-						"Barkskin trait"
+						"Rindenhaut"
 					]
 				}
 			],
@@ -5356,8 +5356,8 @@
 			},
 			"passive": 12,
 			"languages": [
-				"Common",
-				"Draconic",
+				"Gemeinsprache",
+				"Drakonisch",
 				"Goblin"
 			],
 			"cr": "1/2",
@@ -5366,7 +5366,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 13}, {@hit 5} to hit with spell attacks). She has the following wizard spells prepared:"
+						"Sharwyn ist ein Spellcaster auf Level 1. Ihr Spellcasting-Attribut ist Intelligenz (Spell Save {@dc 13}, {@hit 5} to hit mit magischen Angriffen). Sie hat die folgenden Zauber vorbereitet:"
 					],
 					"spells": {
 						"0": {
@@ -5391,21 +5391,23 @@
 			],
 			"trait": [
 				{
-					"name": "Barkskin",
+					"name": "Rindenhaut",
 					"entries": [
-						"Sharwyn's AC can't be lower than 16."
+						"Sharwyns AC kann nicht niedriger als 16 sein."
 					]
 				},
 				{
-					"name": "Special Equipment",
+					"name": "Spezielle Ausrüstung",
 					"entries": [
-						"Sharwyn has a {@item spellbook|phb} that contains the spells listed in her Spellcasting trait, plus {@spell detect magic} and {@spell silent image}."
+						"Sharwyn hat ein {@item spellbook|phb|Zauberbuch}, das die Zauber enthält, die in ihrem Spellcasting-Trait aufgelistet sind, außerdem {@spell detect magic} und {@spell silent image}."
 					]
 				},
 				{
-					"name": "Tree Thrall",
+					"name": "Baumsklave",
 					"entries": [
-						"If the Gulthias-Baum dies, Sharwyn dies 24 hours later."
+						"Falls der Gulthias-Baum stirbt, dann stirbt Sharwyn 24 Stunden später.",
+						"Ich habe mich entschieden, diesen Trait auszulassen, da ich den Spielercharakteren die Möglichkeit geben möchte, die kontrollierten NPCs zu retten.",
+						" Ich habe mich entschieden, dass stattdessen die NPCs in ein Koma fallen und nach 24 Stunden wieder aufwachen und sowohl frei von der Rindenhaut als auch von der Gedankenkontrolle sind."
 					]
 				}
 			],
@@ -5593,26 +5595,28 @@
 			},
 			"passive": 13,
 			"languages": [
-				"Common"
+				"Gemeinsprache"
 			],
 			"cr": "1/2",
 			"trait": [
 				{
-					"name": "Barkskin",
+					"name": "Rindenhaut",
 					"entries": [
-						"Herr von Bruchfurt's AC can't be lower than 16."
+						"Herr von Bruchfurts AC kann nicht niedriger als 16 sein."
 					]
 				},
 				{
-					"name": "Special Equipment",
+					"name": "Spezielle Ausrüstung",
 					"entries": [
-						"Herr von Bruchfurt wields {@item Schmetterzacken|tftyp}, a magic longsword that grants a +1 bonus to attack and damage rolls made with it (included in his attack). See the Schmetterzacken handout for the item's other properties."
+						"Herr von Bruchfurt führt {@item Schmetterzacken|tftyp}, ein magisches Langschwert, das +1 zu Angriffs- und Schadenswürfen gibt. Das Schmetterzacken-Handout enthält die weiteren Details zu dieser Waffe."
 					]
 				},
 				{
-					"name": "Tree Thrall",
+					"name": "Baumsklave",
 					"entries": [
-						"If the Gulthias Tree dies, Herr von Bruchfurt dies 24 hours later."
+						"Falls der Gulthias-Baum stirbt, dann stirbt Sharwyn 24 Stunden später.",
+						"Ich habe mich entschieden, diesen Trait auszulassen, da ich den Spielercharakteren die Möglichkeit geben möchte, die kontrollierten NPCs zu retten.",
+						"Ich habe mich entschieden, dass stattdessen die NPCs in ein Koma fallen und nach 24 Stunden wieder aufwachen und sowohl frei von der Rindenhaut als auch von der Gedankenkontrolle sind."
 					]
 				}
 			],
