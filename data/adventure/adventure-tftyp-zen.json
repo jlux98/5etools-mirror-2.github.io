@@ -72,7 +72,7 @@
 							"name": "Jahreszeit",
 							"page": 10,
 							"entries": [
-								"Falls du möchtest, dass die Charaktere die möglichkeit haben, eine Frucht zu finden, dann beginne das Abenteuer ein paar Wochen bevor entweder der Sommersonnenwende oder der Wintersonnenwende. Neben dem Fakt, dass eine Frucht am Gulthias-Baum zugänglich wird, liefert die Wahl einer Jahreszeit zusätzliche Details um die Welt in Szene zu setzen. Dies kann die Atmosphäre des Abenteuers stark verbessern",
+								"Falls du möchtest, dass die Charaktere die Möglichkeit haben, eine Frucht zu finden, dann beginne das Abenteuer ein paar Wochen bevor entweder der Sommersonnenwende oder der Wintersonnenwende. Neben dem Fakt, dass eine Frucht am Gulthias-Baum zugänglich wird, liefert die Wahl einer Jahreszeit zusätzliche Details um die Welt in Szene zu setzen. Dies kann die Atmosphäre des Abenteuers stark verbessern",
 								"Ich habe mich dazu entschlossen, die Spielercharaktere kurz vor der Sommersonnenwende antreffen zu lassen, da einer ihrer Hooks sich darum dreht, einen giftigen Apfel aus dem Dungeon zu bergen.",
 								"Falls du den Sommer wählst, dann sind die Hügel üppig bewachsen aber die Hitze nimmt bedrückende Dimensionen an. Falls die Charaktere im Winter das Abenteuer begehen dann halten die Temperaturen sich tagsüber geradeso über dem Gefrierpunkt und fallen nachts rapide ab",
 								{
@@ -140,6 +140,22 @@
 					"name": "Brachwies",
 					"page": 10,
 					"entries": [
+						{
+							"type": "insetReadaloud",
+							"entries": [
+								"Die harte Junisonne steht schon im Zenit als ihr den Wald verlasst, durch den ihr den gesamten Morgen gereist seid. Ihr steht auf der Kuppe eines Hügels und vor euch erstreckt sich eine weite, mit Gräsern und Sträuchern bewachsene Ebene.",
+								"Der Hohlweg, der euch durch den Wald gebracht hat, zieht sich geradeaus weiter durch die Ebene bis er auf ein kleines Städtchen trifft - das muss Brachwies sein, die letzte Station vor der Himmelskette. Von Brachwies aus windet sich eine alte, befestigte Straße nach Westen, über Wiesen, die am Horizont eine gräuliche Färbung annehmen. Außerdem zieht sich von Brachwies aus nach Nord-Osten ein gerade Hohlweg - die Straße nach Ankersheim."
+							],
+							"id": "02aa"
+						},
+						"Sobald die Gruppe sich dem Städtchen nähert oder die Stadt betritt wird der Warlock eine Nachricht von seinem Patron bekommen:",
+						{
+							"type": "insetReadaloud",
+							"entries": [
+								"Mein kleiner Soldat, ich habe eine Mission für dich! Ich habe Gerüchte gehört, dass hier irgendwo ein Goblin-Stamm lebt, der verfluchte Äpfel besitzt - hör dich unter den Einheimischen um und versuche, mir einen dieser Äpfel zu besorgen. Bringe ihn nach Ankersheim und ich werde mich dir gegenüber äußerst erkenntlich zeigen."
+							],
+							"id": "02ab"
+						},
 						"Die Gemeinde, die am Nächsten an der Zitadelle in ewiger Nacht liegt, ist ein Städtchen namens Brachwies. Die meisten seiner 900 Einwohner (außerhalb lebende Bauernfamilien mit eingerechnet) sind Menschen, außerdem gibt es eine kleinen Gruppe Halblinge und eine handvoll anderer Rassen",
 						"Bemerkenswerte Orte in Brachwies und die Leute, die dort gefunden werden können, sind die Folgenden:",
 						{
@@ -150,8 +166,14 @@
 									"name": "Gemeindesaal",
 									"page": 10,
 									"entries": [
-										"{@b Beschreibung:} Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen menschlichen Mann darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt",
-										"Jeder, der einen DC 10 Wisdom ({@skill Survival}) Check schafft, weiß, dass die Statue nach Osten. In dieser Richtung liegt auch die versunkene Zitadelle.",
+										{
+											"type": "insetReadaloud",
+												"entries": [
+													"Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen menschlichen Mann darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt",
+													"Jeder, der einen DC 10 Wisdom ({@skill Survival}) Check schafft, weiß, dass die Statue nach Osten zeigt. In dieser Richtung liegt auch die versunkene Zitadelle."
+												],
+												"id": "02ba"
+										},
 										"Hier im Gemeindesaal werden wichtige Entscheidungen über das Leben in Brachwies getroffen, enthält das Büro von Bürgermeister Erik Finkel, einem  {@creature noble || Menschen-Nobelmann}."
 									],
 									"id": "02b"
