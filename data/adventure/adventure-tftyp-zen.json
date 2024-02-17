@@ -251,7 +251,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Wilderness Encounters",
+							"name": "Zusammenstöße in der Wildnis",
 							"page": 11,
 							"entries": [
 								"Falls die Charaktere sich nach Sonnenuntergang irgendwo zwischen Brachwies und der Zitadelle aufhalten, werden vier {@creature Zweigplage||Zweigplagen} die Gruppe angreifen. Die Plagen greifen verstohlen aus dem Gebüsch an.",
@@ -262,22 +262,22 @@
 									"entries": [
 										"Ein Drachen-Kult, der sehr viel Wert auf Verteidigung und Verschwiegenheit legte, erbaute diese Zitadelle vor langer Zeit auf der Oberfläche. Alle Aufzeichnungen über den Namen dieses Kultes sind über die Jahre verschwinden, aber viele Quellen glauben, dass er etwas mit dem Drachen Ashardalon zu tun hatte. Die Katastrophe, die die Mitglieder des Kultes tötete, versenkte auch die Festung zur selben Zeit. Durch Überreste alter Verzauberungen blieben viele Teile des Gebäudes nach dem Sturz unter die Erde intakt. Nach dem Tod der Kultisten nahmen Goblins und andere Kreaturen die Ruinen für sich in Anspruch und sie überlebten hier für hunderte von Jahren.",
 										"Die Goblins, die zu dem Durbuluk-Stamm (\"Dominator\" in Goblin) gehören, patrouillierten einst die Gebiete um die herum um Passanten zu überfallen und auszurauben. Aber jetzt, wo die Alte Straße nicht mehr genutzt wird, schenken die Goblins diesem Eingang selten ihre Aufmerksamkeit. Außerdem ist ein Stamm von Kobolden vor Kurzem aufgetaucht um den Goblins die Vorherrschaft in der Festung streitig zu machen. Die Gruppen bekämpfen einander in kleineren Scharmützeln und machen sich nicht viele Sorgen um Eindringlinge. Deshalb bietet die Kluft den Charakteren eine gute Möglichkeit, unbemerkt in den Dungeon vorzustoßen. (Die Gruppe, die in der Zitadelle verloren gegangen ist, tat genau dasselbe; das Seit an einer der Säulen neben der Klamm gehörte zu ihnen.)",
-										"Though the kobolds ({@adventure areas 13|TftYP-ZEN|0|13. Empty Room}\u2013{@adventure 24|TftYP-ZEN|0|24. Trapped Access}) and the goblins ({@adventure areas 31|TftYP-ZEN|0|31. Caltrop Hall}\u2013{@adventure 41|TftYP-ZEN|0|41. Hall of the Goblin Chief}) claim the Sunless Citadel as their property, they've never visited all its chambers. They avoid entering the most secluded parts of the grove level. In the past, they feared that the hidden grove was haunted. With the arrival of {@creature Belak der Verbannte|TftYP} twelve years ago, that belief is vindicated. He orders the goblins to distribute the midsummer fruit each year, and the goblins obey him out of fear.",
+										"Obwohl sowohl die Kobolde ({@adventure areas 13|TftYP-ZEN|0|13. Leerer Raum}\u2013{@adventure 24|TftYP-ZEN|0|24. Mit Fallen versehener Zugang}) und die Goblins ({@adventure areas 31|TftYP-ZEN|0|31. Halle der Krähenfüße}\u2013{@adventure 41|TftYP-ZEN|0|41. Halle des Goblin-Oberhauptes}) die Zitadelle als ihr Eigentum einfordern hat keine der beiden Fraktionen je alle Kammern besucht. Sie meiden die abgelegensten Orte auf dem Stockwerk des Hains. In der Vergangenheit fürchteten sie, dass der versteckte Hain heimgesucht sei. Mit der Ankunft von {@creature Belak der Verbannte|TftYP|Belak} vor zwölf Jahren hat sich dieser Glaube bewahrheitet. Er befiehlt den Goblins Jahr um Jahr, die Früchte zu verteilen und sie gehorchen ihm aus Angst.",
 										{
 											"type": "entries",
-											"name": "Monsters on Alert",
+											"name": "Monster in Alarmbereitschaft",
 											"page": 11,
 											"entries": [
-												"The kobolds and the goblins respond similarly if attacked. Intruders who fall back to take a long rest before dealing with the leaders of an attacked community allow the creatures time to make preparations. Alerted monsters reinforce cleared rooms with forces previously stationed in other rooms. For example, three kobolds from one {@adventure area 16|TftYP-ZEN|0|16. Kobold Guardroom} could be stationed in {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell} with orders to set an ambush for returning invaders. Or, four goblins from one {@adventure area 36|TftYP-ZEN|0|36. Goblin Bandits} could be redeployed to {@adventure area 32|TftYP-ZEN|0|32. Goblin Gate} to guard against another intrusion. Keep track of such changes, so that the characters don't encounter the same kobolds or goblins twice."
+												"Die Kobolde und die Goblins zeigen ähnliche Reaktionen wenn sie attackiert werden. Wenn Eindringlinge eine dieser beiden Fraktionen angreifen und sich dann zurückziehen und eine lange Rast absolvieren ohne den Anführer der Fraktion aus dem Weg geschafft zu haben, dann haben die angegriffenen Kreaturen die Möglichkeit, sich auf ein erneutes Eindringen vorzubereiten. Alarmierte Monster besetzen bereits ausgeleerte Räume mit Wachen, die vorher in anderen Räumen stationiert waren. Beispielsweise könnten drei Kobolde aus einer {@adventure Wachstube|TftYP-ZEN|0|16. Kobold Wachstube} in {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} stationiert werden mit der Aufgabe, einen Hinterhalt für zurückkehrende Eindringlinge zu legen. Oder es könnten vier Goblins aus {@adventure Areal 36|TftYP-ZEN|0|36. Goblin-Banditen} abgezogen und an der {@adventure Goblin-Pforte (Areal 32)|TftYP-ZEN|0|32. Goblin-Pforte} stationiert werden. Mache Aufzeichnungen über solche Änderungen, damit die Charaktere nicht denselben Goblins zweimal begegnen. Aber da du der Spielleiter bist denke auch daran: die Spieler wissen nur, was du ihnen sagst, und solange sie nicht jeden Raum innerhalb kurzer Zeit durchsucht haben und du ihnen keine feste Anzahl an Goblins oder Kobolden nennst gibt es in dieser Zitadelle so viele Kobolde und Goblins wie du brauchst."
 											],
 											"id": "034"
 										},
 										{
 											"type": "entries",
-											"name": "Random Treasure",
+											"name": "Zufällige Schätze",
 											"page": 11,
 											"entries": [
-												"Each regular kobold and goblin is likely to have {@dice 2d10} sp, perhaps in the form of various coins and crude jewelry."
+												"Jeder normale Kobold oder Goblin hat wahrscheinlich {@dice 2d10} Silberstücke in Form von vielerlei Münzen und krudem Schmuck an seiner Person."
 											],
 											"id": "035"
 										}
@@ -292,7 +292,7 @@
 				},
 				{
 					"type": "section",
-					"name": "The Citadel",
+					"name": "Die Zitadelle",
 					"page": 11,
 					"entries": [
 						{
@@ -382,7 +382,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Fortress Level Locations",
+					"name": "Orte in der Festung",
 					"page": 12,
 					"entries": [
 						{
@@ -2436,7 +2436,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "1. Ledge",
+							"name": "1. Vorsprung",
 							"page": 12,
 							"entries": [
 								{
@@ -2471,7 +2471,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "2. Switchback Stairs",
+							"name": "2. Zickzack-Treppe",
 							"page": 12,
 							"entries": [
 								"The 5-foot-wide stairs that descend from area 1 are roughly carved. They aren't dangerous to traverse, however, except that combat while on the narrow path can be risky. Three small landings lie along the route, the first at 60 feet above the floor in area 3, the second at 40 feet, and the third at 20 feet.",
@@ -2488,7 +2488,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "3. Crumbled Courtyard",
+							"name": "3. Zerfallender Hof",
 							"page": 12,
 							"entries": [
 								{
@@ -2550,7 +2550,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "4. Tower Shell",
+							"name": "4. Ausgehöhlter Turm",
 							"page": 13,
 							"entries": [
 								{
@@ -2592,7 +2592,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "5. Secret Pocket",
+							"name": "5. Geheime Kammer",
 							"page": 13,
 							"entries": [
 								{
@@ -2617,7 +2617,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "6. Old Approach",
+							"name": "6. Alter Zugang",
 							"page": 14,
 							"entries": [
 								{
@@ -2650,7 +2650,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "7. Gallery of Forlorn Notes",
+							"name": "7. Galerie der Aussichtslosen Noten",
 							"page": 14,
 							"entries": [
 								{
@@ -2669,7 +2669,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "8. Pressure Plate",
+							"name": "8. Druckplatte",
 							"page": 14,
 							"entries": [
 								{
@@ -2694,7 +2694,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "9. Dragon Riddle",
+							"name": "9. Drachenrätsel",
 							"page": 14,
 							"entries": [
 								{
@@ -2747,7 +2747,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "10. Honor Guard",
+							"name": "10. Ehrengarde",
 							"page": 15,
 							"entries": [
 								{
@@ -2808,7 +2808,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "11. Secret Room",
+							"name": "11. Geheimer Raum",
 							"page": 15,
 							"entries": [
 								{
@@ -2841,7 +2841,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "12. Tomb of a Failed Dragonpriest",
+							"name": "12. Grab Eines Gescheiterten Drachenpriesters",
 							"page": 15,
 							"entries": [
 								{
@@ -2960,7 +2960,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "13. Empty Room",
+							"name": "13. Leerer Raum",
 							"page": 16,
 							"entries": [
 								"Several empty rooms in the fortress have the same characteristics. Nothing of note can be found in any of them.",
@@ -2976,7 +2976,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "14. Enchanted Water Cache",
+							"name": "14. Verwunschener Wasserspeicher",
 							"page": 16,
 							"entries": [
 								{
@@ -3019,7 +3019,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "15. Dragon Cell",
+							"name": "15. Drachenzelle",
 							"page": 16,
 							"entries": [
 								{
@@ -3083,7 +3083,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "16. Kobold Guardroom",
+							"name": "16. Kobold Wachstube",
 							"page": 17,
 							"entries": [
 								"Three rooms in the fortress serve as kobold guard stations. All have the same characteristics.",
@@ -3120,7 +3120,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "17. Dragon Chow",
+							"name": "17. Drachenfraß",
 							"page": 17,
 							"entries": [
 								"A character who approaches the door can smell the stench of what lies beyond. If the door is opened, read:",
@@ -3145,7 +3145,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "18. Prison",
+							"name": "18. Gefängnis",
 							"page": 18,
 							"entries": [
 								"Each door that lead to the prison chamber is locked, requiring a DC 15 Dexterity check using thieves' tools to unlock, and also barred on the outside with an iron rod. If a character attempts to open either door while any kobolds are present, the kobolds warn against doing so. Opening a door in spite of this warning turns the kobolds hostile.",
@@ -3171,7 +3171,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "19. Hall of Dragons",
+							"name": "19. Halle der Drachen",
 							"page": 18,
 							"entries": [
 								{
@@ -3204,7 +3204,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "20. Kobold Colony",
+							"name": "20. Kobold-Kolonie",
 							"page": 18,
 							"entries": [
 								"The strong wooden door that leads to the kobolds' living quarters is barred from the inside. Characters who give the proper password (\"Ticklecorn!\" spoken in Draconic; see {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell}) or who make a successful DC 15 Charisma ({@skill Deception}) check can convince the kobolds within to unbar the door. Otherwise, the kobolds open the door only when guards return to the room for a shift change.",
@@ -3223,7 +3223,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "21. Dragon Throne",
+							"name": "21. Drachenthron",
 							"page": 18,
 							"entries": [
 								{
@@ -3290,7 +3290,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "22. Larder",
+							"name": "22. Speisekammer",
 							"page": 19,
 							"entries": [
 								{
@@ -3306,7 +3306,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "23. Underdark Access",
+							"name": "23. Eingang zum Unterreich",
 							"page": 19,
 							"entries": [
 								{
@@ -3332,7 +3332,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "24. Trapped Access",
+							"name": "24. Mit Fallen versehener Zugang",
 							"page": 19,
 							"entries": [
 								"The doors on both ends of the corridor are locked and can be opened by a character who succeeds on a DC 20 Dexterity check using thieves' tools.",
@@ -3359,7 +3359,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "25. Empty Chamber",
+							"name": "25. Leere Kammer",
 							"page": 20,
 							"entries": [
 								"Two empty chambers in the eastern end of the fortress have the same characteristics.",
@@ -3393,7 +3393,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "26. Dry Fountain",
+							"name": "26. Trockener Brunnen",
 							"page": 20,
 							"entries": [
 								{
@@ -3448,7 +3448,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "27. Sanctuary",
+							"name": "27. Zuflucht",
 							"page": 20,
 							"entries": [
 								{
@@ -3481,7 +3481,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "28. Infested Cells",
+							"name": "28. Verseuchte Zellen",
 							"page": 20,
 							"entries": [
 								{
@@ -3524,7 +3524,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "29. Disabled Traps",
+							"name": "29. Ausgeschaltete Fallen",
 							"page": 21,
 							"entries": [
 								{
@@ -3577,7 +3577,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "30. Mama Rat",
+							"name": "30. Mama Ratte",
 							"page": 21,
 							"entries": [
 								{
@@ -3619,7 +3619,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "31. Caltrop Hall",
+							"name": "31. Halle der Krähenfüße",
 							"page": 21,
 							"entries": [
 								"The door that leads north into this hallway is closed and fitted with a bell that clangs if someone opens the door without doing so very slowly.",
@@ -3664,7 +3664,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "32. Goblin Gate",
+							"name": "32. Goblin-Pforte",
 							"page": 21,
 							"entries": [
 								{
@@ -3706,7 +3706,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "33. Practice Range",
+							"name": "33. Schießstand",
 							"page": 22,
 							"entries": [
 								"The sound of goblins engaged in target practice might be heard from outside any of the doors to the practice range.",
@@ -3750,7 +3750,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "34. Goblin Stockade",
+							"name": "34. Goblin Vorrat",
 							"page": 22,
 							"entries": [
 								"The wooden door is closed and locked. It can be opened by a character who succeeds on a DC 15 Dexterity check using thieves' tools.",
@@ -3816,7 +3816,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "35. Trapped Corridor",
+							"name": "35. Fallen-Korridor",
 							"page": 23,
 							"entries": [
 								{
@@ -3852,7 +3852,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "36. Goblin Bandits",
+							"name": "36. Goblin-Banditen",
 							"page": 23,
 							"entries": [
 								"Three rooms in the northern part of the fortress serve as living quarters for goblin bandits. All have the same characteristics.",
@@ -3896,7 +3896,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "37. Trophy Room",
+							"name": "37. Trophäenraum",
 							"page": 23,
 							"entries": [
 								"Both of the wooden doors that offer access to the trophy room are closed and locked. Either door can be opened by a character who succeeds on a DC 15 Dexterity check using thieves' tools.",
@@ -3941,7 +3941,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "38. Goblin Pantry",
+							"name": "38. Goblin-Speisekammer",
 							"page": 24,
 							"entries": [
 								{
@@ -3957,7 +3957,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "39. Dragon Haze",
+							"name": "39. Drachendunst",
 							"page": 24,
 							"entries": [
 								{
@@ -4028,7 +4028,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "41. Hall of the Goblin Chief",
+							"name": "41. Halle des Goblin-Oberhauptes",
 							"page": 25,
 							"entries": [
 								"If the goblinoid guards in the chief's hall have been alerted, or if they hear conflict in area 40, they cover the door for 10 minutes, then investigate the source of the disruptions at their leader's behest.",
@@ -4112,7 +4112,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Grove Level Locations",
+					"name": "Orte im Hain",
 					"page": 27,
 					"entries": [
 						{
@@ -8194,7 +8194,7 @@
 						"The grove level and the fortress level connect through the shaft that leads from area 41 to 42. The following locations are identified on map 1.2.",
 						{
 							"type": "entries",
-							"name": "42. Central Garden",
+							"name": "42. Zentraler Garten",
 							"page": 27,
 							"entries": [
 								{
@@ -8227,7 +8227,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "43. The Great Hunter's Abode",
+							"name": "43. Domizil des Großen Jägers",
 							"page": 27,
 							"entries": [
 								{
@@ -8278,7 +8278,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "44. Rift",
+							"name": "44. Kluft",
 							"page": 27,
 							"entries": [
 								{
@@ -8294,7 +8294,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "45. Rift Node",
+							"name": "45. Kluftkammer",
 							"page": 27,
 							"entries": [
 								{
@@ -8327,7 +8327,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "46. Old Shrine",
+							"name": "46. Alter Schrein",
 							"page": 27,
 							"entries": [
 								"The stone door at the end of the corridor is closed and stuck, requiring someone to make a successful DC 15 Strength check to pull it open.",
@@ -8344,7 +8344,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "47. Belak's Laboratory",
+							"name": "47. Belaks Labor",
 							"page": 27,
 							"entries": [
 								{
@@ -8433,7 +8433,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "48. Garden Galleries",
+							"name": "48. Garten-Emporen",
 							"page": 28,
 							"entries": [
 								"The two galleries that lead to the arboretums have the same characteristics. The doors to all connecting areas are closed.",
@@ -8477,7 +8477,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "49. Arboretums",
+							"name": "49. Unterreich-Arboretum",
 							"page": 29,
 							"entries": [
 								{
@@ -8530,7 +8530,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "50. Ashardalon's Shrine",
+							"name": "50. Schrein des Ashardalon",
 							"page": 29,
 							"entries": [
 								{
@@ -8572,7 +8572,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "51. Dragon Library",
+							"name": "51. Drachen-Bibliothek",
 							"page": 29,
 							"entries": [
 								{
@@ -8596,7 +8596,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "52. Underpass",
+							"name": "52. Durchgang",
 							"page": 29,
 							"entries": [
 								{
@@ -8612,7 +8612,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "53. Belak's Study",
+							"name": "53. Belaks Herrenzimmer",
 							"page": 29,
 							"entries": [
 								"The wooden door leading to Belak's study is closed and locked. The lock can be undone by someone who uses thieves' tools and succeeds on a DC 20 Dexterity check.",
@@ -8656,7 +8656,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "54. Grove Gate",
+							"name": "54. Hainpforte",
 							"page": 30,
 							"entries": [
 								{
@@ -8698,7 +8698,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "55. Twilight Grove",
+							"name": "55. Dämmerhain",
 							"page": 30,
 							"entries": [
 								{
@@ -8742,7 +8742,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "56. The Gulthias-Baum",
+							"name": "56. Der Gulthias-Baum",
 							"page": 30,
 							"entries": [
 								{
@@ -8908,7 +8908,7 @@
 		},
 		{
 			"type": "section",
-			"name": "Appendix A: Magic Items",
+			"name": "Appendix A: Magische Gegenstände",
 			"page": 228,
 			"entries": [
 				"The magic items that are introduced in this book are detailed here in alphabetical order. The adventure in which an item appears is given at the end of its description.",
@@ -8938,7 +8938,7 @@
 		},
 		{
 			"type": "section",
-			"name": "Appendix B: Creatures",
+			"name": "Appendix B: Kreaturen",
 			"page": 230,
 			"entries": [
 				"This appendix details creatures and nonplayer characters that are mentioned in this book and that don't appear in the {@book Monster Manual|MM}. That book's introduction explains how to interpret a stat block.",

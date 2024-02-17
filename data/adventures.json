@@ -7458,163 +7458,163 @@
 						},
 						"Das Abenteuer leiten",
 						"Brachwies",
-						"The Citadel",
-						"Fortress Level Locations",
+						"Die Zitadelle",
+						"Orte in der Festung",
 						{
 							"depth": 1,
-							"header": "1. Ledge"
+							"header": "1. Vorsprung"
 						},
 						{
 							"depth": 1,
-							"header": "2. Switchback Stairs"
+							"header": "2. Zickzack-Treppe"
 						},
 						{
 							"depth": 1,
-							"header": "3. Crumbled Courtyard"
+							"header": "3. Zerfallender Hof"
 						},
 						{
 							"depth": 1,
-							"header": "4. Tower Shell"
+							"header": "4. Ausgehöhlter Turm"
 						},
 						{
 							"depth": 1,
-							"header": "5. Secret Pocket"
+							"header": "5. Geheime Kammer"
 						},
 						{
 							"depth": 1,
-							"header": "6. Old Approach"
+							"header": "6. Alter Zugang"
 						},
 						{
 							"depth": 1,
-							"header": "7. Gallery of Forlorn Notes"
+							"header": "7. Galerie der Aussichtslosen Noten"
 						},
 						{
 							"depth": 1,
-							"header": "8. Pressure Plate"
+							"header": "8. Druckplatte"
 						},
 						{
 							"depth": 1,
-							"header": "9. Dragon Riddle"
+							"header": "9. Drachenrätsel"
 						},
 						{
 							"depth": 1,
-							"header": "10. Honor Guard"
+							"header": "10. Ehrengarde"
 						},
 						{
 							"depth": 1,
-							"header": "11. Secret Room"
+							"header": "11. Geheimer Raum"
 						},
 						{
 							"depth": 1,
-							"header": "12. Tomb of a Failed Dragonpriest"
+							"header": "12. Grab Eines Gescheiterten Drachenpriesters"
 						},
 						{
 							"depth": 1,
-							"header": "13. Empty Room"
+							"header": "13. Leerer Raum"
 						},
 						{
 							"depth": 1,
-							"header": "14. Enchanted Water Cache"
+							"header": "14. Verwunschener Wasserspeicher"
 						},
 						{
 							"depth": 1,
-							"header": "15. Dragon Cell"
+							"header": "15. Drachenzelle"
 						},
 						{
 							"depth": 1,
-							"header": "16. Kobold Guardroom"
+							"header": "16. Kobold Wachstube"
 						},
 						{
 							"depth": 1,
-							"header": "17. Dragon Chow"
+							"header": "17. Drachenfraß"
 						},
 						{
 							"depth": 1,
-							"header": "18. Prison"
+							"header": "18. Gefängnis"
 						},
 						{
 							"depth": 1,
-							"header": "19. Hall of Dragons"
+							"header": "19. Halle der Drachen"
 						},
 						{
 							"depth": 1,
-							"header": "20. Kobold Colony"
+							"header": "20. Kobold-Kolonie"
 						},
 						{
 							"depth": 1,
-							"header": "21. Dragon Throne"
+							"header": "21. Drachenthron"
 						},
 						{
 							"depth": 1,
-							"header": "22. Larder"
+							"header": "22. Speisekammer"
 						},
 						{
 							"depth": 1,
-							"header": "23. Underdark Access"
+							"header": "23. Eingang zum Unterreich"
 						},
 						{
 							"depth": 1,
-							"header": "24. Trapped Access"
+							"header": "24. Mit Fallen versehener Zugang"
 						},
 						{
 							"depth": 1,
-							"header": "25. Empty Chamber"
+							"header": "25. Leere Kammer"
 						},
 						{
 							"depth": 1,
-							"header": "26. Dry Fountain"
+							"header": "26. Trockener Brunnen"
 						},
 						{
 							"depth": 1,
-							"header": "27. Sanctuary"
+							"header": "27. Zuflucht"
 						},
 						{
 							"depth": 1,
-							"header": "28. Infested Cells"
+							"header": "28. Verseuchte Zellen"
 						},
 						{
 							"depth": 1,
-							"header": "29. Disabled Traps"
+							"header": "29. Ausgeschaltete Fallen"
 						},
 						{
 							"depth": 1,
-							"header": "30. Mama Rat"
+							"header": "30. Mama Ratte"
 						},
 						{
 							"depth": 1,
-							"header": "31. Caltrop Hall"
+							"header": "31. Halle der Krähenfüße"
 						},
 						{
 							"depth": 1,
-							"header": "32. Goblin Gate"
+							"header": "32. Goblin-Pforte"
 						},
 						{
 							"depth": 1,
-							"header": "33. Practice Range"
+							"header": "33. Schießstand"
 						},
 						{
 							"depth": 1,
-							"header": "34. Goblin Stockade"
+							"header": "34. Goblin Vorrat"
 						},
 						{
 							"depth": 1,
-							"header": "35. Trapped Corridor"
+							"header": "35. Fallen-Korridor"
 						},
 						{
 							"depth": 1,
-							"header": "36. Goblin Bandits"
+							"header": "36. Goblin-Banditen"
 						},
 						{
 							"depth": 1,
-							"header": "37. Trophy Room"
+							"header": "37. Trophäenraum"
 						},
 						{
 							"depth": 1,
-							"header": "38. Goblin Pantry"
+							"header": "38. Goblin-Speisekammer"
 						},
 						{
 							"depth": 1,
-							"header": "39. Dragon Haze"
+							"header": "39. Drachendunst"
 						},
 						{
 							"depth": 1,
@@ -7622,81 +7622,81 @@
 						},
 						{
 							"depth": 1,
-							"header": "41. Hall of the Goblin Chief"
+							"header": "41. Halle des Goblin-Oberhauptes"
 						},
-						"Grove Level Locations",
+						"Orte im Hain",
 						{
 							"depth": 1,
-							"header": "42. Central Garden"
-						},
-						{
-							"depth": 1,
-							"header": "43. The Great Hunter's Abode"
+							"header": "42. Zentraler Garten"
 						},
 						{
 							"depth": 1,
-							"header": "44. Rift"
+							"header": "43. Domizil des Großen Jägers"
 						},
 						{
 							"depth": 1,
-							"header": "45. Rift Node"
+							"header": "44. Kluft"
 						},
 						{
 							"depth": 1,
-							"header": "46. Old Shrine"
+							"header": "45. Kluftkammer"
 						},
 						{
 							"depth": 1,
-							"header": "47. Belak's Laboratory"
+							"header": "46. Alter Schrein"
 						},
 						{
 							"depth": 1,
-							"header": "48. Garden Galleries"
+							"header": "47. Belaks Labor"
 						},
 						{
 							"depth": 1,
-							"header": "49. Arboretums"
+							"header": "48. Garten-Emporen"
 						},
 						{
 							"depth": 1,
-							"header": "50. Ashardalon's Shrine"
+							"header": "49. Unterreich-Arboretum"
 						},
 						{
 							"depth": 1,
-							"header": "51. Dragon Library"
+							"header": "50. Schrein des Ashardalon"
 						},
 						{
 							"depth": 1,
-							"header": "52. Underpass"
+							"header": "51. Drachen-Bibliothek"
 						},
 						{
 							"depth": 1,
-							"header": "53. Belak's Study"
+							"header": "52. Durchgang"
 						},
 						{
 							"depth": 1,
-							"header": "54. Grove Gate"
+							"header": "53. Belaks Herrenzimmer"
 						},
 						{
 							"depth": 1,
-							"header": "55. Twilight Grove"
+							"header": "54. Hainpforte"
 						},
 						{
 							"depth": 1,
-							"header": "56. The Gulthias Tree"
+							"header": "55. Dämmerhain"
+						},
+						{
+							"depth": 1,
+							"header": "56. Der Gulthias-Baum"
 						},
 						"Aftermath"
 					]
 				},
 				{
-					"name": "Magic Items",
+					"name": "Magische Gegenstände",
 					"ordinal": {
 						"type": "appendix",
 						"identifier": "A"
 					}
 				},
 				{
-					"name": "Creatures",
+					"name": "Kreaturen",
 					"ordinal": {
 						"type": "appendix",
 						"identifier": "B"
