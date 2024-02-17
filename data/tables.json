@@ -837,6 +837,177 @@
 			]
 		},
 		{
+			"name": "Verletzungen Stufe 1",
+			"source": "DMG",
+			"caption": "Verletzungen Stufe 1",
+			"colLabels": [
+				"d6",
+				"Attribut",
+				"Verletzung",
+				"Malus",
+				"Dauer"
+			],
+			"rows": [
+				[
+					"1",
+					"Stärke",
+					"Erschöpfung",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"2",
+					"Geschicklichkeit",
+					"Erschöpfung",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+
+				],
+				[
+					"3",
+					"Konstitution",
+					"Erschöpfung",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"4",
+					"Intelligenz",
+					"Konzentrationsschwierigkeiten",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"5",
+					"Intuition",
+					"Konzentrationsschwierigkeiten",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"6",
+					"Charisma",
+					"Konzentrationsschwierigkeiten",
+					"-1",
+					"bis zur nächsten Long Rest oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				]
+			]
+		},
+		{
+			"name": "Verletzungen Stufe 2",
+			"source": "DMG",
+			"caption": "Verletzungen Stufe 2",
+			"colLabels": [
+				"d6",
+				"Attribut",
+				"Verletzung",
+				"Malus",
+				"Dauer"
+			],
+			"rows": [
+				[
+					"1",
+					"Stärke",
+					"Muskelkater",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"2",
+					"Geschicklichkeit",
+					"Sehne überdehnt",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+
+				],
+				[
+					"3",
+					"Konstitution",
+					"Rippen geprellt",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"4",
+					"Intelligenz",
+					"Gehirnerschütterung",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"5",
+					"Intuition",
+					"Gehirnerschütterung",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"6",
+					"Charisma",
+					"Konzentrationsschwierigkeiten",
+					"-1 pro verbleibendem Tag",	
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				]
+			]
+		},
+		{
+			"name": "Verletzungen Stufe 3",
+			"source": "DMG",
+			"caption": "Verletzungen Stufe 3",
+			"colLabels": [
+				"d6",
+				"Attribut",
+				"Verletzung",
+				"Malus",
+				"Dauer"
+			],
+			"rows": [
+				[
+					"1",
+					"Stärke",
+					"Arm gebrochen",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"2",
+					"Geschicklichkeit",
+					"Sehne überdehnt",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+
+				],
+				[
+					"3",
+					"Konstitution",
+					"Rippen geprellt",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"4",
+					"Intelligenz",
+					"Gehirnerschütterung",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"5",
+					"Intuition",
+					"Gehirnerschütterung",
+					"-1 pro verbleibendem Tag",
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				],
+				[
+					"6",
+					"Charisma",
+					"Konzentrationsschwierigkeiten",
+					"-1 pro verbleibendem Tag",	
+					"für die nächsten {@dice 1d4} Tage oder bis die Verletzung mit {@spell Lesser Restoration} oder ähnlicher Magie geheilt wird"
+				]
+			]
+		},
+		{
 			"name": "Whirlpools; Whirlpool Rank",
 			"source": "GoS",
 			"page": 206,
