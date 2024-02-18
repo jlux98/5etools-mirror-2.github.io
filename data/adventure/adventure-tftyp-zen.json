@@ -303,17 +303,17 @@
 							],
 							"by": "Hymn"
 						},
-						"Once the characters are ready to leave Brachwies, the adventure truly begins. The overgrown Old Road winds through rocky downs, near stands of old-growth oak, and past abandoned farms. It is 7 miles from Brachwies to the Sunless Citadel.",
+						"Sobald die Charaktere bereit sind, Brachwies hinter sich zu lassen, beginnt das wirkliche Abenteuer. Die überwucherte Alte Straße windet sich durch felsige Abhänge, durch uralte Eichenbestände und vorbei an verlassenen Bauernhöfen. Es sind 7 Meilen (~11km) von Brachwies zur Zitadelle in Ewiger Nacht.",
 						{
 							"type": "entries",
-							"name": "Ravine",
+							"name": "Schlucht",
 							"page": 11,
 							"entries": [
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The Old Road passes to the east of a narrow ravine. At the road's closest approach to the cleft, several broken pillars jut from the earth where the ravine widens. Two of the pillars stand straight, but most lean atop sloped earth. Others are broken, and several have apparently fallen into the dark depths. A few similar pillars are visible on the opposite side of the ravine.",
-										"A sturdy, knotted rope is tied to one of the leaning pillars on this side of the ravine."
+										"Die Alte Straße läuft ostwärts an einer engen Schlucht vorbei. Dort, wo die Straße der Klamm am nächsten kommt, seht ihr an einer verbreiterten Stelle mehrere Säulen, an denen der Zahn der Zeit bereits seine Spuren hinterlassen hat. Zwei der Säulen stehen aufrecht, aber die meisten ragen schräg aus der Erde hervor. Andere sind zersprungen und es sieht aus, als wären einige Säulen bereits in die dunklen Tiefen gestürzt. Eine handvoll ähnliche Säulen befinden sich auf der anderen Seite der Schlucht.",
+										"Ein robustes, mit Knoten übersätes Seil wurde um eine der schrägen Säulen diesseits der Schlucht geschlungen und befestigt."
 									],
 									"id": "039"
 								},
