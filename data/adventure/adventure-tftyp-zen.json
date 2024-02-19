@@ -317,14 +317,14 @@
 									],
 									"id": "039"
 								},
-								"The ravine runs for several miles in either direction, with an average depth and width of 30 feet. At the point where it most closely intersects the Old Road, it widens to 40 feet.",
+								"Die Schlucht zieht sich mehrere Kilometer in beide Richtungen, mit einer durchschnittlichen Breite und Tiefe von 9 Metern (30ft). An der Stelle, wo es am Nächsten an die Alte Straße kommt, verbreitert sich die Schlucht auf bis zu 12 Meter (40ft).",
 								{
 									"type": "entries",
-									"name": "Investigating",
+									"name": "Untersuchen",
 									"page": 12,
 									"entries": [
-										"The pillars are worn and broken, and graffiti in the Dwarvish alphabet covers most of them. Characters who know Goblin (after translating the letters from Dwarvish) recognize the inscriptions as warnings and threats against potential trespassers.",
-										"A successful DC 10 Intelligence ({@skill Investigation}) or Wisdom ({@skill Survival}) check reveals that the area in and around the pillars has hosted many small campfires, some of as recent as a month ago. Someone went to some effort to hide the evidence of the camps from casual scrutiny."
+										"Die Säulen sind abgenutzt und kaputt, und Graffiti im {@filter zwergischen Alphabet |languages|source=mm;ggr;phb;scag;skt;mot;ai;vgm;rot;oota;mtf;idrotf;hotdq;tftyp|script=dwarvish}. Charaktere, die die Goblinsprache lesen können (oder Charaktere, die eine Sprache, die ein Alphabet mit der Goblinsprache teilt, beherrschen und einen DC 15 Intelligenz ({@skill History} Check schaffen) können die Nachrichten übersetzen. Sie enthalten Warnungen und Drohungen gegen potentielle Eindringlinge.",
+										"Ein erfolgreicher DC 10 Intelligenz ({@skill Investigation}) oder Intuition ({@skill Survival}) Check offenbart, dass in dem Bereich zwischen den Säulen und um sie herum über die letzten Jahre viele kleine Lagerfeuer errichtet wurden - manche sogar erst vor ungefähr einem Monat. Jemand hat sich Mühe gegeben, die Anzeichen der Lager vor einer oberflächlichen Betrachtung zu verbergen."
 									],
 									"id": "03a"
 								},

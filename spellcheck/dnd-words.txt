@@ -6889,6 +6889,7 @@ goblinoid
 Goblinoid
 goblinoids
 Goblinoids
+Goblinsprache
 Goblinville
 goblyns
 Godborn
@@ -21316,6 +21317,7 @@ Zuun
 Zuvich
 Zwee
 Zweigplage
+zwergischen
 Zyanya
 Zybilna
 ZYBILNA
