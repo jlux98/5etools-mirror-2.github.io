@@ -330,11 +330,14 @@
 								},
 								{
 									"type": "entries",
-									"name": "Descending",
+									"name": "Abstieg",
 									"page": 12,
 									"entries": [
 										"The rope tied to one of the leaning pillars hangs down into the darkness of the ravine. Judging by its good condition, the rope couldn't have been tied there any longer than two or three weeks ago. From the edge of the ravine, older and weathered handholds and footholds can be seen carved into the cliff face. These are goblin-carved.",
 										"Adventurers can easily climb down the knotted rope, using the wall to brace themselves. Using the carved indentations is slower but only slightly harder. The descent is 50 feet to the ledge ({@adventure area 1|TftYP-ZEN|0|1. Ledge}).",
+										
+										"Das Seil, das an einer der schrägen Säulen befestigt ist, hängt herunter in die Dunkelheit der Schlucht. Seinem guten Zustand nach zu schließen kann das Seil nicht mehr als zwei oder drei Wochen hier hängen. Vom Rand der Klippe aus sind alte, verwitterte Haltebuchten zu sehen, die in den Fels gehauen sind und abwärts führen. Diese wurden von Goblins angelegt.",
+										"Abenteurer können das Seil ohne große Anstrengung herunterklettern indem sie sich an der Wand abstützen. Die in den Fels gehauenen Einbuchtungen zu nutzen ist langsamer aber nur ein wenig schwerer. Der Abstieg ist 15m (50ft) zum Vorsprung ({@adventure Areal 1|TftYP-ZEN|1. Vorsprung}).",
 										{
 											"type": "inset",
 											"name": "General Features",
