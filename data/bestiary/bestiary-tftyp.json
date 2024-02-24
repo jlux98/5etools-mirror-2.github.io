@@ -1372,6 +1372,18 @@
 			"hasToken": true
 		},
 		{
+			"name": "Erik Finkel",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"_copy":{
+				"name": "Commoner",
+				"source": "MM"
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Erky Timbers",
 			"isNpc": true,
 			"isNamedCreature": true,

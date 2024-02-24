@@ -373,6 +373,19 @@
 			]
 		},
 		{
+			"name": "Erik Finkel",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Erik Finkel.webp"
+					}
+				}
+			]
+		},
+		{
 			"name": "Erky Timbers",
 			"source": "TftYP",
 			"entries": [
