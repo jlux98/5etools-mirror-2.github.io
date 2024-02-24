@@ -2475,12 +2475,13 @@
 							"name": "2. Zickzack-Treppe",
 							"page": 12,
 							"entries": [
-								"The 5-foot-wide stairs that descend from area 1 are roughly carved. They aren't dangerous to traverse, however, except that combat while on the narrow path can be risky. Three small landings lie along the route, the first at 60 feet above the floor in area 3, the second at 40 feet, and the third at 20 feet.",
-								"The characters might be able to see area 3 as they descend.",
+								"Die 1,5m (5ft) breite Treppe, die von Areal 1 hinunterführt, ist grob behauen. Es ist an sich nicht gefährlich, sie zu überqueren, allerdings birgt ein Kampf auf dem schmalen Pfad gewisse Risiken. Entlang des Weges befinden sich drei kleine Podeste, das erste in 18m (60ft) Höhe über dem Boden von Areal 3, das zweite in 12m (40ft) Höhe und das dritte in 6m (20ft) Höhe.",
+								"Die Charaktere sind beim Abstieg eventuell in der Lagen, Areal 3 sehen.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"A fortress emerges from the darkness. The subterranean citadel, though impressive, seems long forgotten, if the lightless windows,cracked crenellations, and leaning towers are any indication. All is quiet, though a cold breeze blows up from below, bringing with it the scent of dust and a faint trace of rot."
+										"Eine Festung taucht aus der Dunkelheit auf. Die unterirdische Zitadelle, so beeindruckend sie auch sein mag, scheint längst vergessen zu sein. Die lichtlosen Fenster, die rissigen Zinnen und die schiefen Türme zeichnen ein klares Bild von Verwahrlosung und Verfall.",
+										"So sehr ihr euch auch anstrengt und in die Dunkelheit lauscht könnt ihr keine Geräusche wahrnehmen. Das Einzige, was euch aus den Eingeweiden der Höhle erreicht, ist eine kalte Brise, die von unten heraufweht. Sie bringt den Geruch von Staub und eine schwache Spur von Fäulnis mit sich."
 									],
 									"id": "046"
 								}
@@ -2495,54 +2496,54 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The narrow stairs empty into a small courtyard, apparently the top of what was once a crenellated battlement. The buried citadel has sunk so far into the earth that the battlement is now level with the surrounding floor. That floor stretches away to the north and south, composed of a layer of treacherous, crumbled masonry, which reaches to an unknown depth. To the west looms the surviving structure of what must be the Sunless Citadel. A tower stands on the west side of the courtyard."
+										"Die schmale Treppe mündet in einen kleinen Innenhof, der offenbar die Spitze einer ehemaligen zinnenbewehrten Festung darstellt. Die verschüttete Zitadelle ist so tief in die Erde gesunken, dass die Zinnen jetzt mit dem umliegenden Boden auf gleicher Höhe liegen. Dieser Boden erstreckt sich nach Norden und Süden und besteht aus einer Schicht von heimtückischen, zerbröckeltem Mauerwerk, das bis in unbekannte Tiefen reicht. Im Westen erhebt sich die noch erhaltene Struktur der Zitadelle in Ewiger Nacht. Ein Turm steht an der Westseite des Hofes."
 									],
 									"id": "048"
 								},
-								"The stone courtyard, surrounded by crumbled masonry, contains a trap and a wooden door.",
+								"Der steinerne Innenhof, umgeben von zerbröckeltem Mauerwerk, enthält eine Falle und eine Holztür",
 								{
 									"type": "entries",
-									"name": "Masonry Debris",
+									"name": "Mauerwerkstrümmer",
 									"page": 12,
 									"entries": [
-										"An expanse of crumbled masonry surrounds the entire citadel. Those attempting to cross it immediately note its unsteadiness. The rubble is {@quickref difficult terrain||3}. Anyone who moves across the debris must make a DC 10 Dexterity ({@skill Acrobatics}) check for each 10 feet traversed. On a failed check, the character is unable to move. If the check fails by 5 or more, a slab of masonry below the character shifts, dumping the character into a debris-lined cavity. Climbing back out requires a successful DC 10 Strength ({@skill Athletics}) check; on a failed check, the victim drops back into the cavity."
+										"Eine Fläche aus zerbröckeltem Mauerwerk umgibt die gesamte Zitadelle. Wer versucht, sie zu überqueren, bemerkt sofort ihre Unbeständigkeit. Die Trümmer sind {@quickref difficult terrain||3||schwieriges Terrain}. Jeder, der sich über die Trümmer bewegt, muss alle 10 Fuß einen DC 10 Dexterity ({@skill Acrobatics}) Check ablegen. Bei einer misslungenen Probe kann sich der Charakter nicht bewegen. Wenn die Probe um 5 oder mehr scheitert, verschiebt sich eine Mauerplatte unter dem Charakter und stürzt ihn in einen mit Trümmern ausgekleideten Hohlraum. Um wieder herauszuklettern, ist ein erfolgreicher DC 10 Strength ({@skill Athletics}) Check erforderlich; bei einem Fehlschlag fällt das Opfer zurück in den Hohlraum."
 									],
 									"id": "049"
 								},
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 12,
 									"entries": [
-										"Each time a creature falls into a cavity, the noise is 10 percent likely to draw {@dice 1d4} {@creature Giant Rat||giant rats} from the dozens that infest the rubble field. Attracted rats move carefully and stealthily through the rubble to attack."
+										"Jedes Mal, wenn eine Kreatur in einen Hohlraum fällt, gibt es eine 10-Prozent-Wahrscheinlichkeit, dass das Geräusch {@dice 1d4} {@creature Giant Rat||Riesenratten} anlockt von den Dutzenden Ratten, die das Trümmerfeld bevölkern. Die angelockten Ratten bewegen sich vorsichtig und heimlich durch die Trümmer, um anzugreifen."
 									],
 									"id": "04a"
 								},
 								{
 									"type": "entries",
-									"name": "Hidden Pit",
+									"name": "Versteckte Grube",
 									"page": 13,
 									"entries": [
-										"The map shows the location of a concealed trapdoor that covers a 10-foot-square, 10-foot-deep pit. A 2-foot-wide catwalk on the west edge allows access to the door that leads to area 4. It takes a successful DC 15 Wisdom ({@skill Perception}) check to note the trapdoor's unmortared edge. Then, a successful DC 10 Intelligence ({@skill Investigation}) check lets a character deduce the location of the catwalk and how the pit operates.",
-										"If a creature steps on the trapdoor, the lid flips open, dumping the creature into the pit. With a successful DC 15 Dexterity check, a creature can use thieves' tools to jam the lid shut. A mechanism resets the trap 1 minute after the door opens, pushing it back into the closed position. The mechanism is in the pit wall under the catwalk. A creature can jam it in the open position with a successful DC 15 Dexterity check using thieves' tools. If this check succeeds by 5 or more, the mechanism can be permanently disabled if desired."
+										"Die Karte zeigt die Lage einer verborgenen Falltür, die eine 3m (10ft) große und 3m (10ft) tiefe Grube abdeckt. Ein 60cm (2ft) breiter Laufsteg am westlichen Rand ermöglicht den Zugang zu der Tür, die zu Areal 4 führt. Es bedarf eines erfolgreichen DC 15 Wisdom ({@skill Perception}) Checks, um den unversehrten Rand der Falltür zu erkennen. Ein erfolgreicher  DC 10 Intelligence ({@skill Investigation}) Check lässt den Charakter auf die Lage des Laufstegs und die Funktionsweise der Grube schließen.",
+										"Wenn eine Kreatur auf die Falltür tritt, klappt der Deckel auf und die Kreatur wird in die Grube geworfen. Mit einer erfolgreichen DC 15 Dexterity Check kann eine Kreatur Diebeswerkzeug benutzen, um den Deckel zu blockieren. Ein Mechanismus setzt die Falle 1 Minute nach dem Öffnen der Tür zurück, indem er sie wieder in die geschlossene Position schiebt. Der Mechanismus befindet sich in der Grubenwand unter dem Laufsteg. Eine Kreatur kann ihn mit einem erfolgreichen DC 15 Dexterity-Check mit Diebeswerkzeug in der offenen Position blockieren. Gelingt diese Prüfung mit 5 oder mehr, kann der Mechanismus auf Wunsch dauerhaft deaktiviert werden."
 									],
 									"id": "04b"
 								},
 								{
 									"type": "entries",
-									"name": "Creature",
+									"name": "Kreaturen",
 									"page": 13,
 									"entries": [
-										"The pit contains two goblin skeletons, one goblin that has been dead for about a day, and one live {@creature giant rat}. The rat, which slipped into the pit to feed on the fresh goblin but was caught when the trap reset, attacks creatures inside the pit or climbs out to attack those nearby."
+										"In der Grube liegen zwei Goblin-Skelette, ein Goblin der seit ungefähr einem Tag tot ist und eine lebende {@creature giant rat||Riesenratte}. Die Ratte, die sich in das Loch begeben hat um den frischen Goblin zu fressen aber gefangen wurde als sich die Falltür zurückgesetzt hat, greift Kreaturen in der Grube an oder klettert hinaus um Kreaturen in der Nähe anzugreifen."
 									],
 									"id": "04c"
 								},
 								{
 									"type": "entries",
-									"name": "Treasure",
+									"name": "Beute",
 									"page": 13,
 									"entries": [
-										"The goblin corpse has a {@item scimitar|PHB} and a {@item shield|PHB}, as well as 23 sp and 4 gp in a belt pouch."
+										"Die Goblin-Leiche hat ein {@item Scimitar|PHB} und einen {@item shield|PHB|Schild}, so wie 23ss und 4gs in einem Säckchen am Gürtel."
 									],
 									"id": "04d"
 								}
