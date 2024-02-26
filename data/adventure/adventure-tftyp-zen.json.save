@@ -30,7 +30,7 @@
 								},
 								{
 									"type": "item",
-									"name": "3. Goblin-Lager.",
+ 									"name": "3. Goblin-Lager.",
 									"entry": "Die Goblins, die tiefer in der Zitadelle leben, sehen sich selbst als die Eigentümer dieses Ortes. Sie verteidigen sich gegen Eindringlinge mit Klauen und Zähnen, was es den Charakteren erheblich erschwert, einen Kampf mit ihnen aus dem Weg zu gehen."
 								},
 								{
@@ -2558,16 +2558,16 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-									"Dieser kreisförmige Bereich ist mit rissigem Granit gepflastert, auf dem die Leichen von vier Goblins liegen. Sie sind offenbar im Kampf getötet worden. Eine Leiche steht mit dem Rücken an der westlichen Wand, der Speer, der sie getötet hat, spießt sie immer noch auf und hält sie aufrecht. Drei Holztüren führen von diesem Bereich weg. Ein hohler Turm aus losem Mauerwerk ragt 20 Meter hoch in die Luft. Die dazwischen liegenden Stockwerke und Treppen sind verschwunden, abgesehen von ein paar zerbröckelten Vorsprüngen."
+										"This circular area is cobbled with cracked granite, upon which sprawl the bodies of four goblins, apparently slain in combat. One corpse stands with its back against the western wall, the spear that killed it still skewering it and holding it upright. Three wooden doors lead from this area. A hollow tower of loose masonry reaches thirty feet into the air, but the intervening floors and stairs are gone, except for a couple of crumbled ledges."
 									],
 									"id": "04f"
 								},
 								{
 									"type": "entries",
-									"name": "Leichen",
+									"name": "Bodies",
 									"page": 13,
 									"entries": [
-										"Eine Untersuchung zeigt, dass die vier Kobolde schon eine ganze Weile tot und von Ratten zergenagt sind. Die Leichen sind geplündert worden. Wenn jemand den Speer entfernt, mit dem der Goblin an der Wand festgenagelt ist, fällt der Körper in sich zusammen und enthüllt drakonische Runen an der Wand dahinter. Wer der drakonischen Sprache mächtig ist, kann die Runen als \"Ashardalon.\" lesen."
+										"Investigation reveals that the four goblins have been dead for quite a while, and rats have gnawed at them. The bodies have been looted. If someone removes the spear pinning the goblin to the wall, the body slumps to reveal Draconic runes on the wall behind it. Those who know the Draconic language can read the runes as \"Ashardalon.\""
 									],
 									"id": "050"
 								},
