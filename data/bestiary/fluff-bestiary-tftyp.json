@@ -215,6 +215,19 @@
 			]
 		},
 		{
+			"name": "Dem Nackle",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Dem Nackle.webp"
+					}
+				}
+			]
+		},
+		{
 			"name": "Dread Warrior",
 			"source": "TftYP",
 			"entries": [
@@ -412,6 +425,32 @@
 					"href": {
 						"type": "internal",
 						"path": "bestiary/TftYP/Erky Timbers.webp"
+					}
+				}
+			]
+		},
+		{
+			"name": "Felosial",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Felosial.webp"
+					}
+				}
+			]
+		},
+		{
+			"name": "Garon",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Garon.webp"
 					}
 				}
 			]
@@ -633,6 +672,19 @@
 			]
 		},
 		{
+			"name": "Kerowyn Jandorf",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Kerowyn Jandorf.webp"
+					}
+				}
+			]
+		},
+		{
 			"name": "King Snurre",
 			"source": "TftYP",
 			"images": [
@@ -641,6 +693,19 @@
 					"href": {
 						"type": "internal",
 						"path": "bestiary/TftYP/King Snurre.webp"
+					}
+				}
+			]
+		},
+		{
+			"name": "Konrad Knallfrosch",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Konrad Knallfrosch.webp"
 					}
 				}
 			]
@@ -797,6 +862,19 @@
 					"href": {
 						"type": "internal",
 						"path": "bestiary/TftYP-DiT/010-totyp-05-11a.webp"
+					}
+				}
+			]
+		},
+		{
+			"name": "Rurik Lutgehr",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Rurik Lutgehr.webp"
 					}
 				}
 			]

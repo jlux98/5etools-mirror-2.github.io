@@ -810,6 +810,36 @@
 			"hasToken": true
 		},
 		{
+			"name": "Dem Nackle",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"Gnome"
+				]
+			},
+			"alignment": [
+				"L",
+				"G"
+			],
+			"_copy":{
+				"name": "Priest",
+				"source": "MM",
+				"_mod": {
+					"*": {
+						"mode": "replaceTxt",
+						"replace": "the priest",
+						"with": "Dem Nackle",
+						"flags": "i"
+					}
+				}
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Dragonpriest",
 			"isNpc": true,
 			"isNamedCreature": true,
@@ -1377,8 +1407,18 @@
 			"isNamedCreature":true,
 			"source": "TftYP",
 			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"L",
+				"G"
+			],
 			"_copy":{
-				"name": "Commoner",
+				"name": "Noble",
 				"source": "MM"
 			},
 			"hasFluffImages": true
@@ -1548,6 +1588,36 @@
 			"traitTags": [],
 			"spellcastingTags": [],
 			"hasToken": true
+		},
+		{
+			"name": "Felosial",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"Half-Elf"
+				]
+			},
+			"alignment": [
+				"L",
+				"G"
+			],
+			"_copy":{
+				"name": "Veteran",
+				"source": "MM",
+				"_mod": {
+					"*": {
+						"mode": "replaceTxt",
+						"replace": "the veteran",
+						"with": "Felosial",
+						"flags": "i"
+					}
+				}
+			},
+			"hasFluffImages": true
 		},
 		{
 			"name": "Fire Giant Royal Headsman",
@@ -1783,6 +1853,27 @@
 				"formula": "6d20"
 			},
 			"hasToken": true
+		},
+		{
+			"name": "Garon",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"_copy":{
+				"name": "Commoner",
+				"source": "MM"
+			},
+			"hasFluffImages": true
 		},
 		{
 			"name": "Giant Crayfish",
@@ -3454,6 +3545,27 @@
 			"hasFluffImages": true
 		},
 		{
+			"name": "Kerowyn Jandorf",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"_copy":{
+				"name": "Noble",
+				"source": "MM"
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Kieren",
 			"isNpc": true,
 			"isNamedCreature": true,
@@ -3607,6 +3719,27 @@
 				"swim": 30
 			},
 			"hasToken": true
+		},
+		{
+			"name": "Konrad Knallfrosch",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"halfling"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"_copy":{
+				"name": "Commoner",
+				"source": "MM"
+			},
+			"hasFluffImages": true
 		},
 		{
 			"name": "Lahnis",
@@ -4984,6 +5117,27 @@
 				}
 			},
 			"hasToken": true
+		},
+		{
+			"name": "Rurik Lutgehr",
+			"isNpc": true,
+			"isNamedCreature":true,
+			"source": "TftYP",
+			"size": ["M"],
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"dwarf"
+				]
+			},
+			"alignment": [
+				"N"
+			],
+			"_copy":{
+				"name": "Commoner",
+				"source": "MM"
+			},
+			"hasFluffImages": true
 		},
 		{
 			"name": "Scrag",

@@ -8,6 +8,7 @@ import * as utS from "./util-search-index.js";
 import {Timer} from "./util.js";
 
 async function main () {
+	console.log("starting");
 	const t = Timer.start();
 	console.log("##### Creating primary index... #####");
 	const index = await utS.UtilSearchIndex.pGetIndex();
