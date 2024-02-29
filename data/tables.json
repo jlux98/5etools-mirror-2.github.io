@@ -1,6 +1,90 @@
 {
 	"table": [
 		{
+			"name": "Pricing Trinkets",
+			"source": "TftYP",
+			"caption": "Guide for pricing trinkets",
+			"colLabels": [
+				"Category",
+				"Pricing"
+			],
+			"rows":
+				[
+					[
+						"Mundane items with no practical use or value when studied (i.e. the football)",
+						"a few copper at most"
+					],
+					[
+						"Mundane items with no practical use, but can be studied (i.e. strange starcharts)",
+						"no value or a few copper to most, but anywhere from 20-100 gold in the hands of someone who'd be able to study them and has the means to pay for it (More, if the item is especially interesting or the expert is especially rich)."
+					],
+					[
+						"Mundane items with a practical use (i.e. oddly comfortable shoes)",
+						"looking at the 5 silver to 2 gold range, I reckon. Again, more if it's something especially significant to the buyer (i.e., sunglasses for a Drow)."
+					],
+					[
+						"Magical items with no practical use or value when studied (i.e. the musical cloak pin)",
+						"Range of 1 silver (especially super useless items) to 5 silver (minor curiosities and novelties) to 2 gold (useless novelties, but impressive ones)."
+			 		],
+			 		[
+						"Magical items with no practical use, but can be studied (i.e. anything from another plane, or that's enchanted with unique or forgotten magic)",
+						"10-15 gold if sold generically, up to 30 if sold to someone interested in them, more if there's extraordinary circumstances (\"Oh my god! I've been working on Healthbar Bracelet Technology for years!\")."
+		 			],
+					[
+						"Magical items with a practical use (i.e. calculator)",
+						"10-30 gold for someone who just finds it useful in their day to day, more if someone thinks they can replicate or mass produce it."
+					],
+					[
+						"Magical items with an extraordinary use (i.e. plant identifier wand)",
+						"30 gold+, scaling upwards with value of ability and wealth of buyer."
+					],
+					[
+						"Mundane or magical items that are unique, impressive, and appeal to the rich (i.e. robot dog)",
+						"I'm throwing this in as its own category because some stuff will just sell for a lot as really cool novelties. They'll fetch as much as the players are able to convince a rich guy to buy it for; for reference, a set of bagpipes are 30 gold, a longbow is 50 gold, and a riding horse is 75 gold. If the buyer would value this item as much as any of these things, then they'll pay that much."
+					]
+				]
+		},
+		{
+			"name": "Konrads Kuriositäten Inventar",
+			"source": "TftYP",
+			"caption": "Inventar der Gegenstände in Konrads Kuriositäten",
+			"colLabels": [
+				"Gegenstand",
+				"Preis",
+				"Menge"
+			],
+			"rows":
+				[
+					[
+						"{@item Elven Trinket | mtf | Elfisches Zeug}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
+						"3x"
+					],
+					[
+						"{@item Horror Trinket | vrgr | Zeug aus Osken (Kulghas Heimat)}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
+						"3x"
+					],
+					[
+						"{@item Trinket | phb | Zeug aus Zucresh (Titus Heimat)}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
+						"3x"
+					],
+					[
+						"{@item Horn of Silent Alarm |xge| Horn des Stillen Weckrufs}",
+						"50gs"
+					],
+					[
+						"{@item Oil of Slipperiness || Öl der Schlüpfrigkeit}",
+						"50gs"
+					],
+					[
+						"{@item Wand of Magic Detection || Zauberstab der Magie-Aufspührung}",
+						"500gs oder Miete für 5gs pro Tag (+ 50gs und ein Haarbüschel/Fingernagel/etc. als Kaution)"
+					]
+				]
+		},
+		{
 			"name": "2,500 gp Art Objects",
 			"source": "PSX",
 			"page": 26,

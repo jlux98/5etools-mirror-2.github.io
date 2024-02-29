@@ -228,7 +228,7 @@
 									"type": "entries",
 									"name": "Konrads Kuriositäten",
 									"entries": [
-										"{@creature Konrad Knallfrosch|TftYP} ist der Besitzer des Ladens \"Konrads Kuriositäten\". Hier kann man gewöhnliche (und mit etwas Glück manchmal auch seltenere) exotische Gegenstände finden. Hierbei kann es sich um magische Gegenstände handeln oder um Importware aus anderen Kulturen."
+										"{@creature Konrad Knallfrosch|TftYP} ist der Besitzer des Ladens \"Konrads Kuriositäten\". Hier kann man gewöhnliche (und mit etwas Glück manchmal auch seltenere) exotische Gegenstände finden. Hierbei kann es sich um magische Gegenstände handeln oder um Importware aus anderen Kulturen. Das aktuelle Inventar befindet sich unter {@table Konrads Kuriositäten Inventar|tftyp}"
 									]
 								}
 							],
@@ -2573,25 +2573,25 @@
 									"name": "Leichen",
 									"page": 13,
 									"entries": [
-										"Eine Untersuchung zeigt, dass die vier Kobolde schon eine ganze Weile tot und von Ratten zergenagt sind. Die Leichen sind geplündert worden. Wenn jemand den Speer entfernt, mit dem der Goblin an der Wand festgenagelt ist, fällt der Körper in sich zusammen und enthüllt drakonische Runen an der Wand dahinter. Wer der drakonischen Sprache mächtig ist, kann die Runen als \"Ashardalon.\" lesen."
+										"Eine Untersuchung zeigt, dass die vier Kobolde schon eine ganze Weile tot und von Ratten zergenagt sind. Die Leichen sind geplündert worden. Wenn jemand den Speer entfernt, mit dem der Goblin an der Wand festgenagelt ist, fällt der Körper in sich zusammen und enthüllt drakonische Runen an der Wand dahinter. Wer der drakonischen Sprache mächtig ist, kann die Runen als \"Ashardalon\" lesen."
 									],
 									"id": "050"
 								},
 								{
 									"type": "entries",
-									"name": "Secret Door",
+									"name": "Geheime Tür",
 									"page": 13,
 									"entries": [
-										"A trapped secret door leads to area 5. Finding the door requires a successful DC 20 Wisdom ({@skill Perception}) check. The door opens by way of a masonry block that also serves as a lever, which can be pushed in on the left side or pulled out from the right."
+										"Eine mit Fallen versehene Geheimtür führt in Areal 5. Um die Tür zu finden bedarf es eines erfolgreichen DC 20 Wisdom ({@skill Perception}) Checks. Die Tür öffnet sich durch einen Mauerblock, der als Hebel fungiert und dessen linke Seite in die Wand hineingedrückt und dessen rechte Seite aus der Mauer hinausgezogen werden kann."
 									],
 									"id": "051"
 								},
 								{
 									"type": "entries",
-									"name": "Needle Trap",
+									"name": "Nadel-Falle",
 									"page": 13,
 									"entries": [
-										"If the lever is pulled out, that movement sets off a needle trap. The needle extends 3 inches out of the opening, dealing 1 piercing damage to whoever pulled the lever. Someone who carefully and slowly pulls the lever open can easily see the needle before it strikes. Disabling the needle requires thieves' tools and a successful DC 15 Dexterity check. If the check fails by 5 or more, the trap goes off, stabbing the character unless the character succeeds on a DC 15 Dexterity saving throw."
+										"Falls der Hebel hinausgezogen wird aktiviert diese Bewegung eine Nadelfalle. Die Nadel schaut 7,5cm (3in) aus der Öffnung hervor und verursacht 1 Piercing Schaden an Demjenigen, der den Hebel gezogen hat. Jemand, der den Hebel langsam und vorsichtig herauszieht, kann die Nadel ohne Schwierigkeiten sehen bevor sie zusticht. Um die Falle zu deaktivieren benötigt man Diebeswerkzeug und einen erfolgreichen DC 15 Dexterity Check. Falls der DC um 5 oder mehr verfehlt wird wird die Falle aktiviert und sticht den entschärfenden Charakter wenn dieser nicht einen DC 15 Dexterity Saving Throw schafft."
 									],
 									"id": "052"
 								}
