@@ -7458,6 +7458,34 @@
 						},
 						"Das Abenteuer leiten",
 						"Brachwies",
+						{
+							"depth": 1,
+							"header": "Gemeindesaal"
+						},
+						{
+							"depth": 1,
+							"header": "Gemischtwarenladen"
+						},
+						{
+							"depth": 1,
+							"header": "Schrein"
+						},
+						{
+							"depth": 1,
+							"header": "Gefängnis"
+						},
+						{
+							"depth": 1,
+							"header": "Schmied"
+						},
+						{
+							"depth": 1,
+							"header": "Zum Alten Eber"
+						},
+						{
+							"depth": 1,
+							"header": "Konrads Kuriositäten"
+						},
 						"Die Zitadelle",
 						"Orte in der Festung",
 						{
@@ -7507,6 +7535,10 @@
 						{
 							"depth": 1,
 							"header": "12. Grab Eines Gescheiterten Drachenpriesters"
+						},
+						{
+							"depth": 1,
+							"header": "Begegnungen"
 						},
 						{
 							"depth": 1,

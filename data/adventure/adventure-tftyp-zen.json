@@ -151,12 +151,12 @@
 							"id": "02aa"
 						},
 						{
-                                                        "type": "image",
-	                                                "href": {
-                                                                "type": "internal",
-                                                                "path": "adventure/TftYP-ZEN/Brachwies Map.webp"
-                                                        }
-                                                },
+							"type": "image",
+							"href": {
+								"type": "internal",
+								"path": "adventure/TftYP-ZEN/Brachwies Map.webp"
+							}
+						},
 						"Die Gemeinde, die am Nächsten an der Zitadelle in ewiger Nacht liegt, ist ein Städtchen namens Brachwies. Die meisten seiner 900 Einwohner (außerhalb lebende Bauernfamilien mit eingerechnet) sind Menschen, außerdem gibt es eine kleinen Gruppe Halblinge und eine handvoll anderer Rassen",
 						"Bemerkenswerte Orte in Brachwies und die Leute, die dort gefunden werden können, sind die Folgenden:",
 						{
@@ -169,11 +169,11 @@
 									"entries": [
 										{
 											"type": "insetReadaloud",
-												"entries": [
-													"Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen Menschlich in Rüstung darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt"
-												],
-												"id": "02ba"
-											},
+											"entries": [
+												"Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen Menschlich in Rüstung darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt"
+											],
+											"id": "02ba"
+										},
 										"Jeder, der einen DC 10 Wisdom ({@skill Survival}) oder Intelligence ({@skill Investigation}) Check schafft, weiß, dass die Statue nach Osten zeigt. In dieser Richtung liegt auch die versunkene Zitadelle.",
 										"Hier im Gemeindesaal werden wichtige Entscheidungen über das Leben in Brachwies getroffen, enthält das Büro von Bürgermeister {@creature Erik Finkel|TftYP}."
 									],
@@ -2502,7 +2502,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Die schmale Treppe mündet in einen kleinen Innenhof, der offenbar die Spitze einer ehemaligen zinnenbewehrten Festung darstellt. Die verschüttete Zitadelle ist so tief in die Erde gesunken, dass die Zinnen jetzt mit dem umliegenden Boden auf gleicher Höhe liegen. Dieser Boden erstreckt sich nach Norden und Süden und besteht aus einer Schicht von heimtückischen, zerbröckeltem Mauerwerk, das bis in unbekannte Tiefen reicht. Im Westen erhebt sich die noch erhaltene Struktur der Zitadelle in Ewiger Nacht. Ein Turm steht an der Westseite des Hofes."
+										"Die schmale Treppe mündet in einen kleinen Innenhof, der offenbar die Spitze einer ehemaligen zinnenbewehrten Festung darstellt. Die verschüttete Zitadelle ist so tief in die Erde gesunken, dass die Zinnen jetzt mit dem umliegenden Boden auf gleicher Höhe liegen. Dieser Boden erstreckt sich nach Norden und Süden und besteht aus einer Schicht von heimtückischen, zerbröckeltem Mauerwerk, das bis in unbekannte Tiefen reicht. Im Westen erhebt sich die noch erhaltene Struktur der Zitadelle in Ewiger Nacht. Ein Turm steht an der Westseite des Hofes an dessen südlicher Seite sich ein kleiner Anbau mit Schießscharten befindet."
 									],
 									"id": "048"
 								},
@@ -2564,7 +2564,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-									"Dieser kreisförmige Bereich ist mit rissigem Granit gepflastert, auf dem die Leichen von vier Goblins liegen. Sie sind offenbar im Kampf getötet worden. Eine Leiche steht mit dem Rücken an der westlichen Wand, der Speer, der sie getötet hat, spießt sie immer noch auf und hält sie aufrecht. Drei Holztüren führen von diesem Bereich weg. Ein hohler Turm aus losem Mauerwerk ragt 20 Meter hoch in die Luft. Die dazwischen liegenden Stockwerke und Treppen sind verschwunden, abgesehen von ein paar zerbröckelten Vorsprüngen."
+										"Dieser kreisförmige Bereich ist mit rissigem Granit gepflastert, auf dem die Leichen von vier Goblins liegen. Sie sind offenbar im Kampf getötet worden. Eine Leiche steht mit dem Rücken an der westlichen Wand, der Speer, der sie getötet hat, spießt sie immer noch auf und hält sie aufrecht. Drei Holztüren führen von diesem Bereich weg. Ein hohler Turm aus losem Mauerwerk ragt 20 Meter hoch in die Luft. Die dazwischen liegenden Stockwerke und Treppen sind verschwunden, abgesehen von ein paar zerbröckelten Vorsprüngen."
 									],
 									"id": "04f"
 								},
@@ -2606,17 +2606,17 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"This pocket chamber is damp and cold. The skeletons of three long-dead archers slump against rubble-filled arrow slits along the east and south wall."
+										"Diese kleine Kammer ist feucht und kalt. Die Skelette von drei lange verstorbenen Bogenschützen lehnen gegen die mit Schießscharten versehenen Süd- und Ostwände."
 									],
 									"id": "054"
 								},
-								"The skeletons date back to the time before the citadel plunged into the earth. That calamity killed all three archers, at the same time instilling in them the curse of undeath. If anyone enters this chamber, the three {@creature Skeleton||skeletons} animate, pinpoints of red fire sparkling in their eye sockets as they rise.",
+								"Die Skelette stammen aus der Zeit bevor die Zitadelle in die Erde gestürzt wurde. Die Katastrophe tötete alle drei Bogenschützen und versah sie zur gleichen Zeit mit dem Fluch der Untoten. Falls jemand diese Kammer betritt erwachen die drei {@creature skeleton||Skelette} zum Leben, Feuerpunkte funkeln in ihren Augenhöhlen, während sie sich erheben.",
 								{
 									"type": "entries",
 									"name": "Treasure",
 									"page": 14,
 									"entries": [
-										"Each skeleton has twenty arrows, {@dice 2d10} sp, {@dice 1d10} gp, and one {@item +1 arrow} in a special socket on the quiver. Because the skeletons are mindless, they don't use the magical arrows."
+										"Jedes Skelett hat zwanzig Pfeile, {@dice 2d10} ss, {@dice 1d10} gs, und einen {@item +1 arrow|| +1 Pfeil} in einem speziellen Sockel in ihrem Köcher. Da die Skelette ohne Verstand sind nutzen sie die magischen Pfeile nicht."
 									],
 									"id": "055"
 								}
@@ -2631,25 +2631,25 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The masonry walls of this twenty-foot-wide hall are in poor repair. The far end has collapsed, filling the southern section with rubble. The western wall is in much better shape than the other walls, and it holds a stone door with a rearing dragon carved in relief on it. The door has a single keyhole, situated in the rearing dragon's open mouth."
+										"Die gemauerten Wände dieser 6 Meter (20ft) breiten Halle befinden sich in schlechtem Zustand. Das andere Ende der Halle ist zusammengebrochen und hat den südlichen Abschnitt mit Geröll gefüllt. Die westliche Wand sieht deutlich besser aus als die anderen Wände und sie beinhalted eine große, steinerne Tür. In die Tür eingehauen ist ein Relief, das einen sich aufbäumenden Drachen zeigt. Die Tür hat ein einziges Schlüsselloch, das sich genau im Munde des verkümmten Drachen befindet."
 									],
 									"id": "057"
 								},
 								{
 									"type": "entries",
-									"name": "Dragon Door",
+									"name": "Drachentür",
 									"page": 14,
 									"entries": [
-										"The door that is carved to look like a dragon has a mechanical lock as well as an {@spell arcane lock} spell cast on it. The Strength ({@skill Athletics}) check to defeat the arcane lock is DC 30, and the Dexterity check to bypass the magical lock using thieves' tools is DC 25. Casting a {@spell knock} spell on the door suppresses the magical lock for 10 minutes, lowering the DCs by 10 during that time. The mechanical lock remains intact if the magical lock is bypassed, requiring another {@spell knock} spell or the use of the key. The key, which bypasses the magical lock as well as the mechanical one, is in {@adventure area 21|TftYP-ZEN|0|21. Dragon Throne}."
+										"Die Drachentür verfügt über ein mechanisches Schloss und der Zauber {@spell arcane lock || Arkanes Schloss} wurde auf sie gewirkt. Möchte man das arkane Schloss gewaltsam aifbrechen benötigt man einen erfolgreichen DC 30 Strength ({@skill Athletics}) Check. Um das arkane Schloss mit Diebeswerkzeug zu knacken muss man einen DC 25 Dexterity Check schaffen. Einen {@spell knock || Klopfzauber} auf die Tür zu wirken unterdrückt das magische Schloss für 10 Minuten und verringert die DCs um 10 während dieser Zeit. Das mechanische Schloss bleibt intakt falls das magische Schloss umgangen wird und es wird ein weiterer {@spell knock || Klopfzauber} oder der passende Schlüssel benötigt um das Schloss zu öffnen. Der Schlüssel, der das magische Schloss sowie das mechanische Schloss umgeht, befindet sich in {@adventure Areal 21 |tftyp-zen|0|21. Drachenthron}."
 									],
 									"id": "058"
 								},
 								{
 									"type": "entries",
-									"name": "Creature",
+									"name": "Kreatur",
 									"page": 14,
 									"entries": [
-										"One {@creature giant rat} hides in the rubble. The rat attacks anyone who moves to within 5 feet of the edge of the rubble or anyone left alone in this area."
+										"Eine {@creature giant rat||Riesenratte} versteckt sich in dem Geröll. Die Ratte greift jeden an, der sich der Kante des Gerölls bis auf 2m (5ft) nähert oder der in diesem Areal alleine gelassen wird."
 									],
 									"id": "059"
 								}
@@ -2665,7 +2665,9 @@
 									"type": "insetReadaloud",
 									"entries": [
 										"As the door opens, a hissing noise and a puff of dust around the door indicate that the chamber beyond has been sealed for ages. Dust, long undisturbed, covers every surface in this large gallery. The air here is stale.",
-										"Three alcoves are on the north wall, and one is on the south wall. Each alcove contains a dust-covered stone pedestal with a fist-sized crystalline globe resting on it. The globes in the northern alcoves are cracked and dark, but the globe in the southern alcove glows with a soft blue light. Faint tinkling notes issue from it."
+										"Three alcoves are on the north wall, and one is on the south wall. Each alcove contains a dust-covered stone pedestal with a fist-sized crystalline globe resting on it. The globes in the northern alcoves are cracked and dark, but the globe in the southern alcove glows with a soft blue light. Faint tinkling notes issue from it.",
+										"Als sich die Tür öffnet zeigen ein zischendes Geräusch und eine Staubwolke um die Tür an, dass der dahinterliegende Raum für Ewigkeiten abgeschottet war. Staub, seit langer Zeit unberührt, bedeckt jede Oberfläche in dieser großen Gallerie. Die Luft hier ist muffig und abgestanden.",
+										"An der nördlichen Mauer befinden sich drei Alkoven und eine an der südlichen Mauer. Jede Nische enthält einen mit Staub bedeckten Steinsockel, auf dem jeweils eine faustgroßen Kristallkugel sitzt. Die Kugeln in den nördlichen Alkoven sind zersprungen und dunkel, aber die Kugel in der südlichen Alkove strahlt ein sanftes, blaues leuchten aus. Ihr hört leise, klingelnde Noten aus ihrer Richtung zu euch herüberschweben."
 									],
 									"id": "05b"
 								},
@@ -2909,57 +2911,7 @@
 									"name": "Treasure",
 									"page": 16,
 									"entries": [
-										"The {@creature dragonpriest|TftYP} has an ornate ceremonial dagger (worth 125 gp), two silver rings (15 gp each), and a silver amulet (15 gp). Scattered across the bottom of the sarcophagus are 220 sp, 50 gp, and four {@item Spell Scroll||spell scrolls}: {@spell command}, {@spell cure wounds} (2nd level), {@spell inflict wounds} (2nd level), and {@spell guiding bolt} (2nd level).",
-										{
-											"type": "inset",
-											"name": "Random Encounters",
-											"page": 16,
-											"entries": [
-												"In areas 13 and beyond, monsters move through the halls of the Sunless Citadel. For every 12 hours the characters spend in the dungeon, roll a {@dice d20} and refer to the following table if the characters are in an accessible hallway or room at that time.",
-												{
-													"type": "table",
-													"colLabels": [
-														"d20",
-														"Encounter"
-													],
-													"colStyles": [
-														"col-2 text-center",
-														"col-10"
-													],
-													"rows": [
-														[
-															"1",
-															"{@dice 1d6} {@creature Kobold||kobolds}"
-														],
-														[
-															"2",
-															"{@dice 1d6} {@creature Giant Rat||giant rats}"
-														],
-														[
-															"3",
-															"{@dice 1d4} {@creature Goblin||goblins}"
-														],
-														[
-															"4",
-															"{@dice 1d2} {@creature Hobgoblin||hobgoblins}"
-														],
-														[
-															"5",
-															"{@dice 1d4} {@creature Skeleton||skeletons}"
-														],
-														[
-															"6",
-															"{@dice 1d6} {@creature Zweigplage||Zweigplagen}"
-														],
-														[
-															"7\u201320",
-															"No encounter"
-														]
-													]
-												}
-											],
-											"id": "077"
-										}
+										"The {@creature dragonpriest|TftYP} has an ornate ceremonial dagger (worth 125 gp), two silver rings (15 gp each), and a silver amulet (15 gp). Scattered across the bottom of the sarcophagus are 220 sp, 50 gp, and four {@item Spell Scroll||spell scrolls}: {@spell command}, {@spell cure wounds} (2nd level), {@spell inflict wounds} (2nd level), and {@spell guiding bolt} (2nd level)."
 									],
 									"id": "076"
 								}
@@ -2968,14 +2920,72 @@
 						},
 						{
 							"type": "entries",
+							"name": "Begegnungen",
+							"page": 16,
+							"entries": [
+								{
+									"type": "inset",
+									"name": "Random Encounters",
+									"page": 16,
+									"entries": [
+										"In areas 13 and beyond, monsters move through the halls of the Sunless Citadel. For every 12 hours the characters spend in the dungeon, roll a {@dice d20} and refer to the following table if the characters are in an accessible hallway or room at that time.",
+										{
+											"type": "table",
+											"colLabels": [
+												"d20",
+												"Encounter"
+											],
+											"colStyles": [
+												"col-2 text-center",
+												"col-10"
+											],
+											"rows": [
+												[
+													"1",
+													"{@dice 1d6} {@creature Kobold||kobolds}"
+												],
+												[
+													"2",
+													"{@dice 1d6} {@creature Giant Rat||giant rats}"
+												],
+												[
+													"3",
+													"{@dice 1d4} {@creature Goblin||goblins}"
+												],
+												[
+													"4",
+													"{@dice 1d2} {@creature Hobgoblin||hobgoblins}"
+												],
+												[
+													"5",
+													"{@dice 1d4} {@creature Skeleton||skeletons}"
+												],
+												[
+													"6",
+													"{@dice 1d6} {@creature Zweigplage||Zweigplagen}"
+												],
+												[
+													"7\u201320",
+													"No encounter"
+												]
+											]
+										}
+									],
+									"id": "077"
+								}
+							],
+							"id": "078a"
+						},
+						{
+							"type": "entries",
 							"name": "13. Leerer Raum",
 							"page": 16,
 							"entries": [
-								"Several empty rooms in the fortress have the same characteristics. Nothing of note can be found in any of them.",
+								"Einige leere Räume in der Festung haben dieselben Charakteristiken. Hier kann nichts bemerkenswertes gefunden werden.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"This ruined chamber stands empty of all but a litter of rocky debris."
+										"Diese düstere Kammer ist leer und verlassen bis auf einen Haufen von Steinen und Schutt"
 									],
 									"id": "079"
 								}
@@ -2990,35 +3000,36 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The stone relief-carved door sealing this chamber portrays a dragon-like fish swimming."
+										"Auf der steinernen Tür zu diesem Raum befindet sich ein kunstvolles Relief. Es zeigt einen drachenähnlichen Fisch beim Schwimmen."
 									],
 									"id": "07b"
 								},
-								"The door is locked but can be opened with thieves' tools and a successful DC 20 Dexterity check.",
-								"If the door is opened, read:",
+								"Diese Tür ist verschlossen aber kann mit Diebeswerkzeug und einem erfolgreichen DC 20 Dexterity Check entriegelt werden",
+								"Wenn die Tür geöffnet wurde, dann lies:",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"This ten-foot-square chamber is hewn from stone. It contains an upright keg fashioned of rusted iron. Rusted pipes lead from the keg into the floor."
+										"Dieser 3-mal-3 Meter (10ft x 10 ft) große Raum is komplett aus Stein gemeißelt. Er enthält einen ein aufrecht stehendes Fass aus verrostetem Eisen. Verrostete Rohre winden sich von dem Fass in den Boden."
 									],
 									"id": "07c"
 								},
-								"If anyone shakes or strikes the keg, the sound of sloshing liquid comes from inside it. The connecting pipes hold the keg in place, preventing it from being detached. The characters can remove a wide metallic bung on the keg's top with a successful DC 15 Strength check, or someone can easily stave in the side of the keg.",
+								"Falls irgendjemand das Fass schüttelt oder schlägt kann das Geräusch einer herumschwappenden Flüssigkeit aus dem Inneren gehört werden. Die verbundenen Rohre halten das Fass an Ort und Stelle und sorgen dafür, dass es nicht bewegt werden kann. Die Charaktere können einen weiten, metallischen Stopfen auf der Oberseite des Fasses entfernen, falls sie einen DC 15 Strength Check schaffen. Ein Charakter kann ohne Schwierigkeiten die Seite des Fasses einschlagen.",
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 16,
 									"entries": [
-										"If the keg is breached, the {@creature ice mephit} and the {@creature steam mephit} confined within it are released. The creatures attack anyone who has disturbed the keg."
+										"Falls das Fass durchbrochen wird begreit das den {@creature ice mephit|| Eismephit} und den {@creature steam mephit||Dampfmephit} im Inneren. Die Kreaturen greifen jeden an, der an dem Fass herumhantiert hat."
 									],
 									"id": "07d"
 								},
 								{
 									"type": "entries",
-									"name": "Treasure",
+									"name": "Schätze",
 									"page": 16,
 									"entries": [
-										"Within the keg are five tiny sapphires (worth 10 gp each) used to bring about the magic that bound the mephits."
+										"Within the keg are five tiny sapphires (worth 10 gp each) used to bring about the magic that bound the mephits.",
+										"Im Inneren des Fasses sind 5 kleine Saphire (jeder 10gs wert), die genutzt wurden, um die Mephite in das Fass zu binden. Die Magie, mit denen die Saphire einst aufgeladen wurden, ist längst verloschen."
 									],
 									"id": "07e"
 								}

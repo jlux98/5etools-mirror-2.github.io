@@ -49,39 +49,40 @@
 			"source": "TftYP",
 			"caption": "Inventar der Gegenstände in Konrads Kuriositäten",
 			"colLabels": [
+				"Menge",
 				"Gegenstand",
-				"Preis",
-				"Menge"
+				"Preis"
 			],
 			"rows":
 				[
 					[
-						"{@item Elven Trinket | mtf | Gegenstände aus dem Herbstwald (Eluins Heimat)}",
-						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
-						"3x"
+						"3x",
+						"{@item Elven Trinket | mtf | Elfisches Zeug}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})"
 					],
 					[
-						"{@item Horror Trinket | vrgr | Gegenstände aus Osken (Kulghas Heimat)}",
-						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
-						"3x"
+						"3x",
+						"{@item Horror Trinket | vrgr | Zeug aus Osken (Kulghas Heimat)}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})"
 					],
 					[
-						"{@item Trinket | phb | Gegenstände aus Zucresh (Titus Heimat)}",
-						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})",
-						"3x"
+						"3x",
+						"{@item Trinket | phb | Zeug aus Zucresh (Titus Heimat)}",
+						"Von ein paar Kupferstücken bis zu 50 Goldstücke (s. {@table Pricing Trinkets | TftYP})"
 					],
 					[
+						"",
 						"{@item Horn of Silent Alarm |xge| Horn des Stillen Weckrufs}",
 						"50gs"
 					],
 					[
+						"",
 						"{@item Oil of Slipperiness || Öl der Schlüpfrigkeit}",
 						"50gs"
 					],
 					[
-						"{@item Wand of Magic Detection || Zauberstab der Magie-Aufspührung}",
-						"500gs oder Miete für 5gs pro Tag (+ 50gs und ein Haarbüschel/Fingernagel/etc. als Kaution)"
-					]
+						"",
+						"{@item 
 				]
 		},
 		{
