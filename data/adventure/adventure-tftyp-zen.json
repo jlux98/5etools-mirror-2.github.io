@@ -3044,11 +3044,11 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Crudely executed symbols and glyphs, scribed in bright green dye, decorate this large and irregularly shaped crumbling chamber. A large pit in the center shows evidence of a recent fire. A metallic cage in the middle of the southern wall contains a gaping hole and stands empty. A small wooden bench draped with green cloth is next to the cage, and several small objects rest on it. A bedroll lies near the wooden bench, and the sound of whimpering comes from inside it."
+										"Ungelenk gezeichnete Symbole und Glyphen in leuchtend grüner Fare dekorieren diese große und unregelmäßig geformten, zerfallenden Kammer. Eine große Grube im Zentrum des Raums enhält Hinweise auf ein kürzlich entzündetes Feuer. An der Südwand des Raumes steht ein leerer Metallkäfig mit einem großen Loch. Neben dem Käfig steht eine kleine Bank aus Holz, sie ist mit grünem Tuch bedeckt, auf dem mehrere kleine Objekte liegen. Neben der Bank auf dem Boden liegt ein Schlafsack, aus dem Weinen und Schluchzen zu hören ist."
 									],
 									"id": "080"
 								},
-								"Until recently, the kobolds confined a {@creature white dragon wyrmling} in the cage and placed it under heavy guard. Those guards were not strong enough to stand against a sortie by goblins that stole the wyrmling a week ago.",
+								"Bis vor Kurzem haben die Kobolde in diesem Käfig einen {@creature white dragon wyrmling|| Weissen Drachennestling} gefangen gehalten und ihn unter ständige Bewachung gesetzt. Diese Wachen waren allerdings nicht stark geung um einem Überfallkommando der Goblins die Stirn zu bieten, das den Nestling vor einer Woche gestohlen hat.",
 								{
 									"type": "image",
 									"href": {
@@ -3060,40 +3060,41 @@
 								},
 								{
 									"type": "entries",
-									"name": "Creature",
+									"name": "Kreatur",
 									"page": 16,
 									"entries": [
-										"Meepo, the {@creature kobold} who was his tribe's Keeper of Dragons, is now the sole occupant of the chamber. He is heartsick at the loss of the wyrmling and spends much of his time nowadays in nightmare-ridden sleep in his bedroll. With the loss of his charge, Meepo's status is in the gutter. He doesn't react to anything short of loud noise or direct prodding.",
-										"If he is disturbed, Meepo is frightened but willing to talk. He is weepy. His numerous obvious scars are souvenirs of his job as Keeper of Dragons. If he is asked about the cage or queried in any way that mentions a dragon, he says, \"The clan's dragon... we lost it. The wretched goblins stole {@creature Calcryx|TftYP}, our dragon!\"",
-										"To all other questions, Meepo responds by saying, \"Meepo don't know, but {@creature Yusdrayl|TftYP} does. Meepo take you to meet {@creature Yusdrayl|TftYP}, our leader, if you make nice. You get safe passage, if you promise to make nice. Maybe if you promise to rescue dragon, {@creature Yusdrayl|TftYP} make nice to you, answer questions.\"",
-										"Meepo perks up as he senses the possibility of getting the dragon back. True to his word, he guides the characters to {@adventure area 21|TftYP-ZEN|0|21. Dragon Throne}. Along the way, he shouts out \"Ticklecorn!\" (in Draconic) from time to time, explaining that it's a password that tells other kobolds the characters are friendly. If the characters leave Meepo behind, or if they are antagonistic toward him, the characters don't learn the password, and all other kobolds are hostile toward the party."
+										"Meepo der {@creature Kobold} ist der Drachenwächter seines Stammes und die momentan einzige Kreatur in diesem Raum. Er ist tief betrübt über den Verlust des Nestlings und verbringt heutzutage seine Zeit größtenteils damit, sich von Alpträumen geschüttelt in seinem Schlafsack hin- und herzuwälzen. Nachdem er seinen Schützling verloren hat ist Meepos Status im Eimer. Er zeigt keine Reaktionen außer auf laute Geräusche oder direktes Anstupsen.",
+										"Falls die Charaktere ihn stören, dann ist Meepo verängstigt aber bereit, mit ihnen zu reden. Er ist weinerlich. Seine vielen, offensichtlichen Narben sind Abzeichen seiner Aufgabe als Drachenwächter. Fall er über den Käfig befragt wird oder irgendeine andere Frage gestellt bekommt, die einen Drachen erwähnt, sagt er \"Der Clandrache... wir haben ihn verloren. Die verfluchten Goblins haben {@creature Calcryx|TftYP}, unseren Drachen gestohlen!\"",
+										"Auf alle anderen Fragen antwortet Meepo mit \"Meepo weiß nicht, aber {@creature Yusdrayl|TftYP} weiß. Meepo bringt Fremde zu {@creature Yusdrayl|TftYP} wenn Fremde lieb sind. Fremden wird nichts passieren wenn Fremde versprechen, dass sie lieb seid. Vielleicht wenn Fremde versprechen, dass Fremde den Drachen zurückbringen, vielleicht ist {@creature Yusdrayl|TftYP} dann lieb zu Fremden, beantwortet Fragen.\"",
+										"Meepo lebt auf wenn er die Möglichkeit sieht, den Drachen zurückzubekommen. Seinem Wort gemäß führt er die Charaktere zu {@adventure Areal 21|TftYP-ZEN|0|21. Dragonthron}. Den Weg entlang ruft er immer wieder \"Kitzelmais\" in der Drachensprache und erklärt, dass das ein Passwort ist, das die anderen Kobolde informiert, dass die Charaktere freundlich sind. Falls die Charaktere Meepo zurücklassen oder falls sie feindselig zu ihm sind, dann lernen die Charaktere das Passwort nicht und alle anderen Kobolde werden der Gruppe feindlich gegenüberstehen."
 									],
 									"id": "081"
 								},
 								{
 									"type": "entries",
-									"name": "Development",
+									"name": "Entwicklung",
 									"page": 17,
 									"entries": [
-										"If combat occurs in this chamber, the kobolds in the nearby area 16 are alerted, and they rush out to meet enemies."
+										"Falls in diesem Raum ein Kampf losbricht, dann werden die Kobolde im nahen Areal 16 alarmiert und sie werden hinauslaufen um sich ihren Feinden zu stellen."
 									],
 									"id": "082"
 								},
 								{
 									"type": "entries",
-									"name": "Investigating",
+									"name": "Untersuchen",
 									"page": 17,
 									"entries": [
-										"The symbols on the walls are crudely formed in Draconic and read, \"Here There Be Dragons.\" The metallic cage is all but destroyed and can't be used to restrain captives. A search of the cage reveals white scales that someone who has proficiency in {@skill Nature} or {@skill Survival} can determine to be from no natural animal. A successful DC 15 check using either skill identifies the scales as those of a white dragon wyrmling. The firepit, if its ashes are sifted, is found to hold charred bits of kobold bones and armor."
+										"Die Symbole an den Wänden sind in plumpen, drakonischen Buchstaben geschrieben und bedeuten \"Hier sein Drachen.\". Der Metallkäfig ist fast komplett zerstört und kann nicht mehr genutzt werden um Gefangene festzuhalten. Im Käfig können weiße Schuppen gefunden werden und ein Charakter, der proficient in {@skill Nature} oder {@skill Survival} ist, weiß, dass diese Schuppen nicht von einem Tier stammen. Mit einem erfolgreichen DC 15 Check mit einem der beiden Skills können die Schuppen als die Schuppen eines {@creature white dragon wyrmling|| Weissen Drachennestlings} identifiziert werden. In der Asche der Feuerstelle können verbrannte Stücke von Koboldknochen und Koboldrüstungen gefunden werden."
 									],
 									"id": "083"
 								},
 								{
 									"type": "entries",
-									"name": "Treasure",
+									"name": "Schätze",
 									"page": 17,
 									"entries": [
-										"The bench serves as a sort of tiny altar. Resting on it are containers of green dye, a paintbrush made of goblin-hair bristles, and four tiny jade figurines of dragons (worth 15 gp each). A thorough search of the firepit and a successful DC 15 Wisdom ({@skill Perception}) check reveals another jade figurine."
+										"The bench serves as a sort of tiny altar. Resting on it are containers of green dye, a paintbrush made of goblin-hair bristles, and four tiny jade figurines of dragons (worth 15 gp each). A thorough search of the firepit and a successful DC 15 Wisdom ({@skill Perception}) check reveals another jade figurine.",
+										"Die Bank fungiert als eine Art kleiner Altar. Auf ihr liegen Behälter mit grüner Farbe, ein Pinsel mit Goblin-Haar-Borsten und vier kleine Drachenfiguren aus Jade (jeweils 15gs wert). Eine gründliche Durchsuchung der Feuerstelle in Verbindung mit einem erfolgreichen DC 15 Wisdom ({@skill Perception}) Check bringt eine weitere Jade-Drachenfigur zum Vorschein."
 									],
 									"id": "084"
 								}
