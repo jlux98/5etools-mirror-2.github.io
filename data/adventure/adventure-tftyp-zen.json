@@ -319,6 +319,7 @@
 									"type": "insetReadaloud",
 									"entries": [
 										"Die Alte Straße läuft ostwärts an einer engen Schlucht vorbei. Dort, wo die Straße der Klamm am nächsten kommt, seht ihr an einer verbreiterten Stelle mehrere Säulen, an denen der Zahn der Zeit bereits seine Spuren hinterlassen hat. Zwei der Säulen stehen aufrecht, aber die meisten ragen schräg aus der Erde hervor. Andere sind zersprungen und es sieht aus, als wären einige Säulen bereits in die dunklen Tiefen gestürzt. Eine handvoll ähnliche Säulen befinden sich auf der anderen Seite der Schlucht.",
+										"Als ihr euch den Säulen nähert seht ihr, dass sie mit Drachen-Ikonographie überzogen sind - Schuppenmuster, aufgerissene Mäuler, und Flammen könnt ihr wage erkennen.",
 										"Ein robustes, mit Knoten übersätes Seil wurde um eine der schrägen Säulen diesseits der Schlucht geschlungen und befestigt."
 									],
 									"id": "039"
@@ -2564,9 +2565,18 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Dieser kreisförmige Bereich ist mit rissigem Granit gepflastert, auf dem die Leichen von vier Goblins liegen. Sie sind offenbar im Kampf getötet worden. Eine Leiche steht mit dem Rücken an der westlichen Wand, der Speer, der sie getötet hat, spießt sie immer noch auf und hält sie aufrecht. Drei Holztüren führen von diesem Bereich weg. Ein hohler Turm aus losem Mauerwerk ragt 20 Meter hoch in die Luft. Die dazwischen liegenden Stockwerke und Treppen sind verschwunden, abgesehen von ein paar zerbröckelten Vorsprüngen."
+										"Dieser kreisförmige Bereich ist mit rissigem Granit gepflastert, auf dem die Leichen von vier Goblins liegen. Sie sind offenbar im Kampf getötet worden. Eine Leiche steht mit dem Rücken an der westlichen Wand, der Speer, der sie getötet hat, spießt sie immer noch auf und hält sie aufrecht. Um euch herum ragt ein hohler Turm aus losem Mauerwerk 20 Meter hoch in die Luft. Die dazwischen liegenden Stockwerke und Treppen sind verschwunden, abgesehen von ein paar zerbröckelten Vorsprüngen. Es gibt drei Türen in diesem Raum, zwei aus Holz (eine davon ist die, durch die ihr gekommen seid) und eine aus Stein. In die Steintür eingehauen ist ein Relief, das einen sich aufbäumenden Drachen zeigt. Die Tür hat ein einziges Schlüsselloch, das sich genau im Munde des verkümmten Drachen befindet."
 									],
 									"id": "04f"
+								},
+								{
+									"type": "entries",
+									"name": "Drachentür",
+									"page": 14,
+									"entries": [
+										"Die Drachentür verfügt über ein mechanisches Schloss und der Zauber {@spell arcane lock || Arkanes Schloss} wurde auf sie gewirkt. Möchte man das arkane Schloss gewaltsam aifbrechen benötigt man einen erfolgreichen DC 30 Strength ({@skill Athletics}) Check. Um das arkane Schloss mit Diebeswerkzeug zu knacken muss man einen DC 25 Dexterity Check schaffen. Einen {@spell knock || Klopfzauber} auf die Tür zu wirken unterdrückt das magische Schloss für 10 Minuten und verringert die DCs um 10 während dieser Zeit. Das mechanische Schloss bleibt intakt falls das magische Schloss umgangen wird und es wird ein weiterer {@spell knock || Klopfzauber} oder der passende Schlüssel benötigt um das Schloss zu öffnen. Der Schlüssel, der das magische Schloss sowie das mechanische Schloss umgeht, befindet sich in {@adventure Areal 21 |tftyp-zen|0|21. Drachenthron}."
+									],
+									"id": "058"
 								},
 								{
 									"type": "entries",
@@ -2631,18 +2641,9 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Die gemauerten Wände dieser 6 Meter (20ft) breiten Halle befinden sich in schlechtem Zustand. Das andere Ende der Halle ist zusammengebrochen und hat den südlichen Abschnitt mit Geröll gefüllt. Die westliche Wand sieht deutlich besser aus als die anderen Wände und sie beinhalted eine große, steinerne Tür. In die Tür eingehauen ist ein Relief, das einen sich aufbäumenden Drachen zeigt. Die Tür hat ein einziges Schlüsselloch, das sich genau im Munde des verkümmten Drachen befindet."
+										"Die gemauerten Wände dieser 6 Meter (20ft) breiten Halle befinden sich in schlechtem Zustand. Das andere Ende der Halle ist zusammengebrochen und hat den südlichen Abschnitt mit Geröll gefüllt. Die westliche Wand sieht deutlich besser aus als die anderen Wände und sie beinhaltet eine große, steinerne Tür."
 									],
 									"id": "057"
-								},
-								{
-									"type": "entries",
-									"name": "Drachentür",
-									"page": 14,
-									"entries": [
-										"Die Drachentür verfügt über ein mechanisches Schloss und der Zauber {@spell arcane lock || Arkanes Schloss} wurde auf sie gewirkt. Möchte man das arkane Schloss gewaltsam aifbrechen benötigt man einen erfolgreichen DC 30 Strength ({@skill Athletics}) Check. Um das arkane Schloss mit Diebeswerkzeug zu knacken muss man einen DC 25 Dexterity Check schaffen. Einen {@spell knock || Klopfzauber} auf die Tür zu wirken unterdrückt das magische Schloss für 10 Minuten und verringert die DCs um 10 während dieser Zeit. Das mechanische Schloss bleibt intakt falls das magische Schloss umgangen wird und es wird ein weiterer {@spell knock || Klopfzauber} oder der passende Schlüssel benötigt um das Schloss zu öffnen. Der Schlüssel, der das magische Schloss sowie das mechanische Schloss umgeht, befindet sich in {@adventure Areal 21 |tftyp-zen|0|21. Drachenthron}."
-									],
-									"id": "058"
 								},
 								{
 									"type": "entries",
@@ -2981,7 +2982,7 @@
 							"name": "13. Leerer Raum",
 							"page": 16,
 							"entries": [
-								"Einige leere Räume in der Festung haben dieselben Charakteristiken. Hier kann nichts bemerkenswertes gefunden werden.",
+								"Einige leere Räume in der Festung haben dieselben Charakteristiken. Hier kann nichts bemerkenswertes gefunden werden. Diese Räume eignen sich hervorragend zum Rasten.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
@@ -3093,7 +3094,6 @@
 									"name": "Schätze",
 									"page": 17,
 									"entries": [
-										"The bench serves as a sort of tiny altar. Resting on it are containers of green dye, a paintbrush made of goblin-hair bristles, and four tiny jade figurines of dragons (worth 15 gp each). A thorough search of the firepit and a successful DC 15 Wisdom ({@skill Perception}) check reveals another jade figurine.",
 										"Die Bank fungiert als eine Art kleiner Altar. Auf ihr liegen Behälter mit grüner Farbe, ein Pinsel mit Goblin-Haar-Borsten und vier kleine Drachenfiguren aus Jade (jeweils 15gs wert). Eine gründliche Durchsuchung der Feuerstelle in Verbindung mit einem erfolgreichen DC 15 Wisdom ({@skill Perception}) Check bringt eine weitere Jade-Drachenfigur zum Vorschein."
 									],
 									"id": "084"
@@ -3106,19 +3106,19 @@
 							"name": "16. Kobold Wachstube",
 							"page": 17,
 							"entries": [
-								"Three rooms in the fortress serve as kobold guard stations. All have the same characteristics.",
+								"Drei Räume in der Festung dienen als Kobold-Wachstuben. Alle haben dieselben Eigenschaften.",
 								{
 									"type": "entries",
-									"name": "Door Trap",
+									"name": "Türfalle",
 									"page": 17,
 									"entries": [
-										"The door leading to the room is trapped with a tripwire that the kobolds connect after shutting the door. Hitting this tripwire, 2 inches off the ground stretched between opposite door frames and running up the frame, causes the trap to trigger. A character who succeeds on a DC 10 Wisdom ({@skill Perception}) check spots the wire. If a character then succeeds on a DC 10 Dexterity check using thieves' tools, the tripwire is cut without triggering the trap. A character can attempt this check using any edged weapon or edged tool in place of thieves' tools, but does so with disadvantage.",
-										"On a failed Dexterity check, the trap triggers, tipping over a clay pot of offal, garbage, and dragon droppings that falls on any creature in the doorway and splatters in a 5-foot radius. A creature hit by the stuff must succeed on a DC 10 Constitution saving throw or be {@condition poisoned} for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.",
-										"The kobolds release the tension on the tripwire when they exit, meaning that any guardroom that has been vacated can be entered safely.",
+										"Die Tür, die zu dem Raum führt, ist mit einem Stolperdraht gesichert, das die Kobolde aktivieren wenn sie die Tür hinter sich schließen. Der Stolperdraht verläuft 5cm (2in) über dem Boden, zwischen den zwei gegenüberliegenden Seiten des Türrahmens, dann den Rahmen hinauf zum Auslöser. Die Falle wird ausgelöst, wenn ein Charakter auf den Stolperdraht drauftritt. Ein Charakter, der einen DC 10 Wisdom ({@skill Perception}) Check schafft sieht den Stolperdraht. Falls ein CHarakter einen DC 10 Dexterity Check mit Diebeswerkzeug besteht, dann kann der Stolperdraht durchgeschnitten werden ohne die Falle auszulösen. Ein Charakter kann diesen Check auch mit einer scharfen Waffe oder einem scharfen Werkzeug versuchen, tut dies dann aber mit Disadvantage.",
+										"Wenn die Falle ausgelöst wird, dann öffnet sich eine Klappe über der Tür und organischer Abfall, Müll und Drachenmist fallen herunter. Sie treffen jede Kreatur, die sich gerade im Türrahmen befindet und verteilen sich in einem 1,5m (5ft) Radius. Jede Kreatur, die von dem Zeug getroffen wird, muss einen DC10 Constitution Saving Throw bestehen oder wird {@condition poisoned||vergiftet} für 1 Minute. Eine betroffene Kreatur kann den Saving Throw am Ende jedes Zuges wiederholen, wobei der Effekt bei einem erfolgreichen Save beendet wird. Außerdem ertönt eine Glocke, die die Kobold-Wachen über das Auslösen der Falle in Kenntnis setzt",
+										"Die Kobolde entspannen den Draht wenn sie den Wachposten verlassen. Das bedeutet, dass jede Wachstube, die verlassen ist, gefahrlos betreten werden kann.",
 										{
 											"type": "insetReadaloud",
 											"entries": [
-												"A small pit of embers, built of broken masonry and portions of shattered stone sculptures, smolders in the center of this chamber. Arrayed around the pit are several small rugs woven of matted hair and dead fungi."
+												"Glut funkelt in einer kleinen Feuerstelle in der Mitte des Raumes, die aus kaputtem Steinwerk und zerbrochenen Steinstatuen errichtet wurde. Um die Feuerstelle herum liegen einige kleine Matten, die aus verfilzten Haaren und toten Filzfasern gewoben wurden."
 											],
 											"id": "087"
 										}
@@ -3127,11 +3127,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 17,
 									"entries": [
-										"The room serves as a barracks and guard post for the kobold tribe's warriors. Three {@creature Kobold||kobolds} stand guard inside, unless they have already come forth to reinforce other kobolds.",
-										"If the characters try to talk and the interaction is successful, the kobolds direct the characters to head toward \"{@creature Yusdrayl|TftYP} on her dragon throne,\" giving them simple directions to {@adventure area 21|TftYP-ZEN|0|21. Dragon Throne} and warning them to avoid rousing the ire of {@creature Yusdrayl|TftYP}'s elite guards."
+										"Der Raum dient als Barracke und Wachtposten für die Krieger des Koboldstammes. Drei {@creature Kobold||Kobolde} halten in diesem Raum Wache außer wenn sie bereits nach draußen gegangen sind um andere Kobolde zu unterstützen.",
+										"Falls die Charaktere erfolgreich mit den Kobolden reden, dann werden sie die Charaktere anweisen, sich zu \"{@creature Yusdrayl|TftYP} auf ihrem Drachenthron\" zu begeben zusammen mit einer kurzen Wegbeschreibung zu {@adventure Areal 21|TftYP-ZEN|0|21. Drachenthron}. Sie werden die Charaktere außerdem davon warnen, den Zorn von {@creature Yusdrayl|TftYP|Yusdrayls} Elite-Wächtern auf sich zu ziehen."
 									],
 									"id": "088"
 								}
@@ -3143,20 +3143,20 @@
 							"name": "17. Drachenfraß",
 							"page": 17,
 							"entries": [
-								"A character who approaches the door can smell the stench of what lies beyond. If the door is opened, read:",
+								"Ein Charakter, der sich der Tür nähert, kann den Gestank schon von weitem riechen. Wenn die Tür geöffnet wird, dann lies:",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Rats fill the room, trapped among their own waste. A small half-barrier prevents the rats from easily escaping when the door is open."
+										"Ratten füllen den Raum, gefangen in ihrem eigenen Abfall. Eine hüfthohe Barriere verhindert, dass die Ratten einfach flüchten können sobald die Tür des Raums geöffnet wird."
 									],
 									"id": "08a"
 								},
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 17,
 									"entries": [
-										"The rats are used as food for the dragon wyrmling that was once stabled in {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell}. Since the abduction of the dragon, the kobolds have neglected the rats, and in the meantime the rodents have chewed away the fastenings of the barrier. One round after someone opens the door, the rats knock the barrier over and rush out, attacking as a {@creature swarm of rats} for 1 round, after which they disperse into the dungeon."
+										"Die Kobolde nutzen die Ratten als Futter für den Drachennestling, der einst in {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} untergebracht war. Seit der Entführung des Drachen haben die Kobolde die Ratten vernachlässigt und in der Zwischenzeit haben die Tiere die Befestigungen der Barriere zernagt. Eine Runde nachdem jemand die TÜr öffnet werden die Ratten die Barriere umstoßen und nach draußen stürmen. Sie werden einen Zug lang als ein {@creature swarm of rats||Schwarm von Ratten} angreifen, bevor sie sich in die Festung verteilen."
 									],
 									"id": "08b"
 								}
@@ -3168,11 +3168,11 @@
 							"name": "18. Gefängnis",
 							"page": 18,
 							"entries": [
-								"Each door that lead to the prison chamber is locked, requiring a DC 15 Dexterity check using thieves' tools to unlock, and also barred on the outside with an iron rod. If a character attempts to open either door while any kobolds are present, the kobolds warn against doing so. Opening a door in spite of this warning turns the kobolds hostile.",
+								"Alle Türen, die in die Verließkammer führen, sind verschlossen und benötigen einen DC 15 Dexterity Check mit Diebeswerkzeug um das Schloss zu öffnen. Sie sind außerdem von außen mit Eisenstangen verriegelt. Falls ein Charakter versucht, die Tür zu öffnen, während Kobolde anwesend sind, werden die Kobolde versuchen, den Charakter davor warnen. Die Tür trotz dieser Warnungen zu öffnen führt dazu, dass die Kobolde zu Feinden werden. ",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Four small humanoids are shackled by thick, rusted chains attached to a large iron spike set in the floor. Several broken weapons and sundered shields lie in one corner."
+										"Vier kleine Humanoiden sind mit dicken, verrosteten Ketten an ein großes Stück Eisen, das in den Boden geschlagen wurde gefesselt. Einige zerbrochene Waffen und zerschlagene Schilde liegen in einer Ecke."
 									],
 									"id": "08d"
 								},
@@ -3181,8 +3181,8 @@
 									"name": "Creatures",
 									"page": 18,
 									"entries": [
-										"Four {@creature Goblin||goblins} are chained here, taken prisoner during the course of several skirmishes. Every so often, the kobolds remove a goblin from the room and ransom it back to the goblins (for a price of {@dice 2d10} sp). Those who can't be ransomed are bound for the kobold cook pot. The goblins whine and cower pathetically if any characters enter the room. A character who succeeds on a DC 15 Dexterity check using thieves' tools can open the lock on the chains, or the chains can be broken (Strength DC 20) or sundered (AC 15, 60 hit points).",
-										"The goblins promise anything and everything in exchange for their release, including safe passage for the characters to their chief. The creatures have no power to guarantee their promises, however. In addition, if the goblins are released, any understanding the characters have with the kobolds is voided. Freed goblins flee at the first hint of trouble, and they double-cross their rescuers if threatened by other goblins."
+										"Vier {@creature Goblin||Goblins} sind hier angekettet, sie wurden in verschiedenen Scharmützeln gefangen genommen. Immer mal wieder entfernen die Kobolde einen der Goblins aus diesem Raum und lassen ihn gegen ein Lösegeld von {@dice 2d10} Goldstücken frei. Diejenigen, für die kein Lösegeld erziehlt werden kann, werden als Lockvögel für die Jagden der Kobolde im Unterreich verwendet. Die Goblins weinen und ducken sich mitleidheischend falls die Spielercharaktere den Raum betreten. Ein Charakter, der einen DC 15 Dexterity Check mit Diebeswerkzeug schafft, kann die Schlösser an den Ketten der Goblins öffnen. Die Ketten können auch zerrissen (Strength DC 20) oder zerschlagen (AC 15, 60 HP) werden.",
+										"Die Goblins versprechen den Spielercharakteren die Welt im Gegenzug für ihre Befreiung, inklusive sie unbeschadet zu ihrem Anführer zu bringen. Die Goblins haben allerdings keine Macht, ihre Versprechen einzuhalten. Außerdem sind für die Goblins alle mit den Charakteren geschlossenen Abmachungen nichtig sobald sie befreit wurden. Befreite Goblins fliehen beim ersten Anzeichen von Ärger und sie werden ihre Befreier verraten, wenn sie von anderen Goblins bedroht werden."
 									],
 									"id": "08e"
 								}
@@ -3197,25 +3197,26 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"A double row of relief-carved marble columns march the length of this long, large hall. The worn carvings depict entwining dragons."
+										"A double row of relief-carved marble columns march the length of this long, large hall. The worn carvings depict entwining dragons.",
+										"Zwei Reihen von mit Reliefen verzierten Marmor-Säulen verlaufen der Länge nach durch diese große, langgezogene Halle. Die verwitterten Reliefs zeigen ineinander verwundene Drachen."
 									],
 									"id": "090"
 								},
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 18,
 									"entries": [
-										"An elite squad of three {@creature Kobold||kobolds} (each with 7 hit points) patrols the hall, considering the duty an honor. The guards pay particular attention to the door that leads to {@adventure area 24|TftYP-ZEN|0|24. Trapped Access}, which is along the route traditionally used by goblin raiders. These kobolds react to the character's presence in the same way as the ordinary ones described in {@adventure area 16|TftYP-ZEN|0|16. Kobold Guardroom}. If the characters head for {@adventure area 21|TftYP-ZEN|0|21. Dragon Throne} without causing hostilities, these guards follow the characters into {@creature Yusdrayl|TftYP}'s presence."
+										"Ein Elite-Squad von drei {@creature Kobold||Kobolden} (jeder mit jeweils 7HP) patrollieren die Halle. Sie sehen diese Pflicht als eine Ehre an. Die Wachen sind besonders Aufmerksam wenn es um die Tür zu {@adventure Areal 24|TftYP-ZEN|0|24. Mit Fallen versehener Zugang} geht, denn dies ist die Route, die meistens von Goblins für ihre Angriffe genutzt wird. Diese Kobolde reagieren auf die Präsenz von Spielercharakteren genauso wie die normalen Kobolde beschrieben in {@adventure Areal 16|TftYP-ZEN|0|16. Kobold Wachstube}. Falls die Charaktere sich auf den Weg nach {@adventure Areal 21|TftYP-ZEN|0|21. Drachenthron} machen ohne sich feindselig zu verhalten, dann werden die Wachen ihnen zu {@creature Yusdrayl|TftYP} folgen."
 									],
 									"id": "091"
 								},
 								{
 									"type": "entries",
-									"name": "Development",
+									"name": "Entwicklung",
 									"page": 18,
 									"entries": [
-										"If combat erupts here, the result is likely to be deadly for the party. Any kobolds remaining in the areas nearby enter the room as reinforcements. {@creature Yusdrayl|TftYP} and her two guards arrive from area 21 at the start of the second round of combat. At the start of the fifth round, the kobolds in the area 16 to the southwest of this room come on the scene. At the start of the eighth round, the kobolds from {@adventure area 23|TftYP-ZEN|0|23. Underdark Access} enter the fray. (Kobolds that leave their original area and are slain here should be noted for possible future reference.)"
+										"Falls hier ein Kampf entbrennt, dann ist das Ergebnis wahrscheinlich tödlich für die Gruppe. Jegliche Kobolde, die sich in Arealen in der Nähe des Raumen aufhalten, werden diesen Raum betreten um ihre Stammesgenossen zu unterstützen. {@creature Yusdrayl|TftYP} und ihre beiden Wachen werden von Areal 21 her kommen am Start der zweiten Combat-Runde. Am Start der fünten Runden werden die Kobolde aus Areal 16 im Südwesten dieses Raumes erscheinen. Am Start der achten Runde werden die Kobolde aus {@adventure area 23|TftYP-ZEN|0|23. Eingang zum Unterreich} dem Kampf beitreten. (Kobolde, die ihre originalen Bereiche verlassen haben und hier gestorben sind sollten niedergeschrieben werden für die Zukunft.)"
 									],
 									"id": "092"
 								}
@@ -3227,17 +3228,17 @@
 							"name": "20. Kobold-Kolonie",
 							"page": 18,
 							"entries": [
-								"The strong wooden door that leads to the kobolds' living quarters is barred from the inside. Characters who give the proper password (\"Ticklecorn!\" spoken in Draconic; see {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell}) or who make a successful DC 15 Charisma ({@skill Deception}) check can convince the kobolds within to unbar the door. Otherwise, the kobolds open the door only when guards return to the room for a shift change.",
+								"Die massive, hölzerne Tür, die in den Wohnbereich der Kobolde führt, ist von innen verriegelt. Charaktere, die das richtige Passwort (\"Kitzelmais\" in der Drachensprache) geben oder die einen DC 15 Charisma ({@skill Deception}) Check schaffen, können die Kobolde im Inneren überreden, die Tür zu entriegeln. Ansonsten öffnen die Kobolde die Tür ausschließlich, wenn Wachen in diesen Raum zurückkehren für einen Schichtwechsel.",
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Several small but smoky fires light this wide and high chamber. Spits, tanning racks, and other implements of a primitive culture are visible through the haze. Several small figures busily work and play within the chamber."
+										"Einige kleine aber rauchige Feuer erhellen diesen weiten und hohen Saal. Spieße, Gerbergestelle und andere Handwerkszeuge der Kobolde sind durch den Dunst sichtbar. Einige kleine Gestalten spielen und arbeiten eifrig in diesem Raum."
 									],
 									"id": "094"
 								},
-								"Twenty-four kobolds occupy the room, but only three {@creature Kobold||kobolds} are capable warriors that challenge unescorted intruders. Seven other kobolds are {@creature Kobold Commoner|TftYP|commoners}, but with 3 hit points each, and a \u22121 reduction to hit and damage compared to the {@book Monster Manual|MM} statistics. The other tribe members here are too young, too old, or too cowardly to defend themselves; they flee if combat breaks out and are worth no XP. Even the kobolds capable of fighting run away if they are outmatched.",
-								"The kobolds here answer all questions with a quick \"{@creature Yusdrayl|TftYP} knows.\"",
-								"An attack on these kobolds brings reinforcements, as described in {@adventure area 19|TftYP-ZEN|0|19. Hall of Dragons}, though each group arrives 1 round later because of the extra distance it must traverse."
+								"Vierundzwanzig Kobolde befinden sich in diesem Raum, aber nur drei {@creature Kobold||Kobolde} sind Krieger, die imstande sind, unbegleitete Eindringlinge herauszufordern. Sieben andere sind {@creature Kobold Commoner|TftYP|Kobold-Bürger}. Die anderen Stammesmitglieder hier sind zu jung, zu alt oder zu feige um sich selbst zu verteidigen; sie fliehen, falls es zum Kampf kommt und bringen keine Erfahrungspunkte. Selbst die Kobolde, die imstande sind, zu kämpfen, werden fliehen, wenn sie merken, dass sie von den Spielercharakteren übertroffen werden.",
+								"Die Kobolde hier beantworten alle Fragen mit einem schnellen \"{@creature Yusdrayl|TftYP} weiß!\".",
+								"Ein Angriff auf diese Kobolde wird Verstärkung auf den Plan bringen wie in {@adventure area 19|TftYP-ZEN|0|19. Halle der Drachen}, aber jede Gruppe kommt eine Runde später an aufgrund der zusätzlichen Entfernung, die sie zurücklegen müssen."
 							],
 							"id": "093"
 						},
@@ -3249,17 +3250,17 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"A short throne stands near the west wall, constructed of fallen bits of masonry stacked against an old altar. On the top of the altar sit a variety of small items. The portion of the altar that serves as the throne's back features a carving of a rearing dragon. A metallic key is held firmly in the dragon's open jaws."
+										"Ein niedriger Thron steht neben der westlichen Wand des Raumes, aufgebaut aus heruntergefallen Mauerstücken, die gegen einen alten Altar gestapelt wurden. Oben auf dem Altar liegt ein Sammelsurium an kleinen Items. Der Teil des Altars, der als Rückenteil des Throns dient, verfügt über eine Verzierung in Form eines Drachenkopfes. Ein uralt aussehender Schlüssel aus Metall steckt zwischen den Kiefern des Drachenkopfes"
 									],
 									"id": "096"
 								},
 								{
 									"type": "entries",
-									"name": "Creatures",
+									"name": "Kreaturen",
 									"page": 18,
 									"entries": [
-										"Normally sitting on the throne is the kobolds' leader, {@creature Yusdrayl|TftYP} (see {@adventure appendix B|TftYP-TSC|3}). Two elite {@creature Kobold||kobolds} (7 hit points each) guard her. Those who come to {@creature Yusdrayl|TftYP}'s chamber can talk to her; she is hostile only if she knows that the characters have slain other kobolds. Characters who antagonize her while talking earn the leader's ire and a savage attack.",
-										"{@creature Yusdrayl|TftYP} can speak to the following questions:",
+										"Normalerweise sitzt auf dem Thron die Anführerin der Kobolde, {@creature Yusdrayl|TftYP}. Zwei Elite-{@creature Kobold||Kobolde} (deren Hit Points auf 7 erhöht sind) bewachen sie. Diejenigen, die in {@creature Yusdrayl|TftYP|Yusdrayls} Thronsaal kommen können mit ihr reden; sie ist den Charakteren gegenüber nur feindselig gestimmt wenn sie weiß, dass diese andere Kobolde umgebracht haben. Charaktere, die sich mit ihr verfeinden, verdienen sich ihren Ärger und ein Kampf bricht aus.",
+
 										{
 											"type": "image",
 											"href": {
@@ -3269,39 +3270,41 @@
 											"width": 789,
 											"height": 1000
 										},
+										"{@creature Yusdrayl|TftYP} kann sich zu den folgenden Fragen äußern:",
 										{
 											"type": "inset",
 											"entries": [
-												"{@i Why are kobolds in this place?} \"Kobolds are heir to dragons. As the mightiest among my people, I have led a brave few to this ancient holy site, where dragons were worshiped long ago.\" {@creature Yusdrayl|TftYP} knows nothing else about the history of the fortress, except the name of the dragon that was once revered here, which is Ashardalon.",
-												"{@i What about the goblins/fruit/Belak?} \"The Outcast, he lives below. He grows the fruit, which he gives to the goblins. The dragon-thieving goblins are his servants!\"",
-												"{@i What about the twig monsters?} \"The Zweigplagen are pets of the Outcast. They are more numerous below, in the Twilight Grove.\"",
-												"{@i What about the lost human adventurers?} \"They went to fight the goblins and never returned.\"",
-												"{@i What about the stolen wyrmling dragon?} \"The goblins stole our dragon! If you return {@creature Calcryx|TftYP} to us, I shall grant you a reward. Meepo can accompany you if you desire.\""
+												"{@i Warum sind Kobolde an dieser Stelle?} \"Kobolde sind die Erben der Drachen. Als die Mächtigste unter meinen Leuten habe ich einige furchtlose Wenige zu dieser uralten, geweihten Stelle geführt, wo vor langer Zeit einmal Drachen verehrt wurden.\" {@creature Yusdrayl|TftYP} weiß sonst nichts über die Geschichte der Festung außer dem Namen des Drachen, der hier einst verehrt wurde - Ashardalon.",
+												"{@i Was hat es mit den Goblins/Früchten/Belak auf sich?} \"Der Verbannte, er lebt unter der Festung. Er züchtet die Früchte, die er an die Goblins gibt. Die Drachen-stehlenden Goblins sind seine Diener!\"",
+												"{@i Was ist mit den Zweig-Monstern?} \"Die Zweigplagen sind Haustiere des Verbannten. Unten im Dämmerhain sind sie sehr zahlreich.\"",
+												"{@i Was ist mit den verschollenen Abenteurern?} \"Sie sind losgezogen um die Goblins zu bekämpfen und nie zurückgekommen.\"",
+
+												"{@i Was ist mit dem gestohlenen Drachennestling?} \"Die Goblins haben unseren Drachen gestohlen! Wenn ihr {@creature Calcryx|TftYP} zu uns zurückbringt werde ich euch eine angemessene  Belohnung gewähren. Meepo kann euch begleiten, falls ihr dies wünscht.\""
 											],
 											"id": "098"
 										},
-										"If the characters decide to go looking for the dragon, the kobolds direct them toward the passage that connects {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell} and {@adventure area 25|TftYP-ZEN|0|25. Empty Chamber}, which is the \"back way\" into goblin territory. {@creature Yusdrayl|TftYP} and her followers know nothing useful about the goblin lair. If the characters take Meepo with them, he can serve as their guide to that location. If Meepo goes along and is slain, the kobolds count it as a small loss as long as the dragon is rescued.",
-										"Possible rewards include the key in the carved dragon's mouth, or any two of the items on the altar. {@creature Yusdrayl|TftYP} is also willing to sell the key for 50 gp."
+										"Falls die Charaktere sich entscheiden, nach dem Drachen zu suchen, werden die Kobolde sie zu der Passage führen, die {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} und {@adventure Areal 25|TftYP-ZEN|0|25. Leere Kammer} verbindet. Diese Passage ist der \"Hintereingang\" in das Territorium der Goblins. {@creature Yusdrayl|TftYP} und ihre Anhänger wissen nichts nützliches über das Heim der Goblins. Falls die Charaktere Meepo mit sich mitnehmen kann er als ihr Führer fungieren. Falls Meepo mitkommt und stirbt werden die Kobolde es als einen geringen Preis zu zahlen ansehen solange der Drache gerettet wird.",
+										"Mögliche Belohnungen beinhalten den Schlüssel im Mund des Drachenkopfes oder jegliche Kombination aus zwei der Gegenstände auf dem Altar. {@creature Yusdrayl|TftYP} ist außerdem bereit, den Schlüssel für 50gs zu verkaufen."
 									],
 									"id": "097"
 								},
 								{
 									"type": "entries",
-									"name": "Development",
+									"name": "Entwicklung",
 									"page": 19,
 									"entries": [
-										"If hostilities break out, reinforcements arrive in the manner described in {@adventure area 19|TftYP-ZEN|0|19. Hall of Dragons}.",
-										"If the characters return {@creature Calcryx|TftYP}, {@creature Yusdrayl|TftYP} can be convinced to aid them in an assault on the remaining goblins. You determine the nature of the aid."
+										"Falls ein Kampf losbricht wird Verstärkung auf die in {@adventure Areal 19|TftYP-ZEN|0|19. Halle der Drachen} beschriebene Art und Weise eintreffen.",
+										"Fall die Charakter {@creature Calcryx|TftYP} zurückbringen kann {@creature Yusdrayl|TftYP} überzeugt werden, ihnen bei einem Angriff auf die verbliebenen Goblins zu helfen. Du bestimmst wie diese Hilfe aussehen wird."
 									],
 									"id": "099"
 								},
 								{
 									"type": "entries",
-									"name": "Treasure",
+									"name": "Schätze",
 									"page": 19,
 									"entries": [
-										"The key clenched in the mouth of the carved dragon opens the door to {@adventure area 7|TftYP-ZEN|0|7. Gallery of Forlorn Notes}. {@creature Yusdrayl|TftYP} has keys to {@adventure area 18|TftYP-ZEN|0|18. Prison} and the chains there, a key to the doors in {@adventure area 24|TftYP-ZEN|0|24. Trapped Access}, and a key that once fit the cage in {@adventure area 15|TftYP-ZEN|0|15. Dragon Cell}. She also has 35 gp.",
-										"The items assembled on the altar include a {@item Quaal's Feather Token, Tree||Quaal's feather token (tree)}, three {@item Spell Scroll||spell scrolls} ({@spell mage armor}, {@spell spider climb}, and {@spell knock}), and a small flask that contains three doses of {@item elixir of health}."
+										"Der Schlüssel im Maul des Drachenkopfes öffnet die Tür zu {@adventure Areal 6|TftYP-ZEN|0|6. Alter Zugang}. {@creature Yusdrayl|TftYP} hat die Schlüssel zu {@adventure Areal 18|TftYP-ZEN|0|18. Gefängnis} und den Ketten dort, einen Schlüssel zu den Türen in {@adventure Areal 24|TftYP-ZEN|0|24. Mit Fallen versehener Zugang} und einen Schlüssel, der einst in den Käfig in {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} gepasst hat. Sie hat außerdem 35 Goldstücke.",
+										"Die Items auf dem Altar beinhalten einmal {@item Quaal's Feather Token, Tree||Quaals Baumfeder}, drei {@item Spell Scroll||magische Schriftrollen} ({@spell mage armor}, {@spell spider climb}, and {@spell knock}) und einen kleinen Flakon, der drei Dosen {@item elixir of health||Elixir der Gesundheit}."
 									],
 									"id": "09a"
 								}
