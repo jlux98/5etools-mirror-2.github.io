@@ -9999,7 +9999,14 @@
 				"Life",
 				"Light"
 			],
-			"symbol": "Circle with six outwardly radiating points"
+			"symbol": "Circle with six outwardly radiating points",
+			"symbolImg": {
+				"type": "image",
+				"href": {
+					"type": "internal",
+					"path": "deities/DMG/Pelor.webp"
+				}
+			}
 		},
 		{
 			"name": "Pelor",

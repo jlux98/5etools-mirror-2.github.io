@@ -7460,7 +7460,19 @@
 						"Brachwies",
 						{
 							"depth": 1,
+							"header": "Villa Jandorf"
+						},
+						{
+							"depth": 1,
 							"header": "Gemeindesaal"
+						},
+						{
+							"depth": 1,
+							"header": "Gefängnis"
+						},
+						{
+							"depth": 1,
+							"header": "Konrads Kuriositäten"
 						},
 						{
 							"depth": 1,
@@ -7468,11 +7480,11 @@
 						},
 						{
 							"depth": 1,
-							"header": "Schrein"
+							"header": "Medizinerin"
 						},
 						{
 							"depth": 1,
-							"header": "Gefängnis"
+							"header": "Schrein"
 						},
 						{
 							"depth": 1,
@@ -7481,10 +7493,6 @@
 						{
 							"depth": 1,
 							"header": "Zum Alten Eber"
-						},
-						{
-							"depth": 1,
-							"header": "Konrads Kuriositäten"
 						},
 						"Die Zitadelle",
 						"Orte in der Festung",

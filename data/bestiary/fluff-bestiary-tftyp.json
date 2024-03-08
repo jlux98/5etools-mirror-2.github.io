@@ -228,6 +228,32 @@
 			]
 		},
 		{
+			"name": "Dem Nackle",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Dem Nackle.webp"
+					}
+				}
+			]
+		},
+		{
+			"name": "Dorhala",
+			"source": "TftYP",
+			"images":[
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/TftYP/Dorhala.webp"
+					}
+				}
+			]
+		},
+		{
 			"name": "Dread Warrior",
 			"source": "TftYP",
 			"entries": [
@@ -755,6 +781,29 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"name": "Meepo",
+			"source": "TftYP",
+			"images": [
+				{
+					"type":"image",
+					"href": {
+						"type": "internal",
+						"path": "adventure/TftYP-TSC/003-totyp-01-04.webp"
+					},
+					"width": 750,
+					"height": 1000
+				},
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "bestiary/MPMM/Kobold Inventor.webp"
+					},
+					"credit": "Chris Seaman"
 				}
 			]
 		},

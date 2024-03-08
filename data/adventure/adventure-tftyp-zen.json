@@ -164,13 +164,27 @@
 							"entries": [
 								{
 									"type": "entries",
+									"name": "Villa Jandorf",
+									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries":[
+												"Die Villa Jandorf ist neben dem Gemeindehaus das größte Gebäude im Dorf. Es hat mehrere Anbauten und ist mit Kunstvollen Ornamenten und Wappen verziert."
+											]
+										},
+										"Die Tür der Villa ist verschlossen und auf Klopfen hin wird ein Elfen-Butler in der Kleidung eines hochrangigen Dieners öffnen und die Charaktere fragen, was sie wünschen.",
+										"Hier lebt die Familie Jandorf, bestehend aus Sharwyn, Taigen und Kerowyn Jandorf. Der Vater, der ebenfalls Taigen heißt, ist momentan auf Reisen um ein Problem mit dem Warennachschub des Gemischtwarenladens zu beheben."
+									]
+								},
+								{
+									"type": "entries",
 									"name": "Gemeindesaal",
 									"page": 10,
 									"entries": [
 										{
 											"type": "insetReadaloud",
 											"entries": [
-												"Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen Menschlich in Rüstung darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt"
+												"Der Gemeindesaal ist ein zweistöckiges Fachwerkwerkhaus, auf dessen großer Flügeltür mit kunstvollen Pinselstrichen das Stadtwappen gemalt ist. Auf dem Platz vor dem Gemeindesaal steht eine Statue, die einen Mensch in Rüstung darstellt, der beide Arme vor sich ausgestreckt hat und in die Ferne schaut. Die linke Hand hält eine Amulett mit einem heiligen Symbol von Pelor während die rechte Hand eine gewaltige Armbrust hält. Der vordere Teil der Armbrust ist dabei auf das linke Handgelenk gestützt"
 											],
 											"id": "02ba"
 										},
@@ -181,36 +195,92 @@
 								},
 								{
 									"type": "entries",
-									"name": "Gemischtwarenladen",
-									"page": 10,
-									"entries": [
-										"Die Hauptquelle für Versorgung und Waren innerhalb des Städtchens ist der Gemischtwarenladen. Die Besitzerin und Betreiberin ist {@creature Kerowyn Jandorf |TftYP}."
-									],
-									"id": "02c"
-								},
-								{
-									"type": "entries",
-									"name": "Schrein",
-									"page": 10,
-									"entries": [
-										"Ratschläge, Informationen und Heilung gehören zu den Dienstleistungen, die im Stadtschrein angeboten werden. Er wird instand gehalten von {@creature Dem Nackle |TftYP| Dem \"Corkie\" Nackle}, einem weiblichen Gnom und Priester von Pelor"
-									],
-									"id": "02d"
-								},
-								{
-									"type": "entries",
 									"name": "Gefängnis",
 									"page": 10,
 									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Etwas außerhalb des Dorfkerns steht ein robustes Gebäude mit einem kleineren Gebäude nebendran. Das große Gebäude ist die Wache von Brachwies, das kleinere Gebäude nebendran ist das Gefängnis. Auf der Wiese vor den Gebäuden seht ihr eine hoch gewachsene Halb-Elfen-Frau mit roten Haaren in einer Rüstung aus beschlagenem Leder, die ein Langschwert in ihren Händen führt. Vor ihr auf der Wiese steht eine Guppe von Menschen - drei Frauen und zwei Männern - die ebenfalls ihre Langschwerter gezogen haben. Die Halb-Elfin demonstriert eine Reihe von Schwerthieben, untermalt mit bellenden Rufen; nachdem sie fertig ist ahmen die Menschen ihre Hieb-Kombination nach."
+											]
+										},
 										"Neben der Gemeindehalle ist ein robustes Gebäude, wo Übeltäter ihre Strafen absitzen. Der Wachtmeister von Brachwies ist {@creature Felosial|TftYP}, ein weiblicher Halb-Elf. Sie befehligt eine Truppe von sechzehn {@creature guard || Wachen} und vier {@creature scout || Spähern}, die die Sicherheit im Städtchen gewährleisten."
 									],
 									"id": "02e"
 								},
 								{
 									"type": "entries",
+									"name": "Konrads Kuriositäten",
+									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"\"Konrads Kuriositäten\" befindet sich in einem kleinen Haus in der Nähe des Dorfkerns. Als ihr darauf zugeht fällt euch auf, dass zwischen diesem Haus und den umstehenden Häusern etwas mehr Platz gelassen wurde, als sonst im Dorf - fast als wären die umstehenden Häuser beiseite gerückt um einen gewissen Sicherheitsabstand einzuhalten.",
+												"Als ihr das Geschäft betretet, werden eure Sinne einem Artilleriebeschuss von Reizen ausgesetzt - die Waren in den Regalen leuchten in den verschiedensten Farben, die Gerüche von Weihrauch, Alchemistenfeuer und exotischen Duftkerzen steigen euch in die Nase und in den Ohren habt ihr das Summen und Knistern von arkaner Energie. Hinter der Theke sitzt ein Halbling mit rot-braunen Haaren und einer großen Brille und grüßt euch freundlich als ihr hereinkommt."
+											]
+										},
+										"{@creature Konrad Knallfrosch|TftYP} ist der Besitzer des Ladens \"Konrads Kuriositäten\". Hier kann man gewöhnliche (und mit etwas Glück manchmal auch seltenere) exotische Gegenstände finden. Hierbei kann es sich um magische Gegenstände handeln oder um Importware aus anderen Kulturen. Das aktuelle Inventar befindet sich unter {@table Konrads Kuriositäten Inventar|tftyp}"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gemischtwarenladen",
+									"page": 10,
+									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Der Gemischtwarenladen befindet sich in der Nähe des Dorfkerns und ist ein zentraler Stützpunkt des Lebens hier.",
+												"Im Inneren seht ihr Regale voll mit alltäglichen Gütern, Obst und Gemüse und dem ein oder anderen Luxusgut wie Alkohol oder Pfeifentabak. Hinter der Kasse steht eine ältere Dame und studiert ein offenes Buch, das vor ihr auf dem Tisch liegt. Als sie euch hereinkommen hört strafft sich ihre Körperhaltung und sie dreht sich euch mit einem Lächeln zu."
+											]
+										},
+										"Jeder Charakter, der einen DC 13 Wisdom ({@skill Insight}) Check schafft, bemerkt, dass das Lächel, es nicht bis zu ihren Augen geschafft hat und sich in ihnen eine Spur von Traurigkeit widerspiegelt, die die Verkäuferin versucht zu verstecken.",
+										"Die Hauptquelle für Versorgung und Waren innerhalb des Städtchens ist der Gemischtwarenladen. Die Besitzerin und Betreiberin ist {@creature Kerowyn Jandorf |TftYP}."
+									],
+									"id": "02c"
+								},
+								{
+									"type": "entries",
+									"name": "Medizinerin",
+									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Das Haus der Medizinerin ist neben dem Schrein von Pelor. Es ist angebaut an die anderen Häuser und sieht sehr unscheinbar aus; nur ein grünes Kreuz, das auf die Tür gepinselt wurde, verrät, dass hier Heilkräuter und Tränke verkauft werden.",
+												"Als ihr den Laden betretet ertönt ein kleines Glöckchen. Um euch herum stehen Regale mit Pflanzen in Töpfen und Tränken mit handbeschriebenen Etiketten. Kurz nachdem ihr eingetreten seid erscheint aus dem Hinterraum eine Frau mit roter Haut, gelockten dunkelbraunen Haaren und Hörnern auf dem Kopf. Sie sagt in einer zischenden Stimme: \"Guten Tag, wassss kann ich für euch tun?\""
+											]
+										},
+										"Die Medizinfrau des Dorfes ist ein Tiefling namens {@creature Dorhala|TftYP}. Sie hat einen kleinen Laden, in dem sie Heilkräuter und Tränke verkauft."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Schrein",
+									"page": 10,
+									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Der Schrein von Pelor ist ein imposantes, alleinstehendes Gebäude mit zwei Türmen, einem großen und einem kleineren. In die wuchtigen Holztüren ist das heilige Symbol von Pelor eingraviert und die Buntglasfenster sind mit Motiven bestehend aus Getreide-Ähren, Obst und Gemüse geschmückt.",
+												"Im Inneren kniet eine Gnomfrau auf dem Boden vor einem reichlich mit getrockneten Ähren und Sonnen geschmückten Altar. Sie hat den Kopf gesenkt und hält ein Amulett mit dem heiligen Symbol von Pelor in beiden Händen. "
+											]
+										},
+										"Ratschläge, Informationen und Heilung gehören zu den Dienstleistungen, die im Stadtschrein angeboten werden. Er wird instand gehalten von {@creature Dem Nackle |TftYP| Dem \"Corkie\" Nackle}, einem weiblichen Gnom und Priester von Pelor"
+									],
+									"id": "02d"
+								},
+								{
+									"type": "entries",
 									"name": "Schmied",
 									"page": 11,
 									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Schon bevor ihr die Schmiede selbst seht seht ihr die schwarze Rauchsäule, die aus der Esse aufsteigt und hört das unverkennbare Geräusch von einem Hammer, der mit großer Wucht auf einen Amboss gedroschen wird.",
+												"Im Inneren ist es heiß, noch heißer als draußen in der erbarmungslosen Junisonne. Im Inneren steht ein muskulöser Zwerg in einer Lederschürze über einem Amboss und bearbeitet ein Stück glühendes Metall. Um ihn herum an den Wänden lehnen und hängen Werkzeuge und einfache Geräte aus Metall. In einer Ecke seht ihr eine Sammlung von Waffen und Rüstungsteilen."
+											]
+										},
 										"Das Reparieren und Schmieden von Waffen und Rüstungen ist die Arbeit den Stadtschmieds {@creature Rurik Lutgehr|TftYP}, einem männlichen Zwerg."
 									],
 									"id": "02f"
@@ -220,17 +290,18 @@
 									"name": "Zum Alten Eber",
 									"page": 11,
 									"entries": [
+										{
+											"type": "insetReadaloud",
+											"entries": [
+												"Die Taverne \"Zum Alten Eber\" ist ein großes Gebäude aus drei Teilen. Der eine Seitenteil ist unschwer als Stallung auszumachen, da er ein großes Gattertor hat und durch ein Fenster ein angeleintes Pferd zu sehen ist. Der Lärm, der aus dem mittleren Gebäude dringt, zeichnet es ganz klar als die Wirtsstube aus. Da ihr an dem anderen Seitenteil keine Eingangstüre seht betretet ihr die Wirtsstube.",
+												"Im Inneren herrscht eine ausgelassene Stimmung - einige Bürgerinnen und Bürger sitzen an den Tischen hier, essen und trinken und unterhalten sich. Eine Person sticht aus der Masse hervor - ein massiver Halb-Ork, gekleidet in Tierhäuten und Fellen, sitzt in einer hinteren Ecke der Stube, einen Zweihand-Hammer neben sich an die Wand gelehnt der fast so groß zu sein scheint wie er selbst. Als ihr hereinkommt hängt er trübselig über seinem Tisch und starrt seinen Humpen an, aber als er euch aus dem Augenwinkel sieht dreht er seinen Kopf und ihr seht eine Leuchten in seinen Augen. Ein Grinsen bereitet sich in seinem tätowierten Gesicht aus als er euch zu sich heranwinkt."
+											]
+										},
 										"{@creature Garon|TftYP} ist der Besitzer und Kneipenwirt des \"Alten Eber\". Hier verkauft er Speis und Trank und die Taverne hat ein paar Gasträume, die von Besuchern gemietet werden können."
 									],
 									"id": "030"
-								},
-								{
-									"type": "entries",
-									"name": "Konrads Kuriositäten",
-									"entries": [
-										"{@creature Konrad Knallfrosch|TftYP} ist der Besitzer des Ladens \"Konrads Kuriositäten\". Hier kann man gewöhnliche (und mit etwas Glück manchmal auch seltenere) exotische Gegenstände finden. Hierbei kann es sich um magische Gegenstände handeln oder um Importware aus anderen Kulturen. Das aktuelle Inventar befindet sich unter {@table Konrads Kuriositäten Inventar|tftyp}"
-									]
 								}
+
 							],
 							"id": "02a"
 						},
@@ -2503,7 +2574,8 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Die schmale Treppe mündet in einen kleinen Innenhof, der offenbar die Spitze einer ehemaligen zinnenbewehrten Festung darstellt. Die verschüttete Zitadelle ist so tief in die Erde gesunken, dass die Zinnen jetzt mit dem umliegenden Boden auf gleicher Höhe liegen. Dieser Boden erstreckt sich nach Norden und Süden und besteht aus einer Schicht von heimtückischen, zerbröckeltem Mauerwerk, das bis in unbekannte Tiefen reicht. Im Westen erhebt sich die noch erhaltene Struktur der Zitadelle in Ewiger Nacht. Ein Turm steht an der Westseite des Hofes an dessen südlicher Seite sich ein kleiner Anbau mit Schießscharten befindet."
+										"Die schmale Treppe mündet in einen kleinen Innenhof, der offenbar ursprünglich einmal das Flachdach eines mit zinnen bewehrten Gebäudes war. Die verschüttete Zitadelle ist so tief in die Erde gesunken, dass sich die Zinnen jetzt auf gleicher höhe mit dem umliegenden Boden befinden. Dieser Boden erstreckt sich nach Norden und Süden und besteht aus einer Schicht von heimtückischen, zerbröckeltem Mauerwerk, das bis in unbekannte Tiefen reicht.",
+										"Im Westen erhebt sich die noch erhaltene Struktur der Zitadelle in Ewiger Nacht. Ein Turm steht an der Westseite des Hofes an dessen südlicher Seite sich ein kleiner Anbau mit Schießscharten befindet. Die Pflastersteine des Flachdachs sind mit einer lockeren Schicht aus Steinstaub und Dreck überzogen. Die Steine direkt vor der Tür zum Turm sind merklich sauberer, als wäre hier vor kurzer Zeit der Schmutz aufgekehrt worden."
 									],
 									"id": "048"
 								},
@@ -3064,10 +3136,10 @@
 									"name": "Kreatur",
 									"page": 16,
 									"entries": [
-										"Meepo der {@creature Kobold} ist der Drachenwächter seines Stammes und die momentan einzige Kreatur in diesem Raum. Er ist tief betrübt über den Verlust des Nestlings und verbringt heutzutage seine Zeit größtenteils damit, sich von Alpträumen geschüttelt in seinem Schlafsack hin- und herzuwälzen. Nachdem er seinen Schützling verloren hat ist Meepos Status im Eimer. Er zeigt keine Reaktionen außer auf laute Geräusche oder direktes Anstupsen.",
-										"Falls die Charaktere ihn stören, dann ist Meepo verängstigt aber bereit, mit ihnen zu reden. Er ist weinerlich. Seine vielen, offensichtlichen Narben sind Abzeichen seiner Aufgabe als Drachenwächter. Fall er über den Käfig befragt wird oder irgendeine andere Frage gestellt bekommt, die einen Drachen erwähnt, sagt er \"Der Clandrache... wir haben ihn verloren. Die verfluchten Goblins haben {@creature Calcryx|TftYP}, unseren Drachen gestohlen!\"",
-										"Auf alle anderen Fragen antwortet Meepo mit \"Meepo weiß nicht, aber {@creature Yusdrayl|TftYP} weiß. Meepo bringt Fremde zu {@creature Yusdrayl|TftYP} wenn Fremde lieb sind. Fremden wird nichts passieren wenn Fremde versprechen, dass sie lieb seid. Vielleicht wenn Fremde versprechen, dass Fremde den Drachen zurückbringen, vielleicht ist {@creature Yusdrayl|TftYP} dann lieb zu Fremden, beantwortet Fragen.\"",
-										"Meepo lebt auf wenn er die Möglichkeit sieht, den Drachen zurückzubekommen. Seinem Wort gemäß führt er die Charaktere zu {@adventure Areal 21|TftYP-ZEN|0|21. Dragonthron}. Den Weg entlang ruft er immer wieder \"Kitzelmais\" in der Drachensprache und erklärt, dass das ein Passwort ist, das die anderen Kobolde informiert, dass die Charaktere freundlich sind. Falls die Charaktere Meepo zurücklassen oder falls sie feindselig zu ihm sind, dann lernen die Charaktere das Passwort nicht und alle anderen Kobolde werden der Gruppe feindlich gegenüberstehen."
+										"{@creature Meepo|TftYP} ist der Drachenwächter seines Stammes und die momentan einzige Kreatur in diesem Raum. Er ist tief betrübt über den Verlust des Nestlings und verbringt heutzutage seine Zeit größtenteils damit, sich von Alpträumen geschüttelt in seinem Schlafsack hin- und herzuwälzen. Nachdem er seinen Schützling verloren hat ist Meepos Status im Eimer. Er zeigt keine Reaktionen außer auf laute Geräusche oder direktes Anstupsen.",
+										"Falls die Charaktere ihn stören, dann ist {@creature Meepo|TftYP} verängstigt aber bereit, mit ihnen zu reden. Er ist weinerlich. Seine vielen, offensichtlichen Narben sind Abzeichen seiner Aufgabe als Drachenwächter. Fall er über den Käfig befragt wird oder irgendeine andere Frage gestellt bekommt, die einen Drachen erwähnt, sagt er \"Der Clandrache... wir haben ihn verloren. Die verfluchten Goblins haben {@creature Calcryx|TftYP}, unseren Drachen gestohlen!\"",
+										"Auf alle anderen Fragen antwortet {@creature Meepo|TftYP} mit \"{@creature Meepo|TftYP} weiß nicht, aber {@creature Yusdrayl|TftYP} weiß. {@creature Meepo|TftYP} bringt Fremde zu {@creature Yusdrayl|TftYP} wenn Fremde lieb sind. Fremden wird nichts passieren wenn Fremde versprechen, dass sie lieb seid. Vielleicht wenn Fremde versprechen, dass Fremde den Drachen zurückbringen, vielleicht ist {@creature Yusdrayl|TftYP} dann lieb zu Fremden, beantwortet Fragen.\"",
+										"{@creature Meepo|TftYP} lebt auf wenn er die Möglichkeit sieht, den Drachen zurückzubekommen. Seinem Wort gemäß führt er die Charaktere zu {@adventure Areal 21|TftYP-ZEN|0|21. Dragonthron}. Den Weg entlang ruft er immer wieder \"Kitzelmais\" in der Drachensprache und erklärt, dass das ein Passwort ist, das die anderen Kobolde informiert, dass die Charaktere freundlich sind. Falls die Charaktere {@creature Meepo|TftYP} zurücklassen oder falls sie feindselig zu ihm sind, dann lernen die Charaktere das Passwort nicht und alle anderen Kobolde werden der Gruppe feindlich gegenüberstehen."
 									],
 									"id": "081"
 								},
@@ -3197,7 +3269,6 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"A double row of relief-carved marble columns march the length of this long, large hall. The worn carvings depict entwining dragons.",
 										"Zwei Reihen von mit Reliefen verzierten Marmor-Säulen verlaufen der Länge nach durch diese große, langgezogene Halle. Die verwitterten Reliefs zeigen ineinander verwundene Drachen."
 									],
 									"id": "090"
@@ -3279,11 +3350,11 @@
 												"{@i Was ist mit den Zweig-Monstern?} \"Die Zweigplagen sind Haustiere des Verbannten. Unten im Dämmerhain sind sie sehr zahlreich.\"",
 												"{@i Was ist mit den verschollenen Abenteurern?} \"Sie sind losgezogen um die Goblins zu bekämpfen und nie zurückgekommen.\"",
 
-												"{@i Was ist mit dem gestohlenen Drachennestling?} \"Die Goblins haben unseren Drachen gestohlen! Wenn ihr {@creature Calcryx|TftYP} zu uns zurückbringt werde ich euch eine angemessene  Belohnung gewähren. Meepo kann euch begleiten, falls ihr dies wünscht.\""
+												"{@i Was ist mit dem gestohlenen Drachennestling?} \"Die Goblins haben unseren Drachen gestohlen! Wenn ihr {@creature Calcryx|TftYP} zu uns zurückbringt werde ich euch eine angemessene  Belohnung gewähren. {@creature Meepo|TftYP} kann euch begleiten, falls ihr dies wünscht.\""
 											],
 											"id": "098"
 										},
-										"Falls die Charaktere sich entscheiden, nach dem Drachen zu suchen, werden die Kobolde sie zu der Passage führen, die {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} und {@adventure Areal 25|TftYP-ZEN|0|25. Leere Kammer} verbindet. Diese Passage ist der \"Hintereingang\" in das Territorium der Goblins. {@creature Yusdrayl|TftYP} und ihre Anhänger wissen nichts nützliches über das Heim der Goblins. Falls die Charaktere Meepo mit sich mitnehmen kann er als ihr Führer fungieren. Falls Meepo mitkommt und stirbt werden die Kobolde es als einen geringen Preis zu zahlen ansehen solange der Drache gerettet wird.",
+										"Falls die Charaktere sich entscheiden, nach dem Drachen zu suchen, werden die Kobolde sie zu der Passage führen, die {@adventure Areal 15|TftYP-ZEN|0|15. Drachenzelle} und {@adventure Areal 25|TftYP-ZEN|0|25. Leere Kammer} verbindet. Diese Passage ist der \"Hintereingang\" in das Territorium der Goblins. {@creature Yusdrayl|TftYP} und ihre Anhänger wissen nichts nützliches über das Heim der Goblins. Falls die Charaktere {@creature Meepo|TftYP} mit sich mitnehmen kann er als ihr Führer fungieren. Falls {@creature Meepo|TftYP} mitkommt und stirbt werden die Kobolde es als einen geringen Preis zu zahlen ansehen solange der Drache gerettet wird.",
 										"Mögliche Belohnungen beinhalten den Schlüssel im Mund des Drachenkopfes oder jegliche Kombination aus zwei der Gegenstände auf dem Altar. {@creature Yusdrayl|TftYP} ist außerdem bereit, den Schlüssel für 50gs zu verkaufen."
 									],
 									"id": "097"
@@ -3319,11 +3390,13 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The odor of rotting meat permeates this chamber. Most of the rusty iron hooks in the ceiling are empty, but a few hold the skinned carcasses of large vermin, huge fungoid stalks, and several massive insect carapaces. On a small, battered bench along the south wall are pieces of nearly useless cutlery and rusting skinning knives."
+										"Aus dieser Kammer schlägt euch der Geruch von verrottenden Fleisch entgegen. Die meisten der verrosteten Eisenhaken an der Decke sind leer, aber an ein paar hängen die gehäuteten Kadaver von Riesenratten, Pilzstiele so dick wie Baumstämme und einige massive Insektenpanzer. Auf einer kleinen, mitgenommenen Bank an der südlichen Wand liegen uralte Besteckteile und Abhäutungsmesser."
 									],
 									"id": "09c"
 								},
-								"The kobolds bring food for their tribe up from the Underdark and store it in a nearby chamber. The rotting flesh is that of rats, bats, overlarge cave crickets, beetles, goblin parts, and spiders. The room also has a selection of fungi and mushrooms."
+								"The kobolds bring food for their tribe up from the Underdark and store it in a nearby chamber. The rotting flesh is that of rats, bats, overlarge cave crickets, beetles, goblin parts, and spiders. The room also has a selection of fungi and mushrooms.",
+								"Die Kobolde bringen Essen für ihren Stamm aus dem Unterreich hoch und verstauen es in dieser Kammer. Das verderbende Fleisch gehört zu Ratten, Fledermäusen, übergroßen Höhlengrillen, Käfern, Goblins und Spinnen. Der Raum hat außerdem eine Auswahl von Pilzen, unter anderem Ripplebark (den man überm Feuer rösten kann) und Bluestalk (der zu Mehl verarbeitet und dann als Getreide-Ersatz genutzt werden kann)."
+
 							],
 							"id": "09b"
 						},
@@ -3335,7 +3408,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"The floor is partially collapsed on the east side of this room, revealing a tunnel. The passage is unworked, and it fluctuates widely in width, height, and direction as natural tunnels do. Within the room, hunting gear is racked on the wall, and several pallets lie nearby."
+										"Der Boden auf der östlichen Seite ist teilweise eingebrochen, darunter kommt ein Tunnel zum Vorschein. Die Passage ist unbearbeitet und ihre Breite, Höhe und Richtung schwanken stark wie natürliche Tunnel es eben tun. In dem Raum hängt Jagdausrüstung an Ständern an der Wand und als ihr hereinkommt sind gerade 6 {@creature kobold||Kobolde} dabei, einen gewaltigen Insektenkadaver zu ziehen und schieben, der sich an einer engen Stelle im Tunnel verkantet hat."
 									],
 									"id": "09e"
 								},
@@ -3362,7 +3435,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"At the other end of a twenty-foot-long corridor is another closed door."
+										"Auf der anderen Seite eines 6 Meter (20ft) langen Flurs liegt eine weitere geschlossene Tür."
 									],
 									"id": "0a1"
 								},
@@ -3389,7 +3462,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"This empty chamber is home only to rat droppings, crumbled flagstone, and stains."
+										"In diesem leeren Raum seht ihr nichts außer Rattenkot, zerfallende Bodenfliesen und Unrat."
 									],
 									"id": "0a4"
 								},
@@ -3422,7 +3495,8 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Dust and odd bits of stony debris and rubble lie scattered on the floor. An ornate fountain is built into the eastern wall. Though cracked and stained, the fountain's overarching carving of a diving dragon retains its beauty. A relief-carved stone door stands on the western wall."
+										"Dust and odd bits of stony debris and rubble lie scattered on the floor. An ornate fountain is built into the eastern wall. Though cracked and stained, the fountain's overarching carving of a diving dragon retains its beauty. A relief-carved stone door stands on the western wall.",
+										"Staub und steiniger Schutt liegen überall auf dem Boden verteilt. An der östlichen Wand befindet sich in prunkvoller Zierbrunnen aus Marmor. Obwohl die verstrichenen Jahre viele Risse und Flecken auf dem großen Steinrelief hinterlassen haben, das einen Drachen im Sturzflug zeigt, strahlt es immernoch einen großen Teil seiner ursprünglichen Schönheit aus. An der westlichen Wand des Raumes befindet sich eine Steintür, die mit Reliefs überzogen ist."
 									],
 									"id": "0a8"
 								},
@@ -3440,7 +3514,7 @@
 									"name": "Fountain",
 									"page": 20,
 									"entries": [
-										"A thin layer of scum coats the fountain's basin, but it is otherwise dry. Under the scrutiny of a {@spell detect magic} spell, the fountain emits an aura of conjuration. A character who makes a successful DC 15 Wisdom ({@skill Perception}) check notices a mostly worn-away inscription in Draconic on the basin's front. It reads, \"Let there be fire.\"",
+										"A thin layer of scum coats the fountain's basin, but it is otherwise dry. Under the scrutiny of a {@spell detect magic} spell, the fountain emits an aura of conjuration. A character who makes a successful DC 15 Wisdom ({@skill Perception}) check notices a mostly worn-away inscription in Draconic on the basin's front. It reads, \"Es werde Feuer.\"",
 										"If a character speaks the phrase aloud, the magic of the fountain functions one last time. Reddish liquid begins to well from the diving dragon's mouth, slowly accumulating in the basin. If the liquid is collected, it can be used as a {@item potion of fire breath}. After it is used in this way, the fountain loses its magic."
 									],
 									"id": "0aa"
@@ -3450,7 +3524,7 @@
 									"name": "Western Door",
 									"page": 20,
 									"entries": [
-										"Carvings on the western door show skeletal dragons. A Draconic inscription on the door reads, \"Rebuke the dead, open the way.\" Within 5 feet of the door, the air is noticeably cooler, and the door itself is cold to the touch.",
+										"Carvings on the western door show skeletal dragons. A Draconic inscription on the door reads, \"Vertreibe die Toten, öffne den Weg.\" Within 5 feet of the door, the air is noticeably cooler, and the door itself is cold to the touch.",
 										"The locked door opens only when someone targets it with a {@spell knock} spell or an effect that turns undead. If someone does so, the door glows ghostly blue and swings open silently."
 									],
 									"id": "0ab"
@@ -3477,7 +3551,7 @@
 								{
 									"type": "insetReadaloud",
 									"entries": [
-										"Five dusty sarcophagi, three to the north and two to the south, stand on end in this silent chamber. Each of the carved stone coffins resembles a noble, elf-like humanoid in ceremonial robes. An altar, with images of dragons carved into its black obsidian, is set in the center of the west wall. A single candle burns brightly on the altar. Next to the candle are a small whistle and a crystal flask."
+										"Fünf verstaubte Sarkophage, drei im Norden und zwei im Süden, stehen aufrecht in dieser stillen Kammer. Jeder der steinernen Särge trägt das Bildnis eines noblen, elfenähnlichen Humanoids in zeremoniellen Gewändern. Ein Altar, in dessen schwarzen Obsidian Bilder von Drachen gemeißelt sind, befindet sich in der Mitte der westlichen Wand. Eine einzelne Kerze brennt hell auf dem Altar. Neben der Kerze befinden sich eine kleine Pfeife und ein Flakon aus Kristallglas."
 									],
 									"id": "0ae"
 								},
@@ -3495,7 +3569,7 @@
 									"name": "Treasure",
 									"page": 20,
 									"entries": [
-										"The candle has a {@spell continual flame} spell cast on it. In the flask is a {@item potion of fire resistance}. The whistle, made of crystal, has the name {@item Night Caller|TftYP} inscribed on it in Dwarvish. See {@adventure appendix A|TftYP-TSC|2} for a description of this item. A secret compartment in the shrine, requiring a successful DC 20 Wisdom ({@skill Perception}) check to find, holds a coffer containing six peridot jewels carved in a likeness of a dragon (worth 10 gp each)."
+										"The candle has a {@spell continual flame} spell cast on it. In the flask is a {@item potion of fire resistance}. The whistle, made of crystal, has the name {@item Night Caller|TftYP|Nachtschrei} inscribed on it in Dwarvish. See {@adventure appendix A|TftYP-TSC|2} for a description of this item. A secret compartment in the shrine, requiring a successful DC 20 Wisdom ({@skill Perception}) check to find, holds a coffer containing six peridot jewels carved in a likeness of a dragon (worth 10 gp each)."
 									],
 									"id": "0b0"
 								}
@@ -3799,7 +3873,7 @@
 									"page": 22,
 									"entries": [
 										"Three {@creature Kobold||kobolds} are bound with crude rope to the iron spike. A battered gnome lies in the cage, which is almost too small for him. It's easy to untie the kobolds. Freeing the caged gnome requires either a successful DC 15 Strength check to bend the bars or a successful DC 15 Dexterity check using thieves' tools to open the cage lock.",
-										"The kobolds are aware that the goblins might try to ransom them back to the other kobolds. Uncertain of their chances with the characters, the kobolds are unhelpful and reluctant to be set free. If they are released and shown a clear line of retreat, the kobolds flee. They know very little, but they react positively to Meepo's presence or if they are told that the characters intend to free {@creature Calcryx|TftYP}.",
+										"The kobolds are aware that the goblins might try to ransom them back to the other kobolds. Uncertain of their chances with the characters, the kobolds are unhelpful and reluctant to be set free. If they are released and shown a clear line of retreat, the kobolds flee. They know very little, but they react positively to {@creature Meepo|TftYP}'s presence or if they are told that the characters intend to free {@creature Calcryx|TftYP}.",
 										"The gnome is named {@creature Erky Timbers|TftYP}, an {@creature acolyte} with 17 ({@dice 5d6}) hit points who knows Common, Draconic, Gnomish, and Goblin. He has the cleric's Channel Divinity: Turn Undead feature, which he can use once after each short or long rest.",
 										"If he is released, he helpfully answers questions. He knows the following information:",
 										{
@@ -3945,7 +4019,7 @@
 									"page": 23,
 									"entries": [
 										"{@creature Calcryx|TftYP}, the {@creature white dragon wyrmling}, is initially out of view, resting behind a broken table. The goblins used the iron chain to bind her, but she broke free and rampaged through the room, destroying the floor displays. Balsag, the bugbear responsible for capturing the dragon, hasn't returned to bring her under control, and the other goblins fear to enter.",
-										"The wyrmling finds her current situation superior to her station as the kobolds' pet. She is hostile to those who enter this chamber. If battle breaks out and Meepo accompanies the party, the dragon targets him first."
+										"The wyrmling finds her current situation superior to her station as the kobolds' pet. She is hostile to those who enter this chamber. If battle breaks out and {@creature Meepo|TftYP} accompanies the party, the dragon targets him first."
 									],
 									"id": "0e1"
 								},

@@ -119,6 +119,14 @@ class GenTables {
 		});
 	}
 
+	async _pAddPlantData (output) {
+		return this._pAddGenericEntityData({
+			output,
+			path: `./data/plants.json`,
+			props: ["plants"],
+		});
+	}
+
 	async _pAddGenericEntityData (
 		{
 			output,
